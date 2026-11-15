@@ -1,0 +1,13 @@
+{
+  "method": "Baseline",
+  "phase": "validation",
+  "epoch": null,
+  "n": 256,
+  "EM (%)": 21.09375,
+  "F1 (%)": 43.41787216556777,
+  "mean_output_tokens": 15.078125,
+  "loss_n": 64,
+  "answer_NLL": 1.5651288784381763,
+  "answer_PPL": 4.783291359292301,
+  "TF_token_accuracy (%)": 74.30939226519337
+}

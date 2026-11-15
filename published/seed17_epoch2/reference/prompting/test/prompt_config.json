@@ -1,0 +1,32 @@
+{
+  "name": "explicit_short_3shot_from_current_train",
+  "instruction": "Extract the answer to the question from the context.\nReturn only the minimal text span that fully answers the question.\nCopy the answer from the context.\nDo not repeat the question, add an explanation, or write an \"Answer:\" prefix.\nDo not return the surrounding sentence unless the whole sentence is needed.\nStop immediately after the answer.",
+  "demonstrations": [
+    {
+      "id": "cc1f71cb6da34acfa0196e52edd59a03",
+      "context": "In 2004, madaris were mainstreamed in 16 Regions nationwide, primarily in Muslim-majority areas in Mindanao under the auspices of the Department of Education (DepEd). The DepEd adopted Department Order No. 51, which instituted Arabic-language and Islamic Values instruction for Muslim children in state schools, and authorised implementation of the Standard Madrasa Curriculum (SMC) in private-run madaris. While there are state-recognised Islamic schools, such as Ibn Siena Integrated School in the Islamic City of Marawi, Sarang Bangun LC in Zamboanga and SMIE in Jolo, their Islamic studies programmes initially varied in application and content.",
+      "question": "What curriculum is used in non public madaris in Mindanao?",
+      "article_title": "Madrasa",
+      "answer": "Standard Madrasa Curriculum (SMC)"
+    },
+    {
+      "id": "672ac665f686445dbe92f7ccd0b85fd9",
+      "context": "Often, sexual orientation and sexual orientation identity are not distinguished, which can impact accurately assessing sexual identity and whether or not sexual orientation is able to change; sexual orientation identity can change throughout an individual's life, and may or may not align with biological sex, sexual behavior or actual sexual orientation. While the Centre for Addiction and Mental Health and American Psychiatric Association state that sexual orientation is innate, continuous or fixed throughout their lives for some people, but is fluid or changes over time for others, the American Psychological Association distinguishes between sexual orientation (an innate attraction) and sexual orientation identity (which may change at any point in a person's life).",
+      "question": "What can impact accurately assesing sexual identity?",
+      "article_title": "Sexual_orientation",
+      "answer": "sexual orientation and sexual orientation identity are not distinguished"
+    },
+    {
+      "id": "b7c633b47eb545f99862f585df2cff74",
+      "context": "In the late 14th century, the Songhai gradually gained independence from the Mali Empire and expanded, ultimately subsuming the entire eastern portion of the Mali Empire. The Songhai Empire's eventual collapse was largely the result of a Moroccan invasion in 1591, under the command of Judar Pasha. The fall of the Songhai Empire marked the end of the region's role as a trading crossroads. Following the establishment of sea routes by the European powers, the trans-Saharan trade routes lost significance.",
+      "question": "What century did Songhai become independent from Mali?",
+      "article_title": "Mali",
+      "answer": "14th century"
+    }
+  ],
+  "schema_version": 1,
+  "target_template": "{instruction}\n\nContext:\n{context}\n\nQuestion: {question}\nAnswer:",
+  "demo_format": "Alternating user/assistant messages, identical instruction and task formatting",
+  "enable_thinking": false,
+  "prediction_postprocessing": "Only strip surrounding whitespace; no answer-aware extraction"
+}

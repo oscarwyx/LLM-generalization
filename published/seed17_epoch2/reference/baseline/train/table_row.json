@@ -1,0 +1,13 @@
+{
+  "method": "Baseline",
+  "phase": "train",
+  "epoch": null,
+  "n": 2048,
+  "EM (%)": 23.193359375,
+  "F1 (%)": 42.508051981920666,
+  "mean_output_tokens": 16.14306640625,
+  "loss_n": 64,
+  "answer_NLL": 1.461332106868727,
+  "answer_PPL": 4.311699348787713,
+  "TF_token_accuracy (%)": 79.79797979797979
+}

@@ -1,0 +1,13 @@
+{
+  "method": "Prompting",
+  "phase": "train",
+  "epoch": null,
+  "n": 2048,
+  "EM (%)": 24.31640625,
+  "F1 (%)": 44.99782205541744,
+  "mean_output_tokens": 15.16650390625,
+  "loss_n": 64,
+  "answer_NLL": 1.2319873858882924,
+  "answer_PPL": 3.4280356004885157,
+  "TF_token_accuracy (%)": 83.08080808080808
+}

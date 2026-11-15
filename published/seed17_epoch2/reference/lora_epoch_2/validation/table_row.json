@@ -1,0 +1,13 @@
+{
+  "method": "LoRA",
+  "phase": "validation",
+  "epoch": 2,
+  "n": 256,
+  "EM (%)": 70.3125,
+  "F1 (%)": 83.275041051844,
+  "mean_output_tokens": 5.7578125,
+  "loss_n": 64,
+  "answer_NLL": 0.22792891152743353,
+  "answer_PPL": 1.255996035418929,
+  "TF_token_accuracy (%)": 92.54143646408839
+}

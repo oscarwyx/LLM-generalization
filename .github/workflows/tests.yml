@@ -14,3 +14,7 @@ jobs:
         run: python -m unittest discover -s tests -v
         env:
           PYTHONPATH: src
+      - name: Verify published weights, data and configuration
+        run: python -m genqa pretrained --verify-only
+        env:
+          PYTHONPATH: src

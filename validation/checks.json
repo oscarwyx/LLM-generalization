@@ -1,6 +1,6 @@
 {
   "status": "passed",
-  "cpu_unit_tests": 14,
+  "cpu_unit_tests": 25,
   "raw_data_rebuild": {
     "independent_rebuilds": 2,
     "five_jsonl_files_identical": true,
@@ -663,10 +663,96 @@
     "hardware": "NVIDIA GeForce RTX 5060 Laptop GPU (8 GB)",
     "torch": "2.7.1+cu128"
   },
-  "full_2048_two_epoch_run_executed": false,
+  "full_2048_two_epoch_run_executed": true,
   "limitations": [
     "GPU smoke validates the workflow, not formal QA performance.",
     "Different hardware/software versions are not guaranteed to be bitwise identical.",
     "CPU unit tests do not inject real GPU FP16 overflow retries."
-  ]
+  ],
+  "formal_run": {
+    "source_run_id": "20261115T182055_377596Z",
+    "source_commit": "36b3ddc545d5fafbd09b0eefe1b2557f736a62b9",
+    "counts": {
+      "train": 2048,
+      "validation": 256,
+      "test": 900
+    },
+    "training_epochs": 2,
+    "optimizer_steps": 256,
+    "consumed_training_input_tokens": 939880,
+    "supervised_target_tokens": 25392,
+    "max_train_tokens": 1000000,
+    "prediction_stages_rescored": 10,
+    "test_metrics": [
+      {
+        "method": "Baseline",
+        "n": "900",
+        "EM (%)": "22.11111111111111",
+        "F1 (%)": "44.531520829758165"
+      },
+      {
+        "method": "Prompting",
+        "n": "900",
+        "EM (%)": "24.444444444444443",
+        "F1 (%)": "49.16892258653549"
+      },
+      {
+        "method": "LoRA",
+        "n": "900",
+        "EM (%)": "77.11111111111111",
+        "F1 (%)": "86.12603384257083"
+      }
+    ]
+  },
+  "published_loader_replay": {
+    "status": "passed",
+    "source_run_id": "20261115T182055_377596Z",
+    "replay_run_id": "pretrained_20261115T194517_207516Z",
+    "training_performed": false,
+    "test_examples": 900,
+    "exact_match_counts": {
+      "prediction": 900,
+      "raw_output": 900,
+      "output_tokens": 900,
+      "context": 900,
+      "question": 900,
+      "answers": 900
+    },
+    "metrics": {
+      "EM": {
+        "source": 77.11111111111111,
+        "replay": 77.11111111111111,
+        "equal": true,
+        "absolute_difference": 0.0
+      },
+      "F1": {
+        "source": 86.12603384257083,
+        "replay": 86.12603384257083,
+        "equal": true,
+        "absolute_difference": 0.0
+      },
+      "NLL": {
+        "source": 0.2827317791251356,
+        "replay": 0.2827317791251356,
+        "equal": true,
+        "absolute_difference": 0.0
+      },
+      "PPL": {
+        "source": 1.3267492522429398,
+        "replay": 1.3267492522429398,
+        "equal": true,
+        "absolute_difference": 0.0
+      },
+      "TF_token_accuracy": {
+        "source": 91.17647058823529,
+        "replay": 91.17647058823529,
+        "equal": true,
+        "absolute_difference": 0.0
+      }
+    },
+    "heldout_examples": 64,
+    "max_heldout_nll_sum_absolute_difference": 0.0,
+    "adapter_sha256": "c2e7a43bb695da3903c5406cab4bf6b22cd3d196ab488a2ec3c3588f0f925cac",
+    "note": "Answer comparisons ignore timing fields. Equality is demonstrated on this machine/software; not a cross-hardware bitwise guarantee."
+  }
 }

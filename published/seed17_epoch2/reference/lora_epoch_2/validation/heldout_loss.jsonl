@@ -1,0 +1,64 @@
+{"id": "2767d64f0ae84cfba13f0820f2b28851", "split": "validation", "reference": "2008", "target_tokens": 5, "nll_sum": 0.0049805548042058945, "teacher_forced_correct_tokens": 5}
+{"id": "3f1892ecc28644ba9b34b5af163643ea", "split": "validation", "reference": "would eliminate one or more helicopter landing areas", "target_tokens": 9, "nll_sum": 4.866032123565674, "teacher_forced_correct_tokens": 8}
+{"id": "20c4efa4d52f4f368202ca157bb7d4c3", "split": "validation", "reference": "the Middle East", "target_tokens": 4, "nll_sum": 1.3589589595794678, "teacher_forced_correct_tokens": 3}
+{"id": "9fb9407a10f6499495ac57785abe168f", "split": "validation", "reference": "Paris's house scene", "target_tokens": 5, "nll_sum": 1.5443965196609497, "teacher_forced_correct_tokens": 4}
+{"id": "d9c802929da54f68b7ff5f8fbe033fa5", "split": "validation", "reference": "Darwish Darwish", "target_tokens": 5, "nll_sum": 0.8389572501182556, "teacher_forced_correct_tokens": 4}
+{"id": "a396a5c9932d4631b8909f354e1aaa27", "split": "validation", "reference": "model building", "target_tokens": 3, "nll_sum": 0.0762857124209404, "teacher_forced_correct_tokens": 3}
+{"id": "8bb96a05d27d461eb76a1a729ffd7cfc", "split": "validation", "reference": "Terminator Genisys", "target_tokens": 7, "nll_sum": 0.1661905199289322, "teacher_forced_correct_tokens": 7}
+{"id": "18a78d3a1e54477781f5e97acbdbb2e3", "split": "validation", "reference": "80%", "target_tokens": 4, "nll_sum": 0.11938375234603882, "teacher_forced_correct_tokens": 4}
+{"id": "558b02eb7eee49bb80487696101b7de0", "split": "validation", "reference": "one out of four", "target_tokens": 5, "nll_sum": 0.050021346658468246, "teacher_forced_correct_tokens": 5}
+{"id": "b615520122f5492ea3c4723dbc78b9c1", "split": "validation", "reference": "scheduling difficulties between the candidates", "target_tokens": 7, "nll_sum": 0.5748190879821777, "teacher_forced_correct_tokens": 7}
+{"id": "b4272e00dd184e01806ed21bbfa7cb10", "split": "validation", "reference": "short day", "target_tokens": 3, "nll_sum": 0.45539531111717224, "teacher_forced_correct_tokens": 3}
+{"id": "a5fee10197974f40ab87c565aa3424d2", "split": "validation", "reference": "Latin", "target_tokens": 2, "nll_sum": 0.46130624413490295, "teacher_forced_correct_tokens": 2}
+{"id": "a4709aca345f4690b3029db043b2526a", "split": "validation", "reference": "Armenian and Middle Eastern folk instruments (often electrified/amplified) and some western instruments", "target_tokens": 21, "nll_sum": 1.8709301948547363, "teacher_forced_correct_tokens": 21}
+{"id": "8e51932e7a87442c8fe4ad5dd4dec8d2", "split": "validation", "reference": "1930s", "target_tokens": 6, "nll_sum": 0.3452163338661194, "teacher_forced_correct_tokens": 6}
+{"id": "b8726ce39b154029917f30ae631b98c9", "split": "validation", "reference": "chairman", "target_tokens": 3, "nll_sum": 0.03208889439702034, "teacher_forced_correct_tokens": 3}
+{"id": "044a70883c854045a3bc4140bf97816f", "split": "validation", "reference": "1927", "target_tokens": 5, "nll_sum": 0.7183824777603149, "teacher_forced_correct_tokens": 5}
+{"id": "cd63ba8341534916acb4b6aabe9384e5", "split": "validation", "reference": "Nestorius", "target_tokens": 5, "nll_sum": 0.07621631026268005, "teacher_forced_correct_tokens": 5}
+{"id": "eb71a0048d584539b4bb341d63b437e1", "split": "validation", "reference": "oak", "target_tokens": 3, "nll_sum": 0.32015347480773926, "teacher_forced_correct_tokens": 3}
+{"id": "034bd624eccf4519a4b2299abf510949", "split": "validation", "reference": "insecticides", "target_tokens": 4, "nll_sum": 0.21979430317878723, "teacher_forced_correct_tokens": 4}
+{"id": "b5edec44e1bf4447a236cbb1f0614c2b", "split": "validation", "reference": "private laws", "target_tokens": 3, "nll_sum": 3.4144394397735596, "teacher_forced_correct_tokens": 1}
+{"id": "0be67daba8e340ee88e5bd176ee78b4a", "split": "validation", "reference": "New York University", "target_tokens": 4, "nll_sum": 0.04331667721271515, "teacher_forced_correct_tokens": 4}
+{"id": "05db900aa4d94cadba20c4ef3055a588", "split": "validation", "reference": "a natural harbour", "target_tokens": 4, "nll_sum": 0.6317510604858398, "teacher_forced_correct_tokens": 4}
+{"id": "d42fddb7d3614397920970449240765f", "split": "validation", "reference": "Appalachians", "target_tokens": 4, "nll_sum": 0.12546440958976746, "teacher_forced_correct_tokens": 4}
+{"id": "2bb92762bf504fad9a2d31c27b8cca47", "split": "validation", "reference": "ovaries", "target_tokens": 3, "nll_sum": 0.14197012782096863, "teacher_forced_correct_tokens": 3}
+{"id": "3320832baa9848fd86e915f1e6c208c8", "split": "validation", "reference": "dialect and phonetic environment", "target_tokens": 7, "nll_sum": 1.7502496242523193, "teacher_forced_correct_tokens": 6}
+{"id": "0a55c9629d204ffb98db7e9977409a86", "split": "validation", "reference": "handwriting", "target_tokens": 3, "nll_sum": 0.16846579313278198, "teacher_forced_correct_tokens": 3}
+{"id": "c303f808a82b449aabf0c94d3280d186", "split": "validation", "reference": "the Church of England", "target_tokens": 5, "nll_sum": 0.7329707741737366, "teacher_forced_correct_tokens": 5}
+{"id": "92e400d7d38943989ce793018d3e3a7a", "split": "validation", "reference": "behind the hypopharynx", "target_tokens": 8, "nll_sum": 0.029019491747021675, "teacher_forced_correct_tokens": 8}
+{"id": "5120e0cda69d4371b26164ad9ff06ee7", "split": "validation", "reference": "quoting Plato", "target_tokens": 4, "nll_sum": 14.511876106262207, "teacher_forced_correct_tokens": 1}
+{"id": "25e7f138228d4a86ae491595cd33e0f4", "split": "validation", "reference": "Constitution of 1789", "target_tokens": 9, "nll_sum": 1.2537729740142822, "teacher_forced_correct_tokens": 8}
+{"id": "616a4cc1d41c4eb69a60533b7790bd89", "split": "validation", "reference": "Theodor Herzl", "target_tokens": 5, "nll_sum": 0.04832959547638893, "teacher_forced_correct_tokens": 5}
+{"id": "d69e26bc1c2047cf950cbfb924d9cbac", "split": "validation", "reference": "Arundo donax", "target_tokens": 5, "nll_sum": 0.10110211372375488, "teacher_forced_correct_tokens": 5}
+{"id": "0f9f2726bdcc421387c5240be37b2210", "split": "validation", "reference": "Canada", "target_tokens": 2, "nll_sum": 2.7783403396606445, "teacher_forced_correct_tokens": 1}
+{"id": "32253e1d2a204f93b7cc3b0f450abfc1", "split": "validation", "reference": "John Williams", "target_tokens": 3, "nll_sum": 0.021401338279247284, "teacher_forced_correct_tokens": 3}
+{"id": "3ca2076b13c444e18d25c67b5bc75871", "split": "validation", "reference": "fishing", "target_tokens": 3, "nll_sum": 0.005349164828658104, "teacher_forced_correct_tokens": 3}
+{"id": "f8275670cd2b42a8a2c0888f0205b3f0", "split": "validation", "reference": "on the pretext of use as a floating casino", "target_tokens": 10, "nll_sum": 1.1864922046661377, "teacher_forced_correct_tokens": 10}
+{"id": "9f4c61fb266246acb2b15bec8a72adde", "split": "validation", "reference": "Maya Angelou", "target_tokens": 5, "nll_sum": 0.008065415546298027, "teacher_forced_correct_tokens": 5}
+{"id": "bc0eb905e84e4d108399407760e55e61", "split": "validation", "reference": "they were Christians", "target_tokens": 4, "nll_sum": 1.1996370553970337, "teacher_forced_correct_tokens": 4}
+{"id": "3f280280ecd84e5c81e0210ee276e781", "split": "validation", "reference": "Germany", "target_tokens": 2, "nll_sum": 0.2975851893424988, "teacher_forced_correct_tokens": 2}
+{"id": "bebe37b2a0314d16b44024ece5fa3592", "split": "validation", "reference": "8", "target_tokens": 2, "nll_sum": 2.28169846534729, "teacher_forced_correct_tokens": 1}
+{"id": "180b7933b4934a8fadaf964d2228a34b", "split": "validation", "reference": "instrument landing system", "target_tokens": 4, "nll_sum": 2.6889870166778564, "teacher_forced_correct_tokens": 3}
+{"id": "f63224becb4c4c9fb4415ee7d3a789e7", "split": "validation", "reference": "worn or damaged", "target_tokens": 5, "nll_sum": 7.766291618347168, "teacher_forced_correct_tokens": 3}
+{"id": "b1cd74ee047c4bfaabaea9d6607502b9", "split": "validation", "reference": "Jewel's Catch One", "target_tokens": 7, "nll_sum": 0.014470535330474377, "teacher_forced_correct_tokens": 7}
+{"id": "551ec060844041c59d6fb63084761b05", "split": "validation", "reference": "Banco Republica", "target_tokens": 5, "nll_sum": 0.6839075684547424, "teacher_forced_correct_tokens": 5}
+{"id": "0f460cd29e47409f957085b77e66f7f2", "split": "validation", "reference": "pleural origin", "target_tokens": 4, "nll_sum": 0.6944764852523804, "teacher_forced_correct_tokens": 4}
+{"id": "877641cd244e4eb38c1b8d5f36354902", "split": "validation", "reference": "The Expression of the Emotions in Man and Animals", "target_tokens": 11, "nll_sum": 0.053437769412994385, "teacher_forced_correct_tokens": 11}
+{"id": "04001c451c1e4091967119ffd8e33922", "split": "validation", "reference": "Importes Etc", "target_tokens": 5, "nll_sum": 2.8302488327026367, "teacher_forced_correct_tokens": 4}
+{"id": "5e62da2b74f24ad18fb8db792289588d", "split": "validation", "reference": "Near East", "target_tokens": 3, "nll_sum": 1.1535279750823975, "teacher_forced_correct_tokens": 2}
+{"id": "b6f8bc0ef6914af0810c51e122cb29b8", "split": "validation", "reference": "Sega Genesis and then the PlayStation", "target_tokens": 8, "nll_sum": 0.3778682351112366, "teacher_forced_correct_tokens": 8}
+{"id": "f30af6d98b284b67999a986e9bc07e5e", "split": "validation", "reference": "Larry Heard", "target_tokens": 3, "nll_sum": 0.011492116376757622, "teacher_forced_correct_tokens": 3}
+{"id": "032074312a4343b9bb6892b6eb6d2917", "split": "validation", "reference": "three", "target_tokens": 2, "nll_sum": 0.05029677599668503, "teacher_forced_correct_tokens": 2}
+{"id": "ca4c9b503a714920aff13be4596426fd", "split": "validation", "reference": "a free service to civilians and licensed service to the Chinese government and military", "target_tokens": 15, "nll_sum": 2.059415340423584, "teacher_forced_correct_tokens": 14}
+{"id": "0fdbe39987d54e9eb10725d9c15b99d2", "split": "validation", "reference": "the National Museum of Visual Arts", "target_tokens": 7, "nll_sum": 2.9685821533203125, "teacher_forced_correct_tokens": 6}
+{"id": "c0ca581cbb894cec856d3fd991ce2142", "split": "validation", "reference": "Jewish and democratic state", "target_tokens": 6, "nll_sum": 0.41933757066726685, "teacher_forced_correct_tokens": 6}
+{"id": "0d04bcef80874e61b1ee98ff35885ff9", "split": "validation", "reference": "six", "target_tokens": 2, "nll_sum": 0.028569534420967102, "teacher_forced_correct_tokens": 2}
+{"id": "65aad95b73784a8faa28f0151e406656", "split": "validation", "reference": "eight", "target_tokens": 2, "nll_sum": 1.9888638257980347, "teacher_forced_correct_tokens": 1}
+{"id": "257428a270b0455290d4832c5681a187", "split": "validation", "reference": "sexual reproduction", "target_tokens": 3, "nll_sum": 1.7448277473449707, "teacher_forced_correct_tokens": 2}
+{"id": "e4235e586daa4fee81a31be23f3e503f", "split": "validation", "reference": "Tel Aviv", "target_tokens": 3, "nll_sum": 0.002206485252827406, "teacher_forced_correct_tokens": 3}
+{"id": "b17fcd6b207b4c0bbc597827f8e26578", "split": "validation", "reference": "the Rockingham Whigs", "target_tokens": 6, "nll_sum": 1.38798189163208, "teacher_forced_correct_tokens": 5}
+{"id": "80bfff38f7f84fd1aa525997e9950e35", "split": "validation", "reference": "Catholics, Lutherans, Calvinists, Jews and Anabaptists", "target_tokens": 17, "nll_sum": 0.34783121943473816, "teacher_forced_correct_tokens": 17}
+{"id": "067ed29eb6e744cda4da62f6c61083b2", "split": "validation", "reference": "1,176", "target_tokens": 6, "nll_sum": 0.5426927804946899, "teacher_forced_correct_tokens": 6}
+{"id": "8db1968aa45f4ceaa830540ea3150255", "split": "validation", "reference": "humid subtropical", "target_tokens": 5, "nll_sum": 1.776250958442688, "teacher_forced_correct_tokens": 4}
+{"id": "8dcf016856944b9ba09a53785669cfa6", "split": "validation", "reference": "emerging markets", "target_tokens": 4, "nll_sum": 0.10696399956941605, "teacher_forced_correct_tokens": 4}
+{"id": "ed5987b7a4844df6b5fd687c1ce183e0", "split": "validation", "reference": "The cultural centers of the Greeks have included Athens, Thessalonica, Alexandria, Smyrna, and Constantinople at various periods.", "target_tokens": 28, "nll_sum": 7.980930805206299, "teacher_forced_correct_tokens": 25}

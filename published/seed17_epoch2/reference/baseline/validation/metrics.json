@@ -1,0 +1,87 @@
+{
+  "scale": "0-100 (percent)",
+  "scorer": "SQuAD1.1/MRQA official normalization and multi-reference max",
+  "overall": {
+    "n": 256,
+    "em": 21.09375,
+    "f1": 43.41787216556777,
+    "precision": 38.467997262860976,
+    "recall": 67.91515661787044,
+    "empty_prediction_n": 0,
+    "generation_capped_n": 8,
+    "context_truncated_n": 0,
+    "prediction_longer_than_longest_reference_n": 153,
+    "exact_match_n": 54,
+    "zero_f1_n": 68,
+    "mean_normalized_prediction_words": 8.53125,
+    "mean_longest_reference_words": 2.875,
+    "mean_output_tokens": 15.078125,
+    "median_output_tokens": 11.0,
+    "empty_prediction_rate_pct": 0.0,
+    "generation_capped_rate_pct": 3.125,
+    "context_truncated_rate_pct": 0.0,
+    "prediction_longer_than_longest_reference_rate_pct": 59.765625,
+    "exact_match_rate_pct": 21.09375,
+    "zero_f1_rate_pct": 26.5625,
+    "n_articles": 43
+  },
+  "overall_note": "Question-weighted diagnostic; report each split separately",
+  "by_split": [
+    {
+      "split": "validation",
+      "n": 256,
+      "em": 21.09375,
+      "f1": 43.41787216556777,
+      "precision": 38.467997262860976,
+      "recall": 67.91515661787044,
+      "empty_prediction_n": 0,
+      "generation_capped_n": 8,
+      "context_truncated_n": 0,
+      "prediction_longer_than_longest_reference_n": 153,
+      "exact_match_n": 54,
+      "zero_f1_n": 68,
+      "mean_normalized_prediction_words": 8.53125,
+      "mean_longest_reference_words": 2.875,
+      "mean_output_tokens": 15.078125,
+      "median_output_tokens": 11.0,
+      "empty_prediction_rate_pct": 0.0,
+      "generation_capped_rate_pct": 3.125,
+      "context_truncated_rate_pct": 0.0,
+      "prediction_longer_than_longest_reference_rate_pct": 59.765625,
+      "exact_match_rate_pct": 21.09375,
+      "zero_f1_rate_pct": 26.5625,
+      "n_articles": 43
+    }
+  ],
+  "complete": true,
+  "n_predictions": 256,
+  "heldout_loss": {
+    "validation": {
+      "n": 64,
+      "target_tokens": 362,
+      "answer_nll": 1.5651288784381763,
+      "answer_perplexity": 4.783291359292301,
+      "teacher_forced_token_accuracy": 74.30939226519337
+    }
+  },
+  "parameters_updated_during_evaluation": 0,
+  "training": {
+    "performed_during_evaluation": false,
+    "training_loss": null,
+    "training_accuracy": null
+  },
+  "runtime": {
+    "generation_seconds": 97.39174860002822,
+    "examples_per_second": 2.6285594383498503,
+    "output_tokens_per_second": 39.63374778136884,
+    "median_batch_seconds": 1.3722010000055889,
+    "generation_peak_allocated_gib": 1.4275970458984375,
+    "all_stages_peak_allocated_gib": 1.4275970458984375
+  },
+  "output_token_definition": "Generated tokens including EOS when present; excludes padding",
+  "teacher_forced_accuracy_scale": "0-100 in heldout_loss",
+  "artifact_hashes": {
+    "predictions.jsonl": "e66cf57200ca333126384f47e7d608e680e989b8fe6e0207ef675baad9524225",
+    "heldout_loss.jsonl": "6d50bc0a992d7eb8b21ecb6ba620bbb749a8d54cca25190f4083ac1ad3215f6f"
+  }
+}

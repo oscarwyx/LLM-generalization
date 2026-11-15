@@ -1,0 +1,13 @@
+{
+  "method": "LoRA",
+  "phase": "train",
+  "epoch": 2,
+  "n": 2048,
+  "EM (%)": 84.86328125,
+  "F1 (%)": 92.22704196464608,
+  "mean_output_tokens": 5.921875,
+  "loss_n": 64,
+  "answer_NLL": 0.13184233794736705,
+  "answer_PPL": 1.1409284239690465,
+  "TF_token_accuracy (%)": 95.70707070707071
+}

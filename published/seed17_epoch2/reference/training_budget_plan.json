@@ -1,0 +1,15 @@
+{
+  "n": 2048,
+  "epochs": 2,
+  "max_train_tokens": 1000000,
+  "per_epoch_nonpadding_input_tokens": 469940,
+  "per_epoch_supervised_target_tokens": 12696,
+  "planned_nonpadding_input_tokens": 939880,
+  "planned_supervised_target_tokens": 25392,
+  "planned_examples_presented": 4096,
+  "tokenized_rows_sha256": "c79eb8850b5f2e8bcd14eed908491c0f4900435b529b11074d53a4a1fa6f55b8",
+  "token_definition": "Non-padding prompt + first reference answer + EOS for each training microbatch presentation, including retries; excludes internal activation-checkpoint recomputation and frozen-base pretraining.",
+  "padding_counted_in_budget": false,
+  "retries_counted_in_actual_budget": true,
+  "padding_note": "Actual per-micro-batch padded token slots are logged separately; not a FLOP count."
+}

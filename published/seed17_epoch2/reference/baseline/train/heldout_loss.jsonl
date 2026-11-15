@@ -1,0 +1,64 @@
+{"id": "c41e12645e19406bb7978b8114ee30ce", "split": "train", "reference": "African-Americans", "target_tokens": 4, "nll_sum": 4.201381206512451, "teacher_forced_correct_tokens": 3}
+{"id": "85a2ed9ec12b443d88135e38a4baf1ff", "split": "train", "reference": "100 percent", "target_tokens": 5, "nll_sum": 1.8498327732086182, "teacher_forced_correct_tokens": 4}
+{"id": "ec92573e8d704dc2b31fad60c9a2ed4c", "split": "train", "reference": "cleaning-up", "target_tokens": 4, "nll_sum": 16.038063049316406, "teacher_forced_correct_tokens": 2}
+{"id": "c5da5f98c5d94b399aea5c8ba0b2c9b1", "split": "train", "reference": "1983", "target_tokens": 5, "nll_sum": 0.8568956255912781, "teacher_forced_correct_tokens": 5}
+{"id": "bef5259eb1724764911dafff6e4972e2", "split": "train", "reference": "the Latin Union", "target_tokens": 4, "nll_sum": 7.492001056671143, "teacher_forced_correct_tokens": 3}
+{"id": "ae9282b7a99649e1bc3de8b1d6a36d68", "split": "train", "reference": "Passive air defence", "target_tokens": 5, "nll_sum": 14.272628784179688, "teacher_forced_correct_tokens": 3}
+{"id": "6f2d60621b9444a4a1992f047126af26", "split": "train", "reference": "1973", "target_tokens": 5, "nll_sum": 0.05996192991733551, "teacher_forced_correct_tokens": 5}
+{"id": "51de5dc32fa44c91912280f1a92b7867", "split": "train", "reference": "1877", "target_tokens": 5, "nll_sum": 0.009878047741949558, "teacher_forced_correct_tokens": 5}
+{"id": "e39200aa061f43fabb9ae825d3aec67a", "split": "train", "reference": "Guy Ritchie", "target_tokens": 4, "nll_sum": 0.5238592624664307, "teacher_forced_correct_tokens": 4}
+{"id": "c0524645f71e434590a9a24baffeb96a", "split": "train", "reference": "1810", "target_tokens": 5, "nll_sum": 0.01941853016614914, "teacher_forced_correct_tokens": 5}
+{"id": "30b298bb59e440f9a8030aba7204f2d2", "split": "train", "reference": "Delhi Transport Corporation (DTC)", "target_tokens": 9, "nll_sum": 0.3592637777328491, "teacher_forced_correct_tokens": 9}
+{"id": "9b2806321b8041d88a1cd11cef9e5794", "split": "train", "reference": "July 31, 2012", "target_tokens": 11, "nll_sum": 1.8288769721984863, "teacher_forced_correct_tokens": 10}
+{"id": "ed0897e3858541a8904debb628fb1c85", "split": "train", "reference": "Leo Tolstoy", "target_tokens": 5, "nll_sum": 6.069057464599609, "teacher_forced_correct_tokens": 3}
+{"id": "09f76b922ea546aabb8d29a85d10d0d3", "split": "train", "reference": "improve considerably", "target_tokens": 4, "nll_sum": 17.97127914428711, "teacher_forced_correct_tokens": 1}
+{"id": "35f63bf699ec4aef8d3b44dfc27ffba3", "split": "train", "reference": "separate from the actual MP3 frame data", "target_tokens": 10, "nll_sum": 16.824514389038086, "teacher_forced_correct_tokens": 8}
+{"id": "e39895cc46774886ba98847133f6cf3a", "split": "train", "reference": "1837", "target_tokens": 5, "nll_sum": 0.06697415560483932, "teacher_forced_correct_tokens": 5}
+{"id": "7c0174dc050946c496418d3ca3bb7ec2", "split": "train", "reference": "December 3", "target_tokens": 4, "nll_sum": 1.0539214611053467, "teacher_forced_correct_tokens": 3}
+{"id": "4b5046f1bf8245778784a54998ab0d89", "split": "train", "reference": "1928–present", "target_tokens": 7, "nll_sum": 2.187187671661377, "teacher_forced_correct_tokens": 6}
+{"id": "4c59b8aebb5c4176b6947c0543d7b773", "split": "train", "reference": "Canberra", "target_tokens": 3, "nll_sum": 3.694795608520508, "teacher_forced_correct_tokens": 2}
+{"id": "c944606e0eca4db8b91fcb0da571aff9", "split": "train", "reference": "resources could be targeted to the communities at greatest risk", "target_tokens": 11, "nll_sum": 18.060699462890625, "teacher_forced_correct_tokens": 9}
+{"id": "4fe6db6aebd744e498c78243b41ec8f7", "split": "train", "reference": "Simon Fuller", "target_tokens": 3, "nll_sum": 4.585875988006592, "teacher_forced_correct_tokens": 2}
+{"id": "227aef3f51254a07af41c3c59dcf8312", "split": "train", "reference": "Hungary, France and Norway", "target_tokens": 7, "nll_sum": 9.370588302612305, "teacher_forced_correct_tokens": 5}
+{"id": "9d72fa68668b40bb9642f95c7f7d8f22", "split": "train", "reference": "blond and blue/green-eyed white", "target_tokens": 9, "nll_sum": 35.39434814453125, "teacher_forced_correct_tokens": 7}
+{"id": "aa56b08fd0c74cc7a840209e9f044496", "split": "train", "reference": "cotton-top tamarin", "target_tokens": 6, "nll_sum": 18.05959129333496, "teacher_forced_correct_tokens": 5}
+{"id": "1b2c32d171aa48d8a5e2e92f62f4b35e", "split": "train", "reference": "monstrous births from union between species, and spontaneous generation of life.", "target_tokens": 16, "nll_sum": 5.787407875061035, "teacher_forced_correct_tokens": 15}
+{"id": "b341db26700e4eda91ebbc8ca6aca242", "split": "train", "reference": "Treaty of Nanking", "target_tokens": 7, "nll_sum": 10.489425659179688, "teacher_forced_correct_tokens": 5}
+{"id": "033156b0b4244f898c0d457dbcc43488", "split": "train", "reference": "Wesley Clark", "target_tokens": 5, "nll_sum": 11.218931198120117, "teacher_forced_correct_tokens": 3}
+{"id": "8b2e4a7c15c549229a5d8693d03df80a", "split": "train", "reference": "1820s", "target_tokens": 6, "nll_sum": 0.6483461260795593, "teacher_forced_correct_tokens": 6}
+{"id": "1e151281ffb044659f78bfa2dfa1f340", "split": "train", "reference": "neutral", "target_tokens": 2, "nll_sum": 8.708276748657227, "teacher_forced_correct_tokens": 1}
+{"id": "eed5e08c46114de38c4b831464da14ea", "split": "train", "reference": "98", "target_tokens": 3, "nll_sum": 0.007082107476890087, "teacher_forced_correct_tokens": 3}
+{"id": "d04b6cb3dada450fa89f3727232fdffb", "split": "train", "reference": "Mongol Yuan", "target_tokens": 5, "nll_sum": 35.23267364501953, "teacher_forced_correct_tokens": 3}
+{"id": "f95828f0a973492caa77ac55b2ed7280", "split": "train", "reference": "about 50%", "target_tokens": 6, "nll_sum": 6.18551778793335, "teacher_forced_correct_tokens": 5}
+{"id": "72b64abd20a34284b0e98d3e42273ad4", "split": "train", "reference": "8,448", "target_tokens": 6, "nll_sum": 2.4936106204986572, "teacher_forced_correct_tokens": 5}
+{"id": "f126a02f2961464d947a30d31916aa75", "split": "train", "reference": "The Sahara", "target_tokens": 3, "nll_sum": 24.541927337646484, "teacher_forced_correct_tokens": 1}
+{"id": "df24d7f446d24a949fb319a417371c3d", "split": "train", "reference": "The Oklahoma City National Memorial", "target_tokens": 6, "nll_sum": 10.32756233215332, "teacher_forced_correct_tokens": 4}
+{"id": "a4346bcb840d4793b587e7ebd593c1dc", "split": "train", "reference": "85.0%", "target_tokens": 6, "nll_sum": 1.081884503364563, "teacher_forced_correct_tokens": 6}
+{"id": "4248e6be30964500a44dedc40432102e", "split": "train", "reference": "Jean-Jacques Rousseau", "target_tokens": 7, "nll_sum": 3.345428466796875, "teacher_forced_correct_tokens": 6}
+{"id": "c46e6f00f0a945db9a72a9b7d28ebaf2", "split": "train", "reference": ". These labels thereby ignore the individual's personal sense of gender identity taking precedence over biological sex, rather than the other way around", "target_tokens": 26, "nll_sum": 41.233158111572266, "teacher_forced_correct_tokens": 23}
+{"id": "852cdd72ca664644b5280c5c923d81e1", "split": "train", "reference": "feed and clothe", "target_tokens": 5, "nll_sum": 18.465097427368164, "teacher_forced_correct_tokens": 3}
+{"id": "399d3afbe75a47d99b75cd59d52908bc", "split": "train", "reference": "Proteins", "target_tokens": 4, "nll_sum": 21.247318267822266, "teacher_forced_correct_tokens": 2}
+{"id": "6e8c8ce26b654f1a8d41a8efbcbc0c45", "split": "train", "reference": "'gifts' and biased information", "target_tokens": 8, "nll_sum": 19.074254989624023, "teacher_forced_correct_tokens": 5}
+{"id": "fb2f1c60e54444a4870849a4f7491b7e", "split": "train", "reference": "short range", "target_tokens": 3, "nll_sum": 7.16294002532959, "teacher_forced_correct_tokens": 2}
+{"id": "1ab5f50a8ba54aefafc90b14928592f1", "split": "train", "reference": "Muslim Brotherhood", "target_tokens": 3, "nll_sum": 4.337915897369385, "teacher_forced_correct_tokens": 1}
+{"id": "9d082e554b714a7a8ba3ce32bdaed4c4", "split": "train", "reference": "a \"start codon\", and three \"stop codons\"", "target_tokens": 14, "nll_sum": 7.114620685577393, "teacher_forced_correct_tokens": 12}
+{"id": "39a9e7ab77c941bbb4df788659bfbfb4", "split": "train", "reference": "121st", "target_tokens": 5, "nll_sum": 1.9766688346862793, "teacher_forced_correct_tokens": 4}
+{"id": "83f82b5f237245a2b7a257e8edd8ef60", "split": "train", "reference": "rubia tinctorum", "target_tokens": 6, "nll_sum": 1.1463011503219604, "teacher_forced_correct_tokens": 6}
+{"id": "80a99e05630b49e7bc2827b7bfe6352c", "split": "train", "reference": "southern and central", "target_tokens": 6, "nll_sum": 18.85094451904297, "teacher_forced_correct_tokens": 4}
+{"id": "12dcce0e5ff4419884a6c5e848753039", "split": "train", "reference": "68,636", "target_tokens": 7, "nll_sum": 0.02834874764084816, "teacher_forced_correct_tokens": 7}
+{"id": "1b60e2d959ed4377aea15952ea024b06", "split": "train", "reference": "four-week period", "target_tokens": 4, "nll_sum": 12.740449905395508, "teacher_forced_correct_tokens": 1}
+{"id": "6f0be776e33e4513a8c34161c492ec56", "split": "train", "reference": "$1.1 billion", "target_tokens": 6, "nll_sum": 1.3507243394851685, "teacher_forced_correct_tokens": 5}
+{"id": "acf3c07dae6247788e93f9d8e19ac445", "split": "train", "reference": "June 2009", "target_tokens": 7, "nll_sum": 2.796309471130371, "teacher_forced_correct_tokens": 5}
+{"id": "4cdc8c9ad3034030b786509de2d3f70d", "split": "train", "reference": "season four", "target_tokens": 3, "nll_sum": 11.201605796813965, "teacher_forced_correct_tokens": 1}
+{"id": "cb12dcbe7c544fdda09ff9a5a85eaf7b", "split": "train", "reference": "nearly 10 percent", "target_tokens": 7, "nll_sum": 13.63050365447998, "teacher_forced_correct_tokens": 5}
+{"id": "83e1ea2c970d499c81228420d4f97ad9", "split": "train", "reference": "3 month", "target_tokens": 3, "nll_sum": 0.9737810492515564, "teacher_forced_correct_tokens": 2}
+{"id": "a5455896d87a46619b876ab1d0bff3ce", "split": "train", "reference": "fruit flies", "target_tokens": 3, "nll_sum": 1.054464340209961, "teacher_forced_correct_tokens": 3}
+{"id": "b2d883d0d68641d1b049cdbbf478f740", "split": "train", "reference": "Saffron Revolution", "target_tokens": 5, "nll_sum": 0.683013916015625, "teacher_forced_correct_tokens": 5}
+{"id": "59e024fc33914d1783265d788d3cc1cb", "split": "train", "reference": "1990s", "target_tokens": 6, "nll_sum": 6.846876621246338, "teacher_forced_correct_tokens": 5}
+{"id": "445bc0924af146fe979a2a36f5270e17", "split": "train", "reference": "£50,000 to £60,000", "target_tokens": 16, "nll_sum": 3.8888306617736816, "teacher_forced_correct_tokens": 15}
+{"id": "c2d8d007fc5547f7bfe76547af450f0c", "split": "train", "reference": "starting", "target_tokens": 2, "nll_sum": 40.954315185546875, "teacher_forced_correct_tokens": 0}
+{"id": "8f7c88d4ccca421881060fa110a79691", "split": "train", "reference": "heresy", "target_tokens": 3, "nll_sum": 14.884014129638672, "teacher_forced_correct_tokens": 2}
+{"id": "c272de256e964aa1862b1c01f0fb1b84", "split": "train", "reference": "NGC Magazine", "target_tokens": 4, "nll_sum": 8.517945289611816, "teacher_forced_correct_tokens": 2}
+{"id": "a408ff3d7eb942c8a681032f96dc7bd5", "split": "train", "reference": "Murad I", "target_tokens": 4, "nll_sum": 13.947896003723145, "teacher_forced_correct_tokens": 3}
+{"id": "f38d86af570745f6b0b4cc15660f6291", "split": "train", "reference": "March 30, 2015", "target_tokens": 11, "nll_sum": 2.8180127143859863, "teacher_forced_correct_tokens": 10}
+{"id": "05f1825472fa443297c032b30d38ae44", "split": "train", "reference": "January 2011", "target_tokens": 7, "nll_sum": 0.8422340750694275, "teacher_forced_correct_tokens": 6}

@@ -1,0 +1,64 @@
+{"id": "de2c1e2b407948b69023e05b6b0ffa5b", "split": "squad_test", "reference": "every four years", "target_tokens": 4, "nll_sum": 1.0510553121566772, "teacher_forced_correct_tokens": 3}
+{"id": "cb16aec0fb08479690b854e2f2da5781", "split": "squad_test", "reference": "Michael E. Mann, Raymond S. Bradley and Malcolm K. Hughes", "target_tokens": 15, "nll_sum": 0.3368794023990631, "teacher_forced_correct_tokens": 15}
+{"id": "8318a365335f40bb89d76f1c116b32d2", "split": "squad_test", "reference": "more expensive", "target_tokens": 3, "nll_sum": 1.3170177936553955, "teacher_forced_correct_tokens": 2}
+{"id": "67f646cfcca6445dabe631ed36c2aeec", "split": "squad_test", "reference": "Battle of Sainte-Foy", "target_tokens": 7, "nll_sum": 0.11571744084358215, "teacher_forced_correct_tokens": 7}
+{"id": "06963072fb42419f8f03c80ce2b62313", "split": "squad_test", "reference": "packet switching", "target_tokens": 3, "nll_sum": 0.022921796888113022, "teacher_forced_correct_tokens": 3}
+{"id": "5abb557cc5184a3d940a509bc98c97fe", "split": "squad_test", "reference": "God's wrath to Christians", "target_tokens": 6, "nll_sum": 1.4200648069381714, "teacher_forced_correct_tokens": 5}
+{"id": "5fd1625c513645899e15c0ee1c4d45ac", "split": "squad_test", "reference": "macrophages, neutrophils, and dendritic cells", "target_tokens": 13, "nll_sum": 0.046361058950424194, "teacher_forced_correct_tokens": 13}
+{"id": "78e6603b3191453f8f9289ae4aa0e68f", "split": "squad_test", "reference": "in some C3 angiosperms, and even some gymnosperms", "target_tokens": 15, "nll_sum": 6.32847261428833, "teacher_forced_correct_tokens": 12}
+{"id": "2fd189aa5cbf49968728fc7cac548441", "split": "squad_test", "reference": "1638", "target_tokens": 5, "nll_sum": 0.0122614037245512, "teacher_forced_correct_tokens": 5}
+{"id": "7f6a16398466480d902cf961dacfdaaa", "split": "squad_test", "reference": "51,300 pounds", "target_tokens": 8, "nll_sum": 1.3967524766921997, "teacher_forced_correct_tokens": 8}
+{"id": "ad033dbfc1974f5585839091ab6a931c", "split": "squad_test", "reference": "120 m", "target_tokens": 5, "nll_sum": 0.7263006567955017, "teacher_forced_correct_tokens": 4}
+{"id": "e74c2017c6fd449280dcf92c204c956d", "split": "squad_test", "reference": "1,000 m3/s (35,000 cu ft/s),", "target_tokens": 20, "nll_sum": 7.43002462387085, "teacher_forced_correct_tokens": 17}
+{"id": "8f30365164ae4b66ada5e4e953a7fb0c", "split": "squad_test", "reference": "in a glass case", "target_tokens": 5, "nll_sum": 0.8586532473564148, "teacher_forced_correct_tokens": 4}
+{"id": "c3b52f222b7a472ea5f0b00f350f9836", "split": "squad_test", "reference": "Stock", "target_tokens": 2, "nll_sum": 13.950248718261719, "teacher_forced_correct_tokens": 0}
+{"id": "49199a014d414bd28caa876ce6ce34fd", "split": "squad_test", "reference": "joining the easterly flow toward the Atlantic.", "target_tokens": 11, "nll_sum": 11.617842674255371, "teacher_forced_correct_tokens": 9}
+{"id": "afa4aef872e54a1aa756fa611892ec94", "split": "squad_test", "reference": "Northern United Kingdom", "target_tokens": 4, "nll_sum": 0.8582454919815063, "teacher_forced_correct_tokens": 4}
+{"id": "60b4cfae32d34d7781183a914f1c8754", "split": "squad_test", "reference": "a small number of MSPs", "target_tokens": 7, "nll_sum": 0.8895387649536133, "teacher_forced_correct_tokens": 7}
+{"id": "807c479ac64546dead4ed38c9e68468e", "split": "squad_test", "reference": "the journal Nature", "target_tokens": 4, "nll_sum": 2.2114081382751465, "teacher_forced_correct_tokens": 3}
+{"id": "32a8521090fe47c3910c7c5d0dd4f09f", "split": "squad_test", "reference": "667,000 firms", "target_tokens": 9, "nll_sum": 2.873652935028076, "teacher_forced_correct_tokens": 8}
+{"id": "a45276cfbd144498bc9563121c808e1f", "split": "squad_test", "reference": "November 22", "target_tokens": 5, "nll_sum": 1.0055052042007446, "teacher_forced_correct_tokens": 4}
+{"id": "7478f896c6cd41cf8e5d8ace2ae51c49", "split": "squad_test", "reference": "placebo", "target_tokens": 3, "nll_sum": 5.097193717956543, "teacher_forced_correct_tokens": 1}
+{"id": "e06dff4e3e3a46b18fd0252fa9399cb2", "split": "squad_test", "reference": "confirmation and membership preparation classes", "target_tokens": 6, "nll_sum": 10.147616386413574, "teacher_forced_correct_tokens": 5}
+{"id": "2a7c053a64624a6e88bb7aac2919e461", "split": "squad_test", "reference": "1873", "target_tokens": 5, "nll_sum": 0.0037620486691594124, "teacher_forced_correct_tokens": 5}
+{"id": "0b0712e7aabf46ccbe46f892f30bb70e", "split": "squad_test", "reference": "Kuviasungnerk/Kangeiko", "target_tokens": 10, "nll_sum": 0.007894515991210938, "teacher_forced_correct_tokens": 10}
+{"id": "97fcab2adcfc479d8ac548a060a6cb08", "split": "squad_test", "reference": "Presiding Officer", "target_tokens": 4, "nll_sum": 0.43262287974357605, "teacher_forced_correct_tokens": 4}
+{"id": "077e355583614be484a17558c2292ec9", "split": "squad_test", "reference": "The View and The Chew", "target_tokens": 6, "nll_sum": 0.09579188376665115, "teacher_forced_correct_tokens": 6}
+{"id": "50329a578a194c02b2c528564f9b3538", "split": "squad_test", "reference": "$155 million", "target_tokens": 6, "nll_sum": 0.027646221220493317, "teacher_forced_correct_tokens": 6}
+{"id": "54c95bf0a7294564a8b8714086f065b3", "split": "squad_test", "reference": "Lampea", "target_tokens": 5, "nll_sum": 0.03778713196516037, "teacher_forced_correct_tokens": 5}
+{"id": "fa2f76f809af490a9dea66aeef44efd8", "split": "squad_test", "reference": "Th1 immune responses", "target_tokens": 5, "nll_sum": 2.135179042816162, "teacher_forced_correct_tokens": 4}
+{"id": "28ea1affb805406cb027661c9d80968d", "split": "squad_test", "reference": "into the thylakoid space", "target_tokens": 8, "nll_sum": 6.082167625427246, "teacher_forced_correct_tokens": 7}
+{"id": "83d9866648284a3a8f4eb8975a9eb831", "split": "squad_test", "reference": "excommunication", "target_tokens": 3, "nll_sum": 0.22495630383491516, "teacher_forced_correct_tokens": 3}
+{"id": "56a14d5135c64ede86fb088113226913", "split": "squad_test", "reference": "banned the growing of coffee, introduced a hut tax, and the landless were granted less and less land in exchange for their labour", "target_tokens": 28, "nll_sum": 0.6809526681900024, "teacher_forced_correct_tokens": 28}
+{"id": "0a6467830eb84388a6ad5dfe6965dbd8", "split": "squad_test", "reference": "as a connected sum of prime knots", "target_tokens": 8, "nll_sum": 1.8844208717346191, "teacher_forced_correct_tokens": 7}
+{"id": "c2da445ed0a8423e989214e6ac24bb17", "split": "squad_test", "reference": "Mental Health (Care and Treatment) (Scotland) Act 2003", "target_tokens": 18, "nll_sum": 0.2051757276058197, "teacher_forced_correct_tokens": 18}
+{"id": "1fba90208a234f089fdec6f060bbac3f", "split": "squad_test", "reference": "the Working Group chairs", "target_tokens": 5, "nll_sum": 1.2094863653182983, "teacher_forced_correct_tokens": 4}
+{"id": "c48d3a228b3a468898546d0af5bc34d9", "split": "squad_test", "reference": "the Kenyan Coast", "target_tokens": 5, "nll_sum": 1.1844271421432495, "teacher_forced_correct_tokens": 4}
+{"id": "66c72290a2b148b0bd3ff80f64d4076e", "split": "squad_test", "reference": "French-Swiss bacteriologist Alexandre Yersin", "target_tokens": 12, "nll_sum": 3.7568459510803223, "teacher_forced_correct_tokens": 11}
+{"id": "8764a7c5c91f4e2ab08111841c715e6e", "split": "squad_test", "reference": "ten to fifteen", "target_tokens": 4, "nll_sum": 0.13878288865089417, "teacher_forced_correct_tokens": 4}
+{"id": "bfa90522cd6c4013b88174f5456f6804", "split": "squad_test", "reference": "Sheepshanks Gallery", "target_tokens": 6, "nll_sum": 0.040588632225990295, "teacher_forced_correct_tokens": 6}
+{"id": "b229131d3a2643799e19cd5b698178cf", "split": "squad_test", "reference": "John Vanderbank's workshop", "target_tokens": 6, "nll_sum": 8.355059623718262, "teacher_forced_correct_tokens": 4}
+{"id": "d629892de86d40d981f0da871a633c27", "split": "squad_test", "reference": "2005", "target_tokens": 5, "nll_sum": 0.09141937643289566, "teacher_forced_correct_tokens": 5}
+{"id": "216cd487658549738c1b8d7a0d9c735d", "split": "squad_test", "reference": "1279", "target_tokens": 5, "nll_sum": 0.015804177150130272, "teacher_forced_correct_tokens": 5}
+{"id": "e1dca3d4272d4f7683e07c191be471e8", "split": "squad_test", "reference": "489", "target_tokens": 4, "nll_sum": 0.02743738703429699, "teacher_forced_correct_tokens": 4}
+{"id": "127bb81787684dbf94ebdad1c9ba28d5", "split": "squad_test", "reference": "Lauren Oliver", "target_tokens": 4, "nll_sum": 0.0521484836935997, "teacher_forced_correct_tokens": 4}
+{"id": "9e0014efee6f4518b8706b5826b4a81a", "split": "squad_test", "reference": "a background check and psychiatric evaluation", "target_tokens": 7, "nll_sum": 3.1901133060455322, "teacher_forced_correct_tokens": 6}
+{"id": "aa4a74fcd9d24648b0fa8bd376405d2e", "split": "squad_test", "reference": "the BBC National Orchestra of Wales", "target_tokens": 7, "nll_sum": 0.9201802015304565, "teacher_forced_correct_tokens": 6}
+{"id": "e185899ae953415196ef48448e48c5c2", "split": "squad_test", "reference": "By the end of 1350", "target_tokens": 10, "nll_sum": 1.7149953842163086, "teacher_forced_correct_tokens": 9}
+{"id": "ba350535336547a492b0f52e66de5410", "split": "squad_test", "reference": "300 acres", "target_tokens": 5, "nll_sum": 2.878265857696533, "teacher_forced_correct_tokens": 4}
+{"id": "490c2698a787429a9cf08c855241403e", "split": "squad_test", "reference": "to increase the chloroplast's surface area for cross-membrane transport", "target_tokens": 15, "nll_sum": 0.5875926613807678, "teacher_forced_correct_tokens": 15}
+{"id": "f8ee200f9029458aae008773912a8b32", "split": "squad_test", "reference": "New York–based filmmakers", "target_tokens": 6, "nll_sum": 0.15051235258579254, "teacher_forced_correct_tokens": 6}
+{"id": "7bc925eda076411dbe86be8493e93c28", "split": "squad_test", "reference": "by purposely damaging their photosynthetic system", "target_tokens": 9, "nll_sum": 0.6921302080154419, "teacher_forced_correct_tokens": 9}
+{"id": "fb8da6830dc44c17b7d8dfcdfab5876e", "split": "squad_test", "reference": "the plastome", "target_tokens": 4, "nll_sum": 5.613017559051514, "teacher_forced_correct_tokens": 3}
+{"id": "cd0c57ea434141a7b6f3f9e3afec922a", "split": "squad_test", "reference": "41 years old", "target_tokens": 5, "nll_sum": 1.6176426410675049, "teacher_forced_correct_tokens": 4}
+{"id": "0a58455296b648c590c2bef7a2a8ffc4", "split": "squad_test", "reference": "hermaphroditism and early reproduction", "target_tokens": 10, "nll_sum": 0.38241997361183167, "teacher_forced_correct_tokens": 10}
+{"id": "d8c0f9e4482143ddbdb8f9575e16f868", "split": "squad_test", "reference": "United Nations Environment Programme", "target_tokens": 5, "nll_sum": 5.158135414123535, "teacher_forced_correct_tokens": 3}
+{"id": "40be3c47dc2748e1912a73987598d09c", "split": "squad_test", "reference": "5,000", "target_tokens": 6, "nll_sum": 0.23170697689056396, "teacher_forced_correct_tokens": 6}
+{"id": "1e9b940f9723409e9914d8f2c1590e9e", "split": "squad_test", "reference": "Lorelei", "target_tokens": 4, "nll_sum": 0.03202718496322632, "teacher_forced_correct_tokens": 4}
+{"id": "94b6e5a5734247bcadbc7fcb891feb50", "split": "squad_test", "reference": "William Smilie", "target_tokens": 5, "nll_sum": 0.0037169363349676132, "teacher_forced_correct_tokens": 5}
+{"id": "6a5420a29a7f48a99d660e6c6be1fe16", "split": "squad_test", "reference": "to \"float\" (rise and fall according to market demand)", "target_tokens": 14, "nll_sum": 5.534977912902832, "teacher_forced_correct_tokens": 12}
+{"id": "2cdef275aa1748ebb971e29255afe831", "split": "squad_test", "reference": "1885", "target_tokens": 5, "nll_sum": 1.9030449390411377, "teacher_forced_correct_tokens": 4}
+{"id": "a1fd13a0d93f4b6890fa77ced3913796", "split": "squad_test", "reference": "2001", "target_tokens": 5, "nll_sum": 0.17701338231563568, "teacher_forced_correct_tokens": 5}
+{"id": "f7bfca5897f841379bd44db8662c0967", "split": "squad_test", "reference": "nitroaereus", "target_tokens": 6, "nll_sum": 1.148993968963623, "teacher_forced_correct_tokens": 5}
+{"id": "cac3297cc45a4ccd9e36885f059d6793", "split": "squad_test", "reference": "2,900 kilometres (1,802 mi)", "target_tokens": 15, "nll_sum": 0.4413069784641266, "teacher_forced_correct_tokens": 15}
+{"id": "effb55c19ee64079b49625ef5963ed81", "split": "squad_test", "reference": "it developed into a major part of the Internet backbone", "target_tokens": 11, "nll_sum": 5.798441410064697, "teacher_forced_correct_tokens": 10}

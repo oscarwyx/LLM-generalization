@@ -1,0 +1,25 @@
+{
+  "seed": 17,
+  "completed_epochs": 2,
+  "global_step": 256,
+  "training_config_sha256": "01fd1995afdc58df7356d86f2b090254fcc2a7109161b52f30ead3f6ffff54ed",
+  "training_rows_sha256": "0758b054beccd6533516b668955005708aaf7a818172882501fd96b6d835da12",
+  "epoch_metrics": {
+    "epoch": 2,
+    "optimizer_steps": 128,
+    "examples_presented": 2048,
+    "supervised_tokens": 12696,
+    "input_tokens": 469940,
+    "nonpadding_input_tokens": 469940,
+    "supervised_target_tokens": 12696,
+    "padded_input_tokens": 620344,
+    "padding_tokens": 150404,
+    "consumed_nonpadding_input_tokens": 469940,
+    "consumed_supervised_target_tokens": 12696,
+    "consumed_padded_input_tokens": 620344,
+    "consumed_padding_tokens": 150404,
+    "train_nll": 0.18155889709497125,
+    "teacher_forced_token_accuracy_pct": 94.69911783238815,
+    "elapsed_including_checkpoint_seconds": 291.344222300002
+  }
+}

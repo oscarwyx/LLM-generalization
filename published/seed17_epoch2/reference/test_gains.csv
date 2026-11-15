@@ -1,0 +1,4 @@
+method,EM gain (pp),F1 gain (pp)
+Baseline,0.0,0.0
+Prompting,2.333333333333332,4.637401756777322
+LoRA,55.0,41.59451301281267
