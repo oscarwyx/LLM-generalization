@@ -1,0 +1,10 @@
+{
+  "name": "explicit_short_3shot_from_current_train",
+  "instruction": "Extract the answer to the question from the context.\nReturn only the minimal text span that fully answers the question.\nCopy the answer from the context.\nDo not repeat the question, add an explanation, or write an \"Answer:\" prefix.\nDo not return the surrounding sentence unless the whole sentence is needed.\nStop immediately after the answer.",
+  "demonstrations": [],
+  "schema_version": 1,
+  "target_template": "{instruction}\n\nContext:\n{context}\n\nQuestion: {question}\nAnswer:",
+  "demo_format": "Alternating user/assistant messages, identical instruction and task formatting",
+  "enable_thinking": false,
+  "prediction_postprocessing": "Only strip surrounding whitespace; no answer-aware extraction"
+}

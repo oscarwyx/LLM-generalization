@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "dataset": "MRQA 2019 SQuAD / SQuAD 1.1",
+  "notes_zh": [
+    "MRQA URL 中的 release/v2 是 MRQA 发布版本，不是 SQuAD 2.0。",
+    "官方 SQuAD JSON 用于文章映射；实际问题、正文和参考答案使用 MRQA 原料。"
+  ],
+  "sources": {
+    "squad_train": {
+      "filename": "squad_train.jsonl.gz",
+      "url": "https://s3.us-east-2.amazonaws.com/mrqa/release/v2/train/SQuAD.jsonl.gz",
+      "sha256": "b094703b9c6f740cc2dfd70b3201b833553fcec0c8a522f22c2c6ff82ce2cc78",
+      "bytes": 27621835,
+      "expected_examples": 86588
+    },
+    "squad_test": {
+      "filename": "squad_test.jsonl.gz",
+      "url": "https://s3.us-east-2.amazonaws.com/mrqa/release/v2/dev/SQuAD.jsonl.gz",
+      "sha256": "5afa4b088adf297fc29374ddf2d44d974b8837380e2554e62edf258fee5c32ee",
+      "bytes": 3474262,
+      "expected_examples": 10507
+    },
+    "original_train": {
+      "filename": "squad_original_train_v1.1.json",
+      "url": "https://rajpurkar.github.io/SQuAD-explorer/dataset/train-v1.1.json",
+      "sha256": "3527663986b8295af4f7fcdff1ba1ff3f72d07d61a20f487cb238a6ef92fd955",
+      "bytes": 30288272
+    },
+    "original_dev": {
+      "filename": "squad_original_dev_v1.1.json",
+      "url": "https://rajpurkar.github.io/SQuAD-explorer/dataset/dev-v1.1.json",
+      "sha256": "95aa6a52d5d6a735563366753ca50492a658031da74f301ac5238b03966972c9",
+      "bytes": 4854279
+    }
+  }
+}

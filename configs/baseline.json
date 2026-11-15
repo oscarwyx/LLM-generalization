@@ -1,0 +1,10 @@
+{
+  "name": "baseline",
+  "instruction": "Answer the question using only the provided context. Return only the shortest answer span from the context. Do not explain your answer or include any prefix.",
+  "demonstrations": [],
+  "schema_version": 1,
+  "target_template": "{instruction}\n\nContext:\n{context}\n\nQuestion: {question}\nAnswer:",
+  "demo_format": "Alternating user/assistant messages, identical instruction and task formatting",
+  "enable_thinking": false,
+  "prediction_postprocessing": "Only strip surrounding whitespace; no answer-aware extraction"
+}
