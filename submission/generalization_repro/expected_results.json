@@ -1,0 +1,31 @@
+{
+  "initial_90": {
+    "rows": 900,
+    "questions": 90,
+    "articles": 45,
+    "commit": "2359fd5d9ea34bb9d1845fe1a6732d657343361f",
+    "primary": {
+      "change_pp": 5.555555555555555,
+      "ci95_low_pp": -3.888888888888889,
+      "ci95_high_pp": 15.555555555555555
+    }
+  },
+  "validation_810": {
+    "rows": 4860,
+    "questions": 810,
+    "articles": 45,
+    "commit": "2359fd5d9ea34bb9d1845fe1a6732d657343361f",
+    "primary": {
+      "change_pp": 3.395061728395061,
+      "ci95_low_pp": 0.9259259259259258,
+      "ci95_high_pp": 5.802469135802469
+    }
+  },
+  "location_counts": {
+    "original_only_wrong_span": 138,
+    "neither_exact_span": 7,
+    "span_in_both": 2,
+    "distractor_only_span": 2
+  },
+  "checks": "all passed"
+}

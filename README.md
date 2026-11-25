@@ -1,3 +1,21 @@
+# Generalization study: Qwen3-0.6B + LoRA on SQuAD 1.1
+
+This repository combines the published group training run with my generalization study. The training code, fixed test set, and seed-17 epoch-2 LoRA adapter originate from [sunweiyi2026-ship-it/LLM-project](https://github.com/sunweiyi2026-ship-it/LLM-project), commit `2359fd5d9ea34bb9d1845fe1a6732d657343361f`. That history is preserved in this repository. My additions are the generalization notebooks, prediction-level results, analysis scripts, figures, and report text.
+
+**Main finding:** On the remaining 810 fixed SQuAD questions, adding approximately 1,024 irrelevant tokens before the answer passage lowered EM by 8.89 percentage points for the base model and 5.49 points for LoRA. The paired difference in declines was +3.40 points (95% article-cluster bootstrap CI +0.93 to +5.80). This is evidence for this checkpoint under this SQuAD test condition; it is not a cross-domain result. The earlier 90-question analysis and its unmet original prediction are reported separately.
+
+## Where to start
+
+- **Recompute published statistics without a GPU:** follow [`submission/generalization_repro/README.md`](submission/generalization_repro/README.md), then run `python reproduce.py` from that directory. Its compressed prediction files and fixed checksums are included.
+- **Inspect the full report section:** [`submission/report/generalization_final_section.md`](submission/report/generalization_final_section.md).
+- **Run model inference in Colab:** [`notebooks/generalization_length.ipynb`](notebooks/generalization_length.ipynb) and [`notebooks/generalization_810_prepend.ipynb`](notebooks/generalization_810_prepend.ipynb). These notebooks pin the original group repository commit, so they reproduce the exact published checkpoint and test rows. They do not need retraining.
+- **Load the checkpoint:** `published/seed17_epoch2/adapter/` contains the 20 MB LoRA adapter. `published/seed17_epoch2/manifest.json` pins the Qwen3-0.6B base revision; first inference needs to download that approximately 1.5 GB base model. The adapter is also preserved in Google Drive; see the reproducibility README.
+- **Presentation source:** [`submission/presentation/overleaf/main.tex`](submission/presentation/overleaf/main.tex), with both result figures in `submission/presentation/overleaf/figures/`.
+
+The full 900-question training evaluation and original project instructions follow below.
+
+---
+
 # LLM-project
 
 从公开原料重新构建 SQuAD 1.1 生成式问答实验：下载数据 → 清洗、查重与文章划分 → Qwen3-0.6B baseline → 固定 3-shot prompting → LoRA → 本次运行报告。

@@ -3,3 +3,5 @@
 *.jpg binary
 *.safetensors binary
 /published/** -text
+
+/submission/generalization_repro/** -text
