@@ -1,0 +1,1801 @@
+question_id,kv_cache,batch_id,input_tokens,output_tokens,generation_capped,answer,em_pct,f1_pct
+b9ddbde9f3a4401199c421cced477f9e,on,1,98,13,False,"Luther's rediscovery of ""Christ and His salvation""",0.0,92.3076923076923
+52e244a9f78c494dace5425a62a645ba,on,1,101,6,False,Johann Tetzel,100.0,100.0
+7a3fc9c9796f446e9cb48a5904d3cbd8,on,1,104,4,False,atmospheric,100.0,100.0
+e0e8adef21a94a88b295d32bb4fae6cf,on,1,106,3,False,a teacher,0.0,0.0
+b9ddbde9f3a4401199c421cced477f9e,off,1,98,13,False,"Luther's rediscovery of ""Christ and His salvation""",0.0,92.3076923076923
+52e244a9f78c494dace5425a62a645ba,off,1,101,6,False,Johann Tetzel,100.0,100.0
+7a3fc9c9796f446e9cb48a5904d3cbd8,off,1,104,4,False,atmospheric,100.0,100.0
+e0e8adef21a94a88b295d32bb4fae6cf,off,1,106,3,False,a teacher,0.0,0.0
+6cf84084dde0400fa759e2c19937a62b,off,2,107,6,False,Johann Tetzel,100.0,100.0
+4b368ffadd3e48fbad3491850a09a5ca,off,2,110,4,False,retirements,0.0,0.0
+e539eda4e3d14a9f91fbb14230651416,off,2,114,4,False,Tulku,100.0,100.0
+4916a4c9cecb4de6a82f7f237a67561e,off,2,115,10,False,Jean's nephew Maciot de Bethencourt,0.0,75.0
+6cf84084dde0400fa759e2c19937a62b,on,2,107,6,False,Johann Tetzel,100.0,100.0
+4b368ffadd3e48fbad3491850a09a5ca,on,2,110,4,False,retirements,0.0,0.0
+e539eda4e3d14a9f91fbb14230651416,on,2,114,4,False,Tulku,100.0,100.0
+4916a4c9cecb4de6a82f7f237a67561e,on,2,115,10,False,Jean's nephew Maciot de Bethencourt,0.0,75.0
+884a137dfc704d3d94e453db2dbaddc6,on,3,115,3,False,average workers,100.0,100.0
+2bcac75fa67e4f6c8e43cf7cd46343ce,on,3,118,9,False,twice the figure for the average profession,100.0,100.0
+4897b17ad2d3435ba86367cb52faa34c,on,3,120,3,False,engineers,0.0,0.0
+131e8e4fc156470cbdea7bbae1afdce6,on,3,123,3,False,Odo,100.0,100.0
+884a137dfc704d3d94e453db2dbaddc6,off,3,115,3,False,average workers,100.0,100.0
+2bcac75fa67e4f6c8e43cf7cd46343ce,off,3,118,9,False,twice the figure for the average profession,100.0,100.0
+4897b17ad2d3435ba86367cb52faa34c,off,3,120,3,False,engineers,0.0,0.0
+131e8e4fc156470cbdea7bbae1afdce6,off,3,123,3,False,Odo,100.0,100.0
+eef5eacabd2645ef9ceb289e1085fb0e,off,4,124,6,False,Blum complexity axioms,100.0,100.0
+4aa23bf4779440809330b76043c98cd0,off,4,127,6,False,Bayeux Tapestry,100.0,100.0
+8e30920159844fe8a7d2aaa86fd2c444,off,4,128,9,False,10 July 1856,100.0,100.0
+da1e80423fed403fac57ce1bc521a357,off,4,128,6,False,constant factors and smaller terms,100.0,100.0
+eef5eacabd2645ef9ceb289e1085fb0e,on,4,124,6,False,Blum complexity axioms,100.0,100.0
+4aa23bf4779440809330b76043c98cd0,on,4,127,6,False,Bayeux Tapestry,100.0,100.0
+8e30920159844fe8a7d2aaa86fd2c444,on,4,128,9,False,10 July 1856,100.0,100.0
+da1e80423fed403fac57ce1bc521a357,on,4,128,6,False,constant factors and smaller terms,100.0,100.0
+1d2ba12e0eac44b88bde63bbd5961bc2,on,5,129,3,False,Serbian,100.0,100.0
+6ad998ea04b848cc831f23e8adda9552,on,5,129,4,False,NL and NC,0.0,0.0
+57c5914570fc4995b2b9daa3e5dffb83,on,5,132,7,False,the University of Wittenberg,100.0,100.0
+9fe6dfd29f464cc2880bdbec7a1cdf2c,on,5,132,3,False,United States,100.0,100.0
+1d2ba12e0eac44b88bde63bbd5961bc2,off,5,129,3,False,Serbian,100.0,100.0
+6ad998ea04b848cc831f23e8adda9552,off,5,129,4,False,NL and NC,0.0,0.0
+57c5914570fc4995b2b9daa3e5dffb83,off,5,132,7,False,the University of Wittenberg,100.0,100.0
+9fe6dfd29f464cc2880bdbec7a1cdf2c,off,5,132,3,False,United States,100.0,100.0
+37b541c787c24facab16a098d209c6ff,off,6,134,8,False,installed electrical arc light based illumination systems,100.0,100.0
+8cf95106f3b0456bace06cf29fb93e3c,off,6,136,2,False,learning,100.0,100.0
+1b7dcb5af3464a25bf42c7e6e2a83a6c,off,6,137,11,False,"deterministic Turing machines, probabilistic Turing machines",0.0,83.33333333333334
+ceabd92f596044d3a4efa0745e23176e,off,6,137,3,False,two businessmen,0.0,0.0
+37b541c787c24facab16a098d209c6ff,on,6,134,8,False,installed electrical arc light based illumination systems,100.0,100.0
+8cf95106f3b0456bace06cf29fb93e3c,on,6,136,2,False,learning,100.0,100.0
+1b7dcb5af3464a25bf42c7e6e2a83a6c,on,6,137,11,False,"deterministic Turing machines, probabilistic Turing machines",0.0,83.33333333333334
+ceabd92f596044d3a4efa0745e23176e,on,6,137,3,False,two businessmen,0.0,0.0
+af9bdcc6b74f4b0eaa358d6fe679eb5f,on,7,138,4,False,transfer of heat,0.0,28.57142857142857
+2a7c053a64624a6e88bb7aac2919e461,on,7,139,5,False,1873,100.0,100.0
+e38949f6c7c94c068bc501bc66bfdf18,on,7,142,8,False,"planning, design, and financing",0.0,66.66666666666666
+991d6a49af8b4cfb8365c97ad48e35a5,on,7,145,3,False,#P,100.0,100.0
+af9bdcc6b74f4b0eaa358d6fe679eb5f,off,7,138,4,False,transfer of heat,0.0,28.57142857142857
+2a7c053a64624a6e88bb7aac2919e461,off,7,139,5,False,1873,100.0,100.0
+e38949f6c7c94c068bc501bc66bfdf18,off,7,142,8,False,"planning, design, and financing",0.0,66.66666666666666
+991d6a49af8b4cfb8365c97ad48e35a5,off,7,145,3,False,#P,100.0,100.0
+c3bd7b296d9443639ac06a7269855316,off,8,146,2,False,Christian,100.0,100.0
+d1a72b9a21b94e50a43000da3f2ad3e5,off,8,146,5,False,non-governmental agencies,100.0,100.0
+83b862cf19734a6e879aafc41cc541ad,off,8,147,3,False,trade unions,0.0,0.0
+ef84dc5bd8164551a8f2a2f6f0b5eb11,off,8,147,4,False,his hotel room,100.0,100.0
+c3bd7b296d9443639ac06a7269855316,on,8,146,2,False,Christian,100.0,100.0
+d1a72b9a21b94e50a43000da3f2ad3e5,on,8,146,5,False,non-governmental agencies,100.0,100.0
+83b862cf19734a6e879aafc41cc541ad,on,8,147,3,False,trade unions,0.0,0.0
+ef84dc5bd8164551a8f2a2f6f0b5eb11,on,8,147,4,False,his hotel room,100.0,100.0
+4f6da5ea0aae4263ac116e02a6530f11,on,9,148,5,False,small-business proprietors,100.0,100.0
+c0d0f266c7a64a7aa82ab1f36dbf0ade,on,9,148,3,False,Islamist,100.0,100.0
+f29da728eac54846a7e27b605307523e,on,9,148,3,False,physical pain,100.0,100.0
+b2b894b90c3b4a5481b909ecc8dcc8ef,on,9,149,8,False,head of state and head of government,100.0,100.0
+4f6da5ea0aae4263ac116e02a6530f11,off,9,148,5,False,small-business proprietors,100.0,100.0
+c0d0f266c7a64a7aa82ab1f36dbf0ade,off,9,148,3,False,Islamist,100.0,100.0
+f29da728eac54846a7e27b605307523e,off,9,148,3,False,physical pain,100.0,100.0
+b2b894b90c3b4a5481b909ecc8dcc8ef,off,9,149,8,False,head of state and head of government,100.0,100.0
+62a400f9d0d5455a9b197e14246f6b92,off,10,150,5,False,Neoclassical,0.0,66.66666666666666
+a0ae96f39bec4040821dec53a5eb8a10,off,10,150,3,False,angular momentum,0.0,0.0
+b87146d69f8b42e1b1e442a861727db8,off,10,150,8,False,hosts responsible for reliable delivery of data,100.0,100.0
+639b9d6f61d344a9ad7c36c9fb484153,off,10,151,3,False,physicians,100.0,100.0
+62a400f9d0d5455a9b197e14246f6b92,on,10,150,5,False,Neoclassical,0.0,66.66666666666666
+a0ae96f39bec4040821dec53a5eb8a10,on,10,150,3,False,angular momentum,0.0,0.0
+b87146d69f8b42e1b1e442a861727db8,on,10,150,8,False,hosts responsible for reliable delivery of data,100.0,100.0
+639b9d6f61d344a9ad7c36c9fb484153,on,10,151,3,False,physicians,100.0,100.0
+2cb9dead799e4a129c92c38ef5c1b8d7,on,11,152,8,False,a fee per unit of information transmitted,100.0,100.0
+85e97c68f6414f8089548f27d3589cea,on,11,152,4,False,Trio Tribe,100.0,100.0
+9b5647faf6754f98ad3cc13be3c6bdf4,on,11,152,3,False,private conferences,100.0,100.0
+b54c6086a09e4fd980b99ef4ac16c3ce,on,11,152,7,False,Newton's Second Law of Motion,100.0,100.0
+2cb9dead799e4a129c92c38ef5c1b8d7,off,11,152,8,False,a fee per unit of information transmitted,100.0,100.0
+85e97c68f6414f8089548f27d3589cea,off,11,152,4,False,Trio Tribe,100.0,100.0
+9b5647faf6754f98ad3cc13be3c6bdf4,off,11,152,3,False,private conferences,100.0,100.0
+b54c6086a09e4fd980b99ef4ac16c3ce,off,11,152,7,False,Newton's Second Law of Motion,100.0,100.0
+c7ec1f51bde24776991b03c0395625af,off,12,152,3,False,civil servants,100.0,100.0
+d773f40fc5394be89dea7f15bc9bf99a,off,12,152,7,False,"buildings, infrastructure and industrial",100.0,100.0
+2f17a3b6093a478aa1abe30668699bdc,off,12,153,4,False,a computer network,0.0,80.0
+4fd80764fec747f1b4aaa1345f3e4859,off,12,153,4,False,Tomingaj,100.0,100.0
+c7ec1f51bde24776991b03c0395625af,on,12,152,3,False,civil servants,100.0,100.0
+d773f40fc5394be89dea7f15bc9bf99a,on,12,152,7,False,"buildings, infrastructure and industrial",100.0,100.0
+2f17a3b6093a478aa1abe30668699bdc,on,12,153,4,False,a computer network,0.0,80.0
+4fd80764fec747f1b4aaa1345f3e4859,on,12,153,4,False,Tomingaj,100.0,100.0
+cfcaed8406ec4f3686b6cd6c80dd3629,on,13,153,4,False,optimal health,0.0,80.0
+db9c1f40825a40e2afa3780d35697f0f,on,13,153,3,False,immediately,100.0,100.0
+0b3478319da44b0eb297143a66559e35,on,13,154,6,False,Private Education Student Financial Assistance,100.0,100.0
+301b716407e247fabc8891bcb511d4a1,on,13,154,11,False,their visitation of the Electorate of Saxony,0.0,90.9090909090909
+cfcaed8406ec4f3686b6cd6c80dd3629,off,13,153,4,False,optimal health,0.0,80.0
+db9c1f40825a40e2afa3780d35697f0f,off,13,153,3,False,immediately,100.0,100.0
+0b3478319da44b0eb297143a66559e35,off,13,154,6,False,Private Education Student Financial Assistance,100.0,100.0
+301b716407e247fabc8891bcb511d4a1,off,13,154,11,False,their visitation of the Electorate of Saxony,0.0,90.9090909090909
+80da88da5f4e47a4abec6ff330c4c089,off,14,154,8,False,"£41,004",100.0,100.0
+bd0241ce0b8749a889a78353cf387730,off,14,154,5,False,1996,100.0,100.0
+f81001042e404f62bf7e2d61b5c5f93c,off,14,154,4,False,relatively equal,100.0,100.0
+2ed55bcf5854417bbcbc1d81a05d5789,off,14,155,3,False,static friction,100.0,100.0
+80da88da5f4e47a4abec6ff330c4c089,on,14,154,8,False,"£41,004",100.0,100.0
+bd0241ce0b8749a889a78353cf387730,on,14,154,5,False,1996,100.0,100.0
+f81001042e404f62bf7e2d61b5c5f93c,on,14,154,4,False,relatively equal,100.0,100.0
+2ed55bcf5854417bbcbc1d81a05d5789,on,14,155,3,False,static friction,100.0,100.0
+30a299a73dc944b48b1dcd3e7c6e0412,on,15,155,5,False,to reduce consumer costs,100.0,100.0
+6144da36dcb64324bc5a3181716df282,on,15,155,4,False,Storybook houses,100.0,100.0
+b29a16ed01474c59aecdc97ef1e2378c,on,15,156,3,False,detention,100.0,100.0
+91f07a3a44c94a949e399f0f7df077cd,on,15,157,2,False,no,100.0,100.0
+30a299a73dc944b48b1dcd3e7c6e0412,off,15,155,5,False,to reduce consumer costs,100.0,100.0
+6144da36dcb64324bc5a3181716df282,off,15,155,4,False,Storybook houses,100.0,100.0
+b29a16ed01474c59aecdc97ef1e2378c,off,15,156,3,False,detention,100.0,100.0
+91f07a3a44c94a949e399f0f7df077cd,off,15,157,2,False,no,100.0,100.0
+c281469bd0d1473cbe1f271aecd24117,off,16,157,7,False,the building is ready to occupy,100.0,100.0
+2cbe386881c540dd93983cfae24de194,off,16,158,14,False,a private bill can be submitted to Parliament by an outside proposer,0.0,33.33333333333333
+60b4cfae32d34d7781183a914f1c8754,off,16,158,7,False,a small number of MSPs,100.0,100.0
+7d1258e589924ead84a13f853cee9142,off,16,158,7,False,to the state and its laws,100.0,100.0
+c281469bd0d1473cbe1f271aecd24117,on,16,157,7,False,the building is ready to occupy,100.0,100.0
+2cbe386881c540dd93983cfae24de194,on,16,158,14,False,a private bill can be submitted to Parliament by an outside proposer,0.0,33.33333333333333
+60b4cfae32d34d7781183a914f1c8754,on,16,158,7,False,a small number of MSPs,100.0,100.0
+7d1258e589924ead84a13f853cee9142,on,16,158,7,False,to the state and its laws,100.0,100.0
+0339ed62a0ac485db50154417b7e623c,on,17,159,5,False,Macroeconomic problems,100.0,100.0
+3c09a9f4ed504a9da1d7b98e7b9fe560,on,17,159,5,False,1946,100.0,100.0
+4cc5eca85cff4b1082d143f858bebd89,on,17,159,4,False,Catholicism,100.0,100.0
+7780d2d39f8a42f6b2c03ba6426124dd,on,17,159,4,False,rugged terrain,0.0,0.0
+0339ed62a0ac485db50154417b7e623c,off,17,159,5,False,Macroeconomic problems,100.0,100.0
+3c09a9f4ed504a9da1d7b98e7b9fe560,off,17,159,5,False,1946,100.0,100.0
+4cc5eca85cff4b1082d143f858bebd89,off,17,159,4,False,Catholicism,100.0,100.0
+7780d2d39f8a42f6b2c03ba6426124dd,off,17,159,4,False,rugged terrain,0.0,0.0
+94b6e5a5734247bcadbc7fcb891feb50,off,18,159,5,False,William Smilie,100.0,100.0
+9a48aebcba2048bc90fea97ad0fe370e,off,18,159,5,False,multiplying two integers,100.0,100.0
+3a000a3a529241b2ba5cb3417b005c37,off,18,160,6,False,Samuel P. Huntington,100.0,100.0
+61f0983c672b467f91e440e42bc83504,off,18,160,3,False,Aboriginal,100.0,100.0
+94b6e5a5734247bcadbc7fcb891feb50,on,18,159,5,False,William Smilie,100.0,100.0
+9a48aebcba2048bc90fea97ad0fe370e,on,18,159,5,False,multiplying two integers,100.0,100.0
+3a000a3a529241b2ba5cb3417b005c37,on,18,160,6,False,Samuel P. Huntington,100.0,100.0
+61f0983c672b467f91e440e42bc83504,on,18,160,3,False,Aboriginal,100.0,100.0
+9dcb9424274d438c8d5471be0e440ead,on,19,160,4,False,tuition-free,100.0,100.0
+cfe092497b6841868aace7ef1a1a5684,on,19,160,11,False,"adverse drug reactions, and assess patient drug allergies",0.0,84.21052631578947
+d2df31762a534fc8a1aaafe944b3a342,on,19,160,7,False,unknown or unexplored territory,100.0,100.0
+1fba90208a234f089fdec6f060bbac3f,on,19,161,4,False,Working Group chairs,100.0,100.0
+9dcb9424274d438c8d5471be0e440ead,off,19,160,4,False,tuition-free,100.0,100.0
+cfe092497b6841868aace7ef1a1a5684,off,19,160,11,False,"adverse drug reactions, and assess patient drug allergies",0.0,84.21052631578947
+d2df31762a534fc8a1aaafe944b3a342,off,19,160,7,False,unknown or unexplored territory,100.0,100.0
+1fba90208a234f089fdec6f060bbac3f,off,19,161,4,False,Working Group chairs,100.0,100.0
+5b25b4b0d25643628dc554ce64564467,off,20,161,4,False,the Little Horn,100.0,100.0
+b46a00c014034e92a05181bcccf0a877,off,20,161,3,False,independent,100.0,100.0
+c2a451e059564a39ad1f56fab97c090c,off,20,161,9,False,a photosynthetic cyanobacterium,100.0,100.0
+0f1aba8bc75b4051bc55991a9c2f6cc0,off,20,162,5,False,Edinburgh Pentlands,100.0,100.0
+5b25b4b0d25643628dc554ce64564467,on,20,161,4,False,the Little Horn,100.0,100.0
+b46a00c014034e92a05181bcccf0a877,on,20,161,3,False,independent,100.0,100.0
+c2a451e059564a39ad1f56fab97c090c,on,20,161,9,False,a photosynthetic cyanobacterium,100.0,100.0
+0f1aba8bc75b4051bc55991a9c2f6cc0,on,20,162,5,False,Edinburgh Pentlands,100.0,100.0
+221bbab1d1e7460a8b38be6e1151e0aa,on,21,162,2,False,functions,100.0,100.0
+51165a6dc6b540aa9d5b71a5b18144f1,on,21,162,2,False,Political,100.0,100.0
+5507ed76dd1745d5bbe8737dd17e3c86,on,21,162,3,False,suburban,100.0,100.0
+e89b3b6ea9aa4c07a847f319a3f5b234,on,21,162,8,False,Katharina von Bora,100.0,100.0
+221bbab1d1e7460a8b38be6e1151e0aa,off,21,162,2,False,functions,100.0,100.0
+51165a6dc6b540aa9d5b71a5b18144f1,off,21,162,2,False,Political,100.0,100.0
+5507ed76dd1745d5bbe8737dd17e3c86,off,21,162,3,False,suburban,100.0,100.0
+e89b3b6ea9aa4c07a847f319a3f5b234,off,21,162,8,False,Katharina von Bora,100.0,100.0
+ee643895a5a941e8a8e201b40f69cf98,off,22,162,4,False,T(n),100.0,100.0
+5765888ded564f59ae1f21cd03c39a45,off,22,163,5,False,Selznick library,100.0,100.0
+5fd1625c513645899e15c0ee1c4d45ac,off,22,164,13,False,"macrophages, neutrophils, and dendritic cells",100.0,100.0
+8764a7c5c91f4e2ab08111841c715e6e,off,22,164,4,False,ten to fifteen,100.0,100.0
+ee643895a5a941e8a8e201b40f69cf98,on,22,162,4,False,T(n),100.0,100.0
+5765888ded564f59ae1f21cd03c39a45,on,22,163,5,False,Selznick library,100.0,100.0
+5fd1625c513645899e15c0ee1c4d45ac,on,22,164,13,False,"macrophages, neutrophils, and dendritic cells",100.0,100.0
+8764a7c5c91f4e2ab08111841c715e6e,on,22,164,4,False,ten to fifteen,100.0,100.0
+927ace50852e40f0a64656a3b221dcb4,on,23,165,6,False,residual of the force,100.0,100.0
+bf086af4e98c48479aacd7d53fbb0f01,on,23,165,3,False,the USSR,100.0,100.0
+c9b7aac17ace4f27baa55144d1c35a6d,on,23,165,2,False,steam,100.0,100.0
+cd0c57ea434141a7b6f3f9e3afec922a,on,23,165,3,False,41,100.0,100.0
+927ace50852e40f0a64656a3b221dcb4,off,23,165,6,False,residual of the force,100.0,100.0
+bf086af4e98c48479aacd7d53fbb0f01,off,23,165,3,False,the USSR,100.0,100.0
+c9b7aac17ace4f27baa55144d1c35a6d,off,23,165,2,False,steam,100.0,100.0
+cd0c57ea434141a7b6f3f9e3afec922a,off,23,165,3,False,41,100.0,100.0
+f06e10fd59994972ae843438037f9d50,off,24,165,5,False,the Ten Commandments,100.0,100.0
+1e21d23476ab4c0faf964c6f2f9d3570,off,24,166,4,False,CrossCountry trains,0.0,66.66666666666666
+308dcb30a7574d4ab0e86e95cfefc01e,off,24,166,6,False,the initial Three-Year Plan,0.0,80.0
+3a2b428de4e347ba92480870c9729839,off,24,166,5,False,Metro Trains Melbourne,100.0,100.0
+f06e10fd59994972ae843438037f9d50,on,24,165,5,False,the Ten Commandments,100.0,100.0
+1e21d23476ab4c0faf964c6f2f9d3570,on,24,166,4,False,CrossCountry trains,0.0,66.66666666666666
+308dcb30a7574d4ab0e86e95cfefc01e,on,24,166,6,False,the initial Three-Year Plan,0.0,80.0
+3a2b428de4e347ba92480870c9729839,on,24,166,5,False,Metro Trains Melbourne,100.0,100.0
+4f9ce26884fa47338f85a04293c2047e,on,25,166,4,False,a roof extension,100.0,100.0
+5ef93469ad8d4e81b88d14b4ebfb47e9,on,25,166,3,False,quietly,100.0,100.0
+d390b9f0f4544398aa354312dbf18ae8,on,25,166,6,False,countries with bigger income inequalities,100.0,100.0
+ea853ce5c156438c82c23f886e662d6f,on,25,166,5,False,2014,100.0,100.0
+4f9ce26884fa47338f85a04293c2047e,off,25,166,4,False,a roof extension,100.0,100.0
+5ef93469ad8d4e81b88d14b4ebfb47e9,off,25,166,3,False,quietly,100.0,100.0
+d390b9f0f4544398aa354312dbf18ae8,off,25,166,6,False,countries with bigger income inequalities,100.0,100.0
+ea853ce5c156438c82c23f886e662d6f,off,25,166,5,False,2014,100.0,100.0
+1f413389fb3e4810bd9a1a5dd64e101a,off,26,167,13,False,"Opposition politicians, human rights groups, and nine Western countries",100.0,100.0
+5c57e300257e41f2a4e9ab7dd0d70cc4,off,26,167,5,False,Rumford medal,100.0,100.0
+de330ca7853c47e982b5fbb01e94d5b6,off,26,167,3,False,debased,100.0,100.0
+f816ca66d6534777aeef53ea96da9a3a,off,26,167,4,False,default emission factors,100.0,100.0
+1f413389fb3e4810bd9a1a5dd64e101a,on,26,167,13,False,"Opposition politicians, human rights groups, and nine Western countries",100.0,100.0
+5c57e300257e41f2a4e9ab7dd0d70cc4,on,26,167,5,False,Rumford medal,100.0,100.0
+de330ca7853c47e982b5fbb01e94d5b6,on,26,167,3,False,debased,100.0,100.0
+f816ca66d6534777aeef53ea96da9a3a,on,26,167,4,False,default emission factors,100.0,100.0
+0382a4fd1c7d498f9b42eeefd6152b26,on,27,168,5,False,1072,100.0,100.0
+1d7cedb249d0442582dcd2d315e1ed53,on,27,168,2,False,three,100.0,100.0
+33ddced21a674af1a7d08c3fa04f5452,on,27,168,8,False,to coordinate the response to the embargo,100.0,100.0
+79861215ce4d4cacbd4a678ead3108ad,on,27,168,3,False,Cisco Systems,100.0,100.0
+0382a4fd1c7d498f9b42eeefd6152b26,off,27,168,5,False,1072,100.0,100.0
+1d7cedb249d0442582dcd2d315e1ed53,off,27,168,2,False,three,100.0,100.0
+33ddced21a674af1a7d08c3fa04f5452,off,27,168,8,False,to coordinate the response to the embargo,100.0,100.0
+79861215ce4d4cacbd4a678ead3108ad,off,27,168,3,False,Cisco Systems,100.0,100.0
+d1a58c68a0474e38872004ea00a708a9,off,28,168,4,False,Private Bill Committees,0.0,0.0
+f484c7e700254b17ba1296506f8ef6f5,off,28,168,8,False,due to fermionic nature of electrons,0.0,80.0
+3774d76aadb14e44a13c2ab9c083d8bd,off,28,169,7,False,through various associations and other arrangements,100.0,100.0
+72b54818105a4c23a516c94cc9feec66,off,28,169,3,False,the mayor,0.0,0.0
+d1a58c68a0474e38872004ea00a708a9,on,28,168,4,False,Private Bill Committees,0.0,0.0
+f484c7e700254b17ba1296506f8ef6f5,on,28,168,8,False,due to fermionic nature of electrons,0.0,80.0
+3774d76aadb14e44a13c2ab9c083d8bd,on,28,169,7,False,through various associations and other arrangements,100.0,100.0
+72b54818105a4c23a516c94cc9feec66,on,28,169,3,False,the mayor,0.0,0.0
+7dbb192803544fbabef6e3c66578b52f,on,29,169,5,False,idealized point particles,100.0,100.0
+8ec478d33ad64d9f8f23c5b1ff820469,on,29,169,3,False,greater equality,100.0,100.0
+923e9bbdca114fd7b8111c4b803653ad,on,29,169,5,False,graduate and undergraduate students,100.0,100.0
+a1405dd8c01149cc82ad6b597725697a,on,29,169,5,False,humid subtropical,100.0,100.0
+7dbb192803544fbabef6e3c66578b52f,off,29,169,5,False,idealized point particles,100.0,100.0
+8ec478d33ad64d9f8f23c5b1ff820469,off,29,169,3,False,greater equality,100.0,100.0
+923e9bbdca114fd7b8111c4b803653ad,off,29,169,5,False,graduate and undergraduate students,100.0,100.0
+a1405dd8c01149cc82ad6b597725697a,off,29,169,5,False,humid subtropical,100.0,100.0
+be61ca84b22c4d5bbda6ec2e79c9fb2c,off,30,169,4,False,May through September,100.0,100.0
+bf8f51461b4b4c27bf3dbd7bbd9255e5,off,30,169,6,False,catastrophism,100.0,100.0
+19f302b12c5e45108178d4f11abe0218,off,30,170,7,False,Cévennes mountain region,100.0,100.0
+33a6b601f2ba48e89f4d5ea729a00252,off,30,170,5,False,O(n2),100.0,100.0
+be61ca84b22c4d5bbda6ec2e79c9fb2c,on,30,169,4,False,May through September,100.0,100.0
+bf8f51461b4b4c27bf3dbd7bbd9255e5,on,30,169,6,False,catastrophism,100.0,100.0
+19f302b12c5e45108178d4f11abe0218,on,30,170,7,False,Cévennes mountain region,100.0,100.0
+33a6b601f2ba48e89f4d5ea729a00252,on,30,170,5,False,O(n2),100.0,100.0
+4066072014c74b208089679f72ffbb68,on,31,170,11,False,"April 23, 1968",100.0,100.0
+520694d545ad4f378e44b51c19c70103,on,31,170,4,False,Ed Asner,100.0,100.0
+dbfb384cc5b04de195337f34ff3df39d,on,31,170,4,False,weak labor movements,100.0,100.0
+e7a1cf7c1bbd4a80a80f2250d2f5cfc2,on,31,170,3,False,Austria,100.0,100.0
+4066072014c74b208089679f72ffbb68,off,31,170,11,False,"April 23, 1968",100.0,100.0
+520694d545ad4f378e44b51c19c70103,off,31,170,4,False,Ed Asner,100.0,100.0
+dbfb384cc5b04de195337f34ff3df39d,off,31,170,4,False,weak labor movements,100.0,100.0
+e7a1cf7c1bbd4a80a80f2250d2f5cfc2,off,31,170,3,False,Austria,100.0,100.0
+0a2e4754643c4c75b5e04d17e2300dbd,off,32,171,13,False,"electrical, water, sewage, phone, and cable facilities",100.0,100.0
+28c3a7ce903a4265810a6c19d983db0d,off,32,171,5,False,1854,100.0,100.0
+312f3ecc576d4a27ab091192622f6eba,off,32,171,20,False,Luther's Last Battles: Politics and Polemics 1531–46,100.0,100.0
+56a14d5135c64ede86fb088113226913,off,32,171,28,False,"banned the growing of coffee, introduced a hut tax, and the landless were granted less and less land in exchange for their labour",100.0,100.0
+0a2e4754643c4c75b5e04d17e2300dbd,on,32,171,13,False,"electrical, water, sewage, phone, and cable facilities",100.0,100.0
+28c3a7ce903a4265810a6c19d983db0d,on,32,171,5,False,1854,100.0,100.0
+312f3ecc576d4a27ab091192622f6eba,on,32,171,20,False,Luther's Last Battles: Politics and Polemics 1531–46,100.0,100.0
+56a14d5135c64ede86fb088113226913,on,32,171,28,False,"banned the growing of coffee, introduced a hut tax, and the landless were granted less and less land in exchange for their labour",100.0,100.0
+7ede548292904ed9a89fda4f7590d401,on,33,171,4,False,Hughes Hotel,100.0,100.0
+9ff8ad7332e14f029c9ae7ae77d7a0bd,on,33,171,9,False,"concurring, smaller assessments of special problems",100.0,100.0
+f8ee200f9029458aae008773912a8b32,on,33,171,6,False,New York–based filmmakers,100.0,100.0
+0e59885ca2b34e49b79b8577806e3853,on,33,172,4,False,Hastings,0.0,50.0
+7ede548292904ed9a89fda4f7590d401,off,33,171,4,False,Hughes Hotel,100.0,100.0
+9ff8ad7332e14f029c9ae7ae77d7a0bd,off,33,171,9,False,"concurring, smaller assessments of special problems",100.0,100.0
+f8ee200f9029458aae008773912a8b32,off,33,171,6,False,New York–based filmmakers,100.0,100.0
+0e59885ca2b34e49b79b8577806e3853,off,33,172,4,False,Hastings,0.0,50.0
+4303aaf8abac4408a5335712c605e27a,off,34,172,8,False,Duke William II of Normandy,0.0,75.0
+44c5554f41014675b303509d9d25cb3e,off,34,172,2,False,China,100.0,100.0
+49199a014d414bd28caa876ce6ce34fd,off,34,172,2,False,Atlantic,0.0,33.33333333333333
+56059662e53d45cd9654dfc543f58032,off,34,172,4,False,glittering,0.0,25.0
+4303aaf8abac4408a5335712c605e27a,on,34,172,8,False,Duke William II of Normandy,0.0,75.0
+44c5554f41014675b303509d9d25cb3e,on,34,172,2,False,China,100.0,100.0
+49199a014d414bd28caa876ce6ce34fd,on,34,172,2,False,Atlantic,0.0,33.33333333333333
+56059662e53d45cd9654dfc543f58032,on,34,172,4,False,glittering,0.0,25.0
+8fc36effad784425b1d2bf19dc784740,on,35,172,2,False,ships,100.0,100.0
+d59bb665d33d42479ad11b325f5964ea,on,35,172,6,False,biostratigraphers,100.0,100.0
+dee651a049c9495f90bea2bb57ad0f66,on,35,172,5,False,tax base dissipated,100.0,100.0
+0155aa244b684494b5863d6ade7ce276,on,35,173,4,False,girls and women,100.0,100.0
+8fc36effad784425b1d2bf19dc784740,off,35,172,2,False,ships,100.0,100.0
+d59bb665d33d42479ad11b325f5964ea,off,35,172,6,False,biostratigraphers,100.0,100.0
+dee651a049c9495f90bea2bb57ad0f66,off,35,172,5,False,tax base dissipated,100.0,100.0
+0155aa244b684494b5863d6ade7ce276,off,35,173,4,False,girls and women,100.0,100.0
+1887868638ad43d2bcebdb8827a0ddd1,off,36,173,2,False,eight,100.0,100.0
+189bd2780b294eabaa7852f1ddb862da,off,36,173,10,False,"VA, the Indian Health Service, and NIH",100.0,100.0
+3622fb1c9c6943269a98cea02001dc13,off,36,173,3,False,most densely,0.0,80.0
+75436153af5a496585ff05cf3ac8c26e,off,36,173,9,False,fossils and stratigraphic correlation,0.0,66.66666666666666
+1887868638ad43d2bcebdb8827a0ddd1,on,36,173,2,False,eight,100.0,100.0
+189bd2780b294eabaa7852f1ddb862da,on,36,173,10,False,"VA, the Indian Health Service, and NIH",100.0,100.0
+3622fb1c9c6943269a98cea02001dc13,on,36,173,3,False,most densely,0.0,80.0
+75436153af5a496585ff05cf3ac8c26e,on,36,173,9,False,fossils and stratigraphic correlation,0.0,66.66666666666666
+85e737ec84d04b35813c29cddb27dedd,on,37,173,7,False,the thorough analysis of all medication,0.0,0.0
+94d2563ab77d43e9a82c90edd70c6bc9,on,37,173,3,False,Morgan,100.0,100.0
+a3a8668c6474441f9361e1b440f79b52,on,37,173,2,False,potential,100.0,100.0
+b884e077d3fe4b05a5d53e1f32ec63b9,on,37,173,5,False,The central highlands,100.0,100.0
+85e737ec84d04b35813c29cddb27dedd,off,37,173,7,False,the thorough analysis of all medication,0.0,0.0
+94d2563ab77d43e9a82c90edd70c6bc9,off,37,173,3,False,Morgan,100.0,100.0
+a3a8668c6474441f9361e1b440f79b52,off,37,173,2,False,potential,100.0,100.0
+b884e077d3fe4b05a5d53e1f32ec63b9,off,37,173,5,False,The central highlands,100.0,100.0
+da1fba7eb91c457cb4b889c53e084472,off,38,173,5,False,Geochronologists,100.0,100.0
+04ee330702b447a4bd78e385dcb2f309,off,38,174,5,False,30 kPa,0.0,0.0
+0cbfa9bd5db64119b0730cc8808836c8,off,38,174,5,False,1888,100.0,100.0
+3b8adbb99e0c4878969f8fa92776176a,off,38,174,3,False,alternative approaches,0.0,66.66666666666666
+da1fba7eb91c457cb4b889c53e084472,on,38,173,5,False,Geochronologists,100.0,100.0
+04ee330702b447a4bd78e385dcb2f309,on,38,174,5,False,30 kPa,0.0,0.0
+0cbfa9bd5db64119b0730cc8808836c8,on,38,174,5,False,1888,100.0,100.0
+3b8adbb99e0c4878969f8fa92776176a,on,38,174,3,False,alternative approaches,0.0,66.66666666666666
+40cf0e76fe1b40eaae63ad8e1407bc83,on,39,174,2,False,adaptive,100.0,100.0
+7e55a9f714f14f5ba72c64fb827894a7,on,39,174,3,False,Price controls,100.0,100.0
+239e5ee2f5974096b9b7e2d16922956b,on,39,175,6,False,neuronal dendrites,100.0,100.0
+4e615c947b074c32829379ad0ac67452,on,39,175,4,False,number of gates,100.0,100.0
+40cf0e76fe1b40eaae63ad8e1407bc83,off,39,174,2,False,adaptive,100.0,100.0
+7e55a9f714f14f5ba72c64fb827894a7,off,39,174,3,False,Price controls,100.0,100.0
+239e5ee2f5974096b9b7e2d16922956b,off,39,175,6,False,neuronal dendrites,100.0,100.0
+4e615c947b074c32829379ad0ac67452,off,39,175,4,False,number of gates,100.0,100.0
+5ce353f054cb438bb1849aac0c02223f,off,40,175,12,False,the disbelieving (Kafir) colonial powers,0.0,0.0
+7a196eb2d906490082ef736e78602650,off,40,175,5,False,France and the Netherlands,0.0,60.0
+8501edad0bf242ce92bec79c91a5a521,off,40,175,5,False,Orientalism,100.0,100.0
+86feab245ef046e39cadc232c75c97ef,off,40,175,3,False,teacher enthusiasm,100.0,100.0
+5ce353f054cb438bb1849aac0c02223f,on,40,175,12,False,the disbelieving (Kafir) colonial powers,0.0,0.0
+7a196eb2d906490082ef736e78602650,on,40,175,5,False,France and the Netherlands,0.0,60.0
+8501edad0bf242ce92bec79c91a5a521,on,40,175,5,False,Orientalism,100.0,100.0
+86feab245ef046e39cadc232c75c97ef,on,40,175,3,False,teacher enthusiasm,100.0,100.0
+b02b47efbe894bf6a2a58140a2729489,on,41,175,5,False,1815,100.0,100.0
+1e9b940f9723409e9914d8f2c1590e9e,on,41,176,4,False,Lorelei,100.0,100.0
+62cb89982a9e458091f961e83840e1e9,on,41,176,4,False,conservative force,0.0,0.0
+7bc925eda076411dbe86be8493e93c28,on,41,176,9,False,by purposely damaging their photosynthetic system,100.0,100.0
+b02b47efbe894bf6a2a58140a2729489,off,41,175,5,False,1815,100.0,100.0
+1e9b940f9723409e9914d8f2c1590e9e,off,41,176,4,False,Lorelei,100.0,100.0
+62cb89982a9e458091f961e83840e1e9,off,41,176,4,False,conservative force,0.0,0.0
+7bc925eda076411dbe86be8493e93c28,off,41,176,9,False,by purposely damaging their photosynthetic system,100.0,100.0
+8054815df8b7450e87b6d75fb350cafd,off,42,176,11,False,some form of the ordinary Eastern or bubonic plague,100.0,100.0
+80d7046409aa4c3e8c8d8521181dbb35,off,42,176,4,False,Stage 3,100.0,100.0
+969d0ae95e054c02b91182821c680d3d,off,42,176,4,False,arranged marriages,100.0,100.0
+9bdf489613b94ddcac500f1704adcdbf,off,42,176,5,False,Medication Therapy Management,0.0,11.76470588235294
+8054815df8b7450e87b6d75fb350cafd,on,42,176,11,False,some form of the ordinary Eastern or bubonic plague,100.0,100.0
+80d7046409aa4c3e8c8d8521181dbb35,on,42,176,4,False,Stage 3,100.0,100.0
+969d0ae95e054c02b91182821c680d3d,on,42,176,4,False,arranged marriages,100.0,100.0
+9bdf489613b94ddcac500f1704adcdbf,on,42,176,5,False,Medication Therapy Management,0.0,11.76470588235294
+a8ff07cca8d24411903e4615cfb3d19f,on,43,176,7,False,December 2014,100.0,100.0
+c52e84e3854243e1bcbf5270aaf4dcb5,on,43,176,11,False,generally unfounded and also marginal to the assessment,100.0,100.0
+d0f87de9a3984d16aaa65c34e42454bc,on,43,176,5,False,Solimões Basin,100.0,100.0
+d36001be8d4144f3a1b08d505b5c2b05,on,43,176,6,False,HMS Dreadnought,0.0,50.0
+a8ff07cca8d24411903e4615cfb3d19f,off,43,176,7,False,December 2014,100.0,100.0
+c52e84e3854243e1bcbf5270aaf4dcb5,off,43,176,11,False,generally unfounded and also marginal to the assessment,100.0,100.0
+d0f87de9a3984d16aaa65c34e42454bc,off,43,176,5,False,Solimões Basin,100.0,100.0
+d36001be8d4144f3a1b08d505b5c2b05,off,43,176,6,False,HMS Dreadnought,0.0,50.0
+2e994c31afb64cbf8cecd87146422cf0,off,44,177,6,False,coordinating lead author,0.0,60.0
+438f829d51bf4fb1b6ffd01931fa2e8e,off,44,177,5,False,1.6 kilometres,100.0,100.0
+61340856e4a64e9083da4a8386e58ddc,off,44,177,10,False,2006 Israel-Lebanon conflict,100.0,100.0
+b5f4de2721ed48248930f25670acbf27,off,44,177,3,False,curved,100.0,100.0
+2e994c31afb64cbf8cecd87146422cf0,on,44,177,6,False,coordinating lead author,0.0,60.0
+438f829d51bf4fb1b6ffd01931fa2e8e,on,44,177,5,False,1.6 kilometres,100.0,100.0
+61340856e4a64e9083da4a8386e58ddc,on,44,177,10,False,2006 Israel-Lebanon conflict,100.0,100.0
+b5f4de2721ed48248930f25670acbf27,on,44,177,3,False,curved,100.0,100.0
+c36f2fb454364fb4bbd56f86bafefee0,on,45,177,4,False,James Hutton,100.0,100.0
+d4015c326ef2486d972b4bc91d26e4c4,on,45,177,4,False,New York City,100.0,100.0
+dad18804307d41728428e815e7fbcd99,on,45,177,16,False,"damage to the existing electrical, water, sewage, phone, and cable facilities",0.0,90.9090909090909
+65418a5db6c3476db328f78c0bd1e71f,on,45,178,3,False,regeneration,0.0,0.0
+c36f2fb454364fb4bbd56f86bafefee0,off,45,177,4,False,James Hutton,100.0,100.0
+d4015c326ef2486d972b4bc91d26e4c4,off,45,177,4,False,New York City,100.0,100.0
+dad18804307d41728428e815e7fbcd99,off,45,177,16,False,"damage to the existing electrical, water, sewage, phone, and cable facilities",0.0,90.9090909090909
+65418a5db6c3476db328f78c0bd1e71f,off,45,178,3,False,regeneration,0.0,0.0
+6aa83d4abdfe4b0aa2ae6b8b8b46ded5,off,46,178,2,False,three,100.0,100.0
+807c479ac64546dead4ed38c9e68468e,off,46,178,3,False,journal Nature,100.0,100.0
+8b2ebc78495a4e48903e5cb03e5e3a42,off,46,178,4,False,time and storage,100.0,100.0
+aee42aea969e41689ce35b57875e56c1,off,46,178,4,False,BSkyB,100.0,100.0
+6aa83d4abdfe4b0aa2ae6b8b8b46ded5,on,46,178,2,False,three,100.0,100.0
+807c479ac64546dead4ed38c9e68468e,on,46,178,3,False,journal Nature,100.0,100.0
+8b2ebc78495a4e48903e5cb03e5e3a42,on,46,178,4,False,time and storage,100.0,100.0
+aee42aea969e41689ce35b57875e56c1,on,46,178,4,False,BSkyB,100.0,100.0
+e4e7eeec08824de4817fc8afc9756079,on,47,178,10,False,a three-fifths majority in both houses,0.0,0.0
+14971c15f14a42b5b41e20f2f87aee1a,on,47,179,5,False,1796,0.0,66.66666666666666
+1f4ad6a2b77d432d9c9d95ffa55594cd,on,47,179,3,False,low latitude,100.0,100.0
+24ac9fee3d3b4b70a309d5516ca40414,on,47,179,11,False,"higher education, along with other forms of vocational training",0.0,36.36363636363637
+e4e7eeec08824de4817fc8afc9756079,off,47,178,10,False,a three-fifths majority in both houses,0.0,0.0
+14971c15f14a42b5b41e20f2f87aee1a,off,47,179,5,False,1796,0.0,66.66666666666666
+1f4ad6a2b77d432d9c9d95ffa55594cd,off,47,179,3,False,low latitude,100.0,100.0
+24ac9fee3d3b4b70a309d5516ca40414,off,47,179,11,False,"higher education, along with other forms of vocational training",0.0,36.36363636363637
+30dad19ce6034232b4a8610a97a3014b,off,48,179,5,False,Knights Templar,100.0,100.0
+59a5395b1cec464f94c316c32b6c776b,off,48,179,4,False,Montreal Protocol,100.0,100.0
+67e50ffbf1b64773bb1acd13008438e8,off,48,179,2,False,Four,0.0,0.0
+6dd56418d59b43bd8956e849bb42499a,off,48,179,5,False,may no longer exist,100.0,100.0
+30dad19ce6034232b4a8610a97a3014b,on,48,179,5,False,Knights Templar,100.0,100.0
+59a5395b1cec464f94c316c32b6c776b,on,48,179,4,False,Montreal Protocol,100.0,100.0
+67e50ffbf1b64773bb1acd13008438e8,on,48,179,2,False,Four,0.0,0.0
+6dd56418d59b43bd8956e849bb42499a,on,48,179,5,False,may no longer exist,100.0,100.0
+8806616eb9fd4712b532a9e1e860b33c,on,49,179,6,False,MHC class I molecules,100.0,100.0
+97f1c00f0f0343fcadc0383df50f346e,on,49,179,5,False,80.4,100.0,100.0
+eba149d5ebbd444d92e9e8bed1fd65fd,on,49,179,12,False,the Earth must be much older than had previously been supposed,100.0,100.0
+ebe4a438e81740038cd0fba928bee8c7,on,49,179,5,False,the Justinian plague,100.0,100.0
+8806616eb9fd4712b532a9e1e860b33c,off,49,179,6,False,MHC class I molecules,100.0,100.0
+97f1c00f0f0343fcadc0383df50f346e,off,49,179,5,False,80.4,100.0,100.0
+eba149d5ebbd444d92e9e8bed1fd65fd,off,49,179,12,False,the Earth must be much older than had previously been supposed,100.0,100.0
+ebe4a438e81740038cd0fba928bee8c7,off,49,179,5,False,the Justinian plague,100.0,100.0
+014538107950403e877f65b48cb0edd3,off,50,180,7,False,consortium of several contractors,100.0,100.0
+54bf6e06a06b43f19c6317b3cd2adbad,off,50,180,2,False,Chinese,100.0,100.0
+9610c34345e14ca8ac37690410606f35,off,50,180,4,False,Bill Aken,100.0,100.0
+be943b4286644f2f9d7a4580b2be36e6,off,50,180,4,False,an occupancy permit,100.0,100.0
+014538107950403e877f65b48cb0edd3,on,50,180,7,False,consortium of several contractors,100.0,100.0
+54bf6e06a06b43f19c6317b3cd2adbad,on,50,180,2,False,Chinese,100.0,100.0
+9610c34345e14ca8ac37690410606f35,on,50,180,4,False,Bill Aken,100.0,100.0
+be943b4286644f2f9d7a4580b2be36e6,on,50,180,4,False,an occupancy permit,100.0,100.0
+246b675868e64ffcaecb9de45c01eec5,on,51,181,2,False,Wednesday,0.0,0.0
+75bc7ff5c85b4a6eb4e6a351f09ddfb9,on,51,181,3,False,The UK,100.0,100.0
+8a68851521464f949ace8cf56565f888,on,51,181,9,False,local building authority regulations and codes of practice,100.0,100.0
+8bc2a400eb7b4917b98141779f923374,on,51,181,4,False,ignition sources,0.0,36.36363636363637
+246b675868e64ffcaecb9de45c01eec5,off,51,181,2,False,Wednesday,0.0,0.0
+75bc7ff5c85b4a6eb4e6a351f09ddfb9,off,51,181,3,False,The UK,100.0,100.0
+8a68851521464f949ace8cf56565f888,off,51,181,9,False,local building authority regulations and codes of practice,100.0,100.0
+8bc2a400eb7b4917b98141779f923374,off,51,181,4,False,ignition sources,0.0,36.36363636363637
+df031fbef15d44aa87ebd8cca17693e3,off,52,181,6,False,boom-and-bust cycles,100.0,100.0
+dfddda2ca4964f76ade2c70cc07e668b,off,52,181,5,False,underlying political reasons,0.0,80.0
+127bb81787684dbf94ebdad1c9ba28d5,off,52,182,4,False,Lauren Oliver,100.0,100.0
+196fd84f3099402f8c8c34aa44e2274a,off,52,182,9,False,blurring of theological and confessional differences,0.0,75.0
+df031fbef15d44aa87ebd8cca17693e3,on,52,181,6,False,boom-and-bust cycles,100.0,100.0
+dfddda2ca4964f76ade2c70cc07e668b,on,52,181,5,False,underlying political reasons,0.0,80.0
+127bb81787684dbf94ebdad1c9ba28d5,on,52,182,4,False,Lauren Oliver,100.0,100.0
+196fd84f3099402f8c8c34aa44e2274a,on,52,182,9,False,blurring of theological and confessional differences,0.0,75.0
+cbdb3673e0894fac892d119f65a9b6fa,on,53,182,2,False,Africa,100.0,100.0
+d8d85ca868d74959b100d936fd8cd306,on,53,182,7,False,many castles and vineyards,0.0,85.71428571428571
+dc881fe15e964f2ea16ffdde736f97cb,on,53,182,5,False,Richard Trevithick,0.0,0.0
+f03256b75d9544559924956884304c90,on,53,182,5,False,1489,100.0,100.0
+cbdb3673e0894fac892d119f65a9b6fa,off,53,182,2,False,Africa,100.0,100.0
+d8d85ca868d74959b100d936fd8cd306,off,53,182,7,False,many castles and vineyards,0.0,85.71428571428571
+dc881fe15e964f2ea16ffdde736f97cb,off,53,182,5,False,Richard Trevithick,0.0,0.0
+f03256b75d9544559924956884304c90,off,53,182,5,False,1489,100.0,100.0
+091ba0974dba4b55bfb676a864bd701b,off,54,183,5,False,the city of Quebec,0.0,35.294117647058826
+0eb667d665c24ba2b76f0e32e2176d9a,off,54,183,9,False,"Milka, Angelina and Marica",100.0,100.0
+21ceea654c2642c783539a063197924b,off,54,183,4,False,piranha,100.0,100.0
+3c2b2ff3fbe24378b12bd805497bf961,off,54,183,2,False,England,100.0,100.0
+091ba0974dba4b55bfb676a864bd701b,on,54,183,5,False,the city of Quebec,0.0,35.294117647058826
+0eb667d665c24ba2b76f0e32e2176d9a,on,54,183,9,False,"Milka, Angelina and Marica",100.0,100.0
+21ceea654c2642c783539a063197924b,on,54,183,4,False,piranha,100.0,100.0
+3c2b2ff3fbe24378b12bd805497bf961,on,54,183,2,False,England,100.0,100.0
+58171a6cc17e4b17a244faa93bf9b308,on,55,183,2,False,never,100.0,100.0
+b6d8f24e1aab455f94ad5028b589aeae,on,55,183,2,False,Four,0.0,0.0
+e06dff4e3e3a46b18fd0252fa9399cb2,on,55,183,8,False,Church and the Methodist-Christian theological tradition,0.0,20.0
+eb5f8ea6298947ed9df4207932fb9e5a,on,55,183,6,False,State Route 99,100.0,100.0
+58171a6cc17e4b17a244faa93bf9b308,off,55,183,2,False,never,100.0,100.0
+b6d8f24e1aab455f94ad5028b589aeae,off,55,183,2,False,Four,0.0,0.0
+e06dff4e3e3a46b18fd0252fa9399cb2,off,55,183,8,False,Church and the Methodist-Christian theological tradition,0.0,20.0
+eb5f8ea6298947ed9df4207932fb9e5a,off,55,183,6,False,State Route 99,100.0,100.0
+313f5ea1ea5e4255a7c72aeb3f07ad44,off,56,184,5,False,Spike Milligan,100.0,100.0
+76c78e7c6d3a4ca4aac8bc450a397a15,off,56,184,6,False,Project Mercury and Gemini veterans,0.0,88.88888888888889
+81646dbb01384bbe8d9e2cb47b9e8cf4,off,56,184,4,False,satellite platform,100.0,100.0
+a1f11c55361d43bfbf9bbd9d9e5a1d6c,off,56,184,2,False,forces,100.0,100.0
+313f5ea1ea5e4255a7c72aeb3f07ad44,on,56,184,5,False,Spike Milligan,100.0,100.0
+76c78e7c6d3a4ca4aac8bc450a397a15,on,56,184,6,False,Project Mercury and Gemini veterans,0.0,88.88888888888889
+81646dbb01384bbe8d9e2cb47b9e8cf4,on,56,184,4,False,satellite platform,100.0,100.0
+a1f11c55361d43bfbf9bbd9d9e5a1d6c,on,56,184,2,False,forces,100.0,100.0
+c503fc07777040a4be6516beaec3bbaf,on,57,184,8,False,Battle of the Restigouche,100.0,100.0
+d0e4ad15257f4bd3b28ae6048ea31a31,on,57,184,3,False,Conservative,100.0,100.0
+e7cbd3fbe4cb45f1bbb823e919c338cd,on,57,184,10,False,proving that any of these classes are unequal,100.0,100.0
+0314ca7057d945be903d58bbed72a326,on,57,185,4,False,steam engine indicator,100.0,100.0
+c503fc07777040a4be6516beaec3bbaf,off,57,184,8,False,Battle of the Restigouche,100.0,100.0
+d0e4ad15257f4bd3b28ae6048ea31a31,off,57,184,3,False,Conservative,100.0,100.0
+e7cbd3fbe4cb45f1bbb823e919c338cd,off,57,184,10,False,proving that any of these classes are unequal,100.0,100.0
+0314ca7057d945be903d58bbed72a326,off,57,185,4,False,steam engine indicator,100.0,100.0
+078cb7b9b9ea4ce5bb6112b9959d5c54,off,58,185,6,False,the courts of member states,100.0,100.0
+12b70f30fc2b4d5594774beb6cce2ba4,off,58,185,5,False,colloblasts,100.0,100.0
+247c5e38ad3c42c09cf69a4bc1552517,off,58,185,3,False,Newcastle,100.0,100.0
+80282248af7b46408d8aba9227df34c1,off,58,185,8,False,"water, coal, and hydrocarbon",0.0,88.88888888888889
+078cb7b9b9ea4ce5bb6112b9959d5c54,on,58,185,6,False,the courts of member states,100.0,100.0
+12b70f30fc2b4d5594774beb6cce2ba4,on,58,185,5,False,colloblasts,100.0,100.0
+247c5e38ad3c42c09cf69a4bc1552517,on,58,185,3,False,Newcastle,100.0,100.0
+80282248af7b46408d8aba9227df34c1,on,58,185,8,False,"water, coal, and hydrocarbon",0.0,88.88888888888889
+94fca410e45f45149cfc572d32d24fda,on,59,185,3,False,achievement-oriented,100.0,100.0
+ca36cf97fef34ec79967f4036689cfcc,on,59,185,4,False,artificial lightning,0.0,66.66666666666666
+da06d824da6144ea8ee4d55ee66468a9,on,59,185,3,False,soap sponge,100.0,100.0
+e04504eca27f4c408466aa5691529b9c,on,59,185,5,False,1862,100.0,100.0
+94fca410e45f45149cfc572d32d24fda,off,59,185,3,False,achievement-oriented,100.0,100.0
+ca36cf97fef34ec79967f4036689cfcc,off,59,185,4,False,artificial lightning,0.0,66.66666666666666
+da06d824da6144ea8ee4d55ee66468a9,off,59,185,3,False,soap sponge,100.0,100.0
+e04504eca27f4c408466aa5691529b9c,off,59,185,5,False,1862,100.0,100.0
+e5259ef3d4474eac9a93ea251725d408,off,60,185,3,False,Charles Porter,100.0,100.0
+e735e397cb74464ba809586620779aa5,off,60,185,3,False,Muslim public,0.0,0.0
+06963072fb42419f8f03c80ce2b62313,off,60,186,3,False,packet switching,100.0,100.0
+073f6f1086594ee68503fe8abf7a569d,off,60,186,4,False,negative long-term,100.0,100.0
+e5259ef3d4474eac9a93ea251725d408,on,60,185,3,False,Charles Porter,100.0,100.0
+e735e397cb74464ba809586620779aa5,on,60,185,3,False,Muslim public,0.0,0.0
+06963072fb42419f8f03c80ce2b62313,on,60,186,3,False,packet switching,100.0,100.0
+073f6f1086594ee68503fe8abf7a569d,on,60,186,4,False,negative long-term,100.0,100.0
+07697478ca2a479a8359f8b91a77c353,on,61,186,10,False,687 and 760 nm,100.0,100.0
+1a302390d0ee46db81bdd088edbe8902,on,61,186,3,False,Westminster,100.0,100.0
+4c4fecad62d5438ebd1efb4e72fed6c1,on,61,186,5,False,colloblasts,100.0,100.0
+6aa998ebcd384364bd6d567f4da538f4,on,61,186,8,False,substantially increased the asking price,100.0,100.0
+07697478ca2a479a8359f8b91a77c353,off,61,186,10,False,687 and 760 nm,100.0,100.0
+1a302390d0ee46db81bdd088edbe8902,off,61,186,3,False,Westminster,100.0,100.0
+4c4fecad62d5438ebd1efb4e72fed6c1,off,61,186,5,False,colloblasts,100.0,100.0
+6aa998ebcd384364bd6d567f4da538f4,off,61,186,8,False,substantially increased the asking price,100.0,100.0
+9800543a8446458fb3c974d9a1461674,off,62,186,7,False,Hmong or Laotian,100.0,100.0
+b9692989d93441dcad8b39a8c996a29c,off,62,186,4,False,protein structure prediction,100.0,100.0
+cfa0918d8b064bb5a16e222cb530fb22,off,62,186,16,False,Underbids happen when builders ask for too little money to complete the project,0.0,90.9090909090909
+d37b318e3c3043dfa81598efb5f6415d,off,62,186,5,False,BBC Dead Ringers,100.0,100.0
+9800543a8446458fb3c974d9a1461674,on,62,186,7,False,Hmong or Laotian,100.0,100.0
+b9692989d93441dcad8b39a8c996a29c,on,62,186,4,False,protein structure prediction,100.0,100.0
+cfa0918d8b064bb5a16e222cb530fb22,on,62,186,16,False,Underbids happen when builders ask for too little money to complete the project,0.0,90.9090909090909
+d37b318e3c3043dfa81598efb5f6415d,on,62,186,5,False,BBC Dead Ringers,100.0,100.0
+f1504f7ea02f44099d9116f38ef55ac3,on,63,186,3,False,sheath,100.0,100.0
+fe989fe1ccf842aa94cfbefb79855db4,on,63,186,3,False,Timur,100.0,100.0
+14d3c08211a04b80b8be932df26971c4,on,63,187,6,False,"1,000",100.0,100.0
+1b99515a35264edaacbc7e0f6e8aa66c,on,63,187,3,False,John Wesley,100.0,100.0
+f1504f7ea02f44099d9116f38ef55ac3,off,63,186,3,False,sheath,100.0,100.0
+fe989fe1ccf842aa94cfbefb79855db4,off,63,186,3,False,Timur,100.0,100.0
+14d3c08211a04b80b8be932df26971c4,off,63,187,6,False,"1,000",100.0,100.0
+1b99515a35264edaacbc7e0f6e8aa66c,off,63,187,3,False,John Wesley,100.0,100.0
+27dc3895eb4842b3bff4f6020c6a8a88,off,64,187,3,False,The Liberals,100.0,100.0
+3f8c4647f15042aa85917e42e31b1ef2,off,64,187,3,False,Scotland Parliament,0.0,0.0
+7478f896c6cd41cf8e5d8ace2ae51c49,off,64,187,4,False,a placebo effect,100.0,100.0
+77d0014cfe8f4bb2a678b41e850ae37d,off,64,187,4,False,ARPANET,100.0,100.0
+27dc3895eb4842b3bff4f6020c6a8a88,on,64,187,3,False,The Liberals,100.0,100.0
+3f8c4647f15042aa85917e42e31b1ef2,on,64,187,3,False,Scotland Parliament,0.0,0.0
+7478f896c6cd41cf8e5d8ace2ae51c49,on,64,187,4,False,a placebo effect,100.0,100.0
+77d0014cfe8f4bb2a678b41e850ae37d,on,64,187,4,False,ARPANET,100.0,100.0
+97fcab2adcfc479d8ac548a060a6cb08,on,65,187,4,False,Presiding Officer,100.0,100.0
+a7ef9b69bbe8463fb4021b0b5a7f9ed5,on,65,187,3,False,37,100.0,100.0
+b3acc9705cb64287bc21b350eb0cb231,on,65,187,19,False,United Nations Environment Programme (UNEP) and the World Meteorological Organization (WMO),100.0,100.0
+db472695be5e41a281c05d4d7c15bd5a,on,65,187,8,False,the solvability of quadratic equations,100.0,100.0
+97fcab2adcfc479d8ac548a060a6cb08,off,65,187,4,False,Presiding Officer,100.0,100.0
+a7ef9b69bbe8463fb4021b0b5a7f9ed5,off,65,187,3,False,37,100.0,100.0
+b3acc9705cb64287bc21b350eb0cb231,off,65,187,19,False,United Nations Environment Programme (UNEP) and the World Meteorological Organization (WMO),100.0,100.0
+db472695be5e41a281c05d4d7c15bd5a,off,65,187,8,False,the solvability of quadratic equations,100.0,100.0
+e003f3f8d8dd4d62a98f3e114b806860,off,66,187,7,False,"war, famine, and weather",100.0,100.0
+2245e7018e504ed4bd41529c81908186,off,66,188,7,False,offer membership preparation or confirmation classes,0.0,0.0
+3c15f318ed994364b3859b2fbca9ce1a,off,66,188,7,False,515 million years ago,0.0,85.71428571428571
+459c7689552047759567b9040ffdc1d0,off,66,188,5,False,defying Creon,0.0,10.0
+e003f3f8d8dd4d62a98f3e114b806860,on,66,187,7,False,"war, famine, and weather",100.0,100.0
+2245e7018e504ed4bd41529c81908186,on,66,188,7,False,offer membership preparation or confirmation classes,0.0,0.0
+3c15f318ed994364b3859b2fbca9ce1a,on,66,188,7,False,515 million years ago,0.0,85.71428571428571
+459c7689552047759567b9040ffdc1d0,on,66,188,5,False,defying Creon,0.0,10.0
+5fc406e4915842b5a33fd07f8ffc1605,on,67,188,4,False,Methodist institutions,100.0,100.0
+64e633922bf34dedbdce6e6c2aeca4e5,on,67,188,4,False,400,100.0,100.0
+67f646cfcca6445dabe631ed36c2aeec,on,67,188,7,False,Battle of Sainte-Foy,100.0,100.0
+bd02b83b5afc479886595b87b8a03725,on,67,188,3,False,modern fashion,100.0,100.0
+5fc406e4915842b5a33fd07f8ffc1605,off,67,188,4,False,Methodist institutions,100.0,100.0
+64e633922bf34dedbdce6e6c2aeca4e5,off,67,188,4,False,400,100.0,100.0
+67f646cfcca6445dabe631ed36c2aeec,off,67,188,7,False,Battle of Sainte-Foy,100.0,100.0
+bd02b83b5afc479886595b87b8a03725,off,67,188,3,False,modern fashion,100.0,100.0
+c48d3a228b3a468898546d0af5bc34d9,off,68,188,4,False,Kenyan Coast,100.0,100.0
+d64f62f92d8c40eabbd09991bf2f29b4,off,68,188,6,False,St. Lawrence River valley,100.0,100.0
+d8c0f9e4482143ddbdb8f9575e16f868,off,68,188,4,False,the WMO,0.0,0.0
+f418620e4a344d3496229e67b4285eed,off,68,188,3,False,Seine,100.0,100.0
+c48d3a228b3a468898546d0af5bc34d9,on,68,188,4,False,Kenyan Coast,100.0,100.0
+d64f62f92d8c40eabbd09991bf2f29b4,on,68,188,6,False,St. Lawrence River valley,100.0,100.0
+d8c0f9e4482143ddbdb8f9575e16f868,on,68,188,4,False,the WMO,0.0,0.0
+f418620e4a344d3496229e67b4285eed,on,68,188,3,False,Seine,100.0,100.0
+f5afe8955a6a471299586e5042417eab,on,69,188,4,False,geophysical surveys,100.0,100.0
+ff6752fe32184b57be9e3355da3013cc,on,69,188,5,False,innate immune system,100.0,100.0
+ff6842d320774f7e924791b16ffbbb86,on,69,188,4,False,civil disobedience,0.0,0.0
+0fd4bd27b02246bbbe8eec8673c4924c,on,69,189,4,False,John Mayow,100.0,100.0
+f5afe8955a6a471299586e5042417eab,off,69,188,4,False,geophysical surveys,100.0,100.0
+ff6752fe32184b57be9e3355da3013cc,off,69,188,5,False,innate immune system,100.0,100.0
+ff6842d320774f7e924791b16ffbbb86,off,69,188,4,False,civil disobedience,0.0,0.0
+0fd4bd27b02246bbbe8eec8673c4924c,off,69,189,4,False,John Mayow,100.0,100.0
+1ab1a62f64d84e7494baff756611a29f,off,70,189,9,False,St. Lawrence and Mississippi watersheds,100.0,100.0
+3589720f968f4b2e8c9c7c2a27526421,off,70,189,6,False,Dornbirner Ach,100.0,100.0
+4b52680706f74eb5ab308f0cc3c357ea,off,70,189,3,False,Reserved matters,100.0,100.0
+7cae84d369cb4c6da7c219554655b4dc,off,70,189,5,False,760 mm,100.0,100.0
+1ab1a62f64d84e7494baff756611a29f,on,70,189,9,False,St. Lawrence and Mississippi watersheds,100.0,100.0
+3589720f968f4b2e8c9c7c2a27526421,on,70,189,6,False,Dornbirner Ach,100.0,100.0
+4b52680706f74eb5ab308f0cc3c357ea,on,70,189,3,False,Reserved matters,100.0,100.0
+7cae84d369cb4c6da7c219554655b4dc,on,70,189,5,False,760 mm,100.0,100.0
+aec48f56993d489d9d20ce21a198befe,on,71,189,3,False,co-operation,100.0,100.0
+cd2a47c9558e48559500b8a2fa899663,on,71,189,3,False,Bill Clinton,100.0,100.0
+d87dbec9b8d940019eade25550b45214,on,71,189,7,False,"75,000",100.0,100.0
+db5bb77d2d7747db86543bd7bb4af2de,on,71,189,3,False,open standards,100.0,100.0
+aec48f56993d489d9d20ce21a198befe,off,71,189,3,False,co-operation,100.0,100.0
+cd2a47c9558e48559500b8a2fa899663,off,71,189,3,False,Bill Clinton,100.0,100.0
+d87dbec9b8d940019eade25550b45214,off,71,189,7,False,"75,000",100.0,100.0
+db5bb77d2d7747db86543bd7bb4af2de,off,71,189,3,False,open standards,100.0,100.0
+fd051449a0ee4c60a7f18d6c4db40a73,off,72,189,5,False,Saddam Hussein,100.0,100.0
+290f45c64f0d459d8954b73a4aa8802b,off,72,190,4,False,Apollo 8,100.0,100.0
+2e23cb0aae9345dc9fd324ef358c14a3,off,72,190,5,False,Western Xia and Jin,0.0,61.53846153846154
+3c53141e287d4218a963b83fe823f0a6,off,72,190,5,False,1767,100.0,100.0
+fd051449a0ee4c60a7f18d6c4db40a73,on,72,189,5,False,Saddam Hussein,100.0,100.0
+290f45c64f0d459d8954b73a4aa8802b,on,72,190,4,False,Apollo 8,100.0,100.0
+2e23cb0aae9345dc9fd324ef358c14a3,on,72,190,5,False,Western Xia and Jin,0.0,61.53846153846154
+3c53141e287d4218a963b83fe823f0a6,on,72,190,5,False,1767,100.0,100.0
+5b0b13c785a94bf9af303e0e7f998ffe,on,73,190,4,False,infected corpses,100.0,100.0
+6f895b1cbe3648509f79d479a2bf24ed,on,73,190,13,False,"Singapore, London, and the downtown Streeterville neighborhood of Chicago",100.0,100.0
+bbff4b78e6cd47eabb62be526433c240,on,73,190,10,False,understates the uncertainty associated with climate models,100.0,100.0
+bd7510049c6d47f38cac91576f62c55b,on,73,190,3,False,poor,0.0,0.0
+5b0b13c785a94bf9af303e0e7f998ffe,off,73,190,4,False,infected corpses,100.0,100.0
+6f895b1cbe3648509f79d479a2bf24ed,off,73,190,13,False,"Singapore, London, and the downtown Streeterville neighborhood of Chicago",100.0,100.0
+bbff4b78e6cd47eabb62be526433c240,off,73,190,10,False,understates the uncertainty associated with climate models,100.0,100.0
+bd7510049c6d47f38cac91576f62c55b,off,73,190,3,False,poor,0.0,0.0
+0733de5977934794aea23191821a63ad,off,74,191,3,False,ideologue,0.0,0.0
+24aec8e2424c4b9a9c67c0033263375f,off,74,191,11,False,"structural collapse, cost overruns, and/or litigation",100.0,100.0
+36d749ef4e07492e8638e814f63a496a,off,74,191,12,False,Because everyday clothing from previous eras has not generally survived,100.0,100.0
+4549116287804200ad0f0f3da36488f9,off,74,191,5,False,Enrico Fermi,100.0,100.0
+0733de5977934794aea23191821a63ad,on,74,191,3,False,ideologue,0.0,0.0
+24aec8e2424c4b9a9c67c0033263375f,on,74,191,11,False,"structural collapse, cost overruns, and/or litigation",100.0,100.0
+36d749ef4e07492e8638e814f63a496a,on,74,191,12,False,Because everyday clothing from previous eras has not generally survived,100.0,100.0
+4549116287804200ad0f0f3da36488f9,on,74,191,5,False,Enrico Fermi,100.0,100.0
+760540d50b2744fa9ee5e380277b964c,on,75,191,5,False,1850,0.0,0.0
+8d88d40c530849d389d94e3b7f39972e,on,75,191,9,False,"transportation accidents, and trench cave-ins",0.0,90.9090909090909
+90024c3cc8784a31b9549269f9080f7e,on,75,191,17,False,the letter from Dinwiddie demanding an immediate French withdrawal from the Ohio Country,0.0,94.73684210526315
+9a9ff106d89b4537a4417fbc4b8805a1,on,75,191,29,False,writing a five volume book in his native Greek Περί ύλης ιατρικής,0.0,84.21052631578947
+760540d50b2744fa9ee5e380277b964c,off,75,191,5,False,1850,0.0,0.0
+8d88d40c530849d389d94e3b7f39972e,off,75,191,9,False,"transportation accidents, and trench cave-ins",0.0,90.9090909090909
+90024c3cc8784a31b9549269f9080f7e,off,75,191,17,False,the letter from Dinwiddie demanding an immediate French withdrawal from the Ohio Country,0.0,94.73684210526315
+9a9ff106d89b4537a4417fbc4b8805a1,off,75,191,29,False,writing a five volume book in his native Greek Περί ύλης ιατρικής,0.0,84.21052631578947
+de2c1e2b407948b69023e05b6b0ffa5b,off,76,191,5,False,November every four years,0.0,85.71428571428571
+f7bfca5897f841379bd44db8662c0967,off,76,191,8,False,spiritus nitroaereus,100.0,100.0
+fb8da6830dc44c17b7d8dfcdfab5876e,off,76,191,3,False,cpDNA,100.0,100.0
+01eaa3122832401eae73fe5882b2b6bd,off,76,192,5,False,blood–brain barrier,0.0,57.14285714285714
+de2c1e2b407948b69023e05b6b0ffa5b,on,76,191,5,False,November every four years,0.0,85.71428571428571
+f7bfca5897f841379bd44db8662c0967,on,76,191,8,False,spiritus nitroaereus,100.0,100.0
+fb8da6830dc44c17b7d8dfcdfab5876e,on,76,191,3,False,cpDNA,100.0,100.0
+01eaa3122832401eae73fe5882b2b6bd,on,76,192,5,False,blood–brain barrier,0.0,57.14285714285714
+3d2db90c15ea4f12862ace1e752f90c6,on,77,192,4,False,Wilson's theorem,100.0,100.0
+6bfecba0d6c34b76942c47db722313be,on,77,192,5,False,guidance and intervention,100.0,100.0
+8b2f772627f14482803182dcc23fb31b,on,77,192,9,False,in solution in the world's water bodies,100.0,100.0
+ce2432d12c37406585290a2a8c73ba43,on,77,192,5,False,systematic economic inequalities,100.0,100.0
+3d2db90c15ea4f12862ace1e752f90c6,off,77,192,4,False,Wilson's theorem,100.0,100.0
+6bfecba0d6c34b76942c47db722313be,off,77,192,5,False,guidance and intervention,100.0,100.0
+8b2f772627f14482803182dcc23fb31b,off,77,192,9,False,in solution in the world's water bodies,100.0,100.0
+ce2432d12c37406585290a2a8c73ba43,off,77,192,5,False,systematic economic inequalities,100.0,100.0
+1f9256c3dcf3443b9b991b1cc2b782e6,off,78,193,11,False,1947 to 1967,0.0,0.0
+21584375651b4094bbfefa89f50f8161,off,78,193,5,False,1967,100.0,100.0
+532e9e5b809448118d83205b3a75d11c,off,78,193,6,False,Emergency Highway Energy Conservation Act,100.0,100.0
+571752d316714704ad29af149962b51f,off,78,193,2,False,eight,100.0,100.0
+1f9256c3dcf3443b9b991b1cc2b782e6,on,78,193,11,False,1947 to 1967,0.0,0.0
+21584375651b4094bbfefa89f50f8161,on,78,193,5,False,1967,100.0,100.0
+532e9e5b809448118d83205b3a75d11c,on,78,193,6,False,Emergency Highway Energy Conservation Act,100.0,100.0
+571752d316714704ad29af149962b51f,on,78,193,2,False,eight,100.0,100.0
+6cb9b365b4fd49f49818b323ca41ebcf,on,79,193,8,False,Maria Goeppert-Mayer,100.0,100.0
+7b793fa557494d46809953ea9572cf37,on,79,193,5,False,Barnett Center,100.0,100.0
+822ac7c7d1b04cb49ebb9078b63efcd8,on,79,193,4,False,Conservative Party,100.0,100.0
+9605f0ca025245e9b755e90c47d4bc73,on,79,193,9,False,mujahideen Muslim Afghanistan enemies,0.0,85.71428571428571
+6cb9b365b4fd49f49818b323ca41ebcf,off,79,193,8,False,Maria Goeppert-Mayer,100.0,100.0
+7b793fa557494d46809953ea9572cf37,off,79,193,5,False,Barnett Center,100.0,100.0
+822ac7c7d1b04cb49ebb9078b63efcd8,off,79,193,4,False,Conservative Party,100.0,100.0
+9605f0ca025245e9b755e90c47d4bc73,off,79,193,9,False,mujahideen Muslim Afghanistan enemies,0.0,85.71428571428571
+e4ef37e3235c4359b8035f1268c02ecc,off,80,193,10,False,"over 750,000",0.0,50.0
+22d852c0b1274baf96336cd8fc99c92c,off,80,194,3,False,local-global,100.0,100.0
+2fd189aa5cbf49968728fc7cac548441,off,80,194,5,False,1638,100.0,100.0
+4e3559fb5fb34174980410fd1a54ea8d,off,80,194,3,False,regenerate,100.0,100.0
+e4ef37e3235c4359b8035f1268c02ecc,on,80,193,10,False,"over 750,000",0.0,50.0
+22d852c0b1274baf96336cd8fc99c92c,on,80,194,3,False,local-global,100.0,100.0
+2fd189aa5cbf49968728fc7cac548441,on,80,194,5,False,1638,100.0,100.0
+4e3559fb5fb34174980410fd1a54ea8d,on,80,194,3,False,regenerate,100.0,100.0
+811ae6242ca34a8db81e8bd7f2a9b8a6,on,81,194,19,False,1–3 cm (0.39–1.18 in) per century,100.0,100.0
+a08ff6a3b1e246cd81b8f7f8981a22fc,on,81,194,4,False,60%,100.0,100.0
+bc885bb3a9bf4401b7aa72e8358cc8ad,on,81,194,3,False,local church,0.0,0.0
+cebbbd9265c6439394c8ecc411e5e565,on,81,194,4,False,The Victorian Alps,100.0,100.0
+811ae6242ca34a8db81e8bd7f2a9b8a6,off,81,194,19,False,1–3 cm (0.39–1.18 in) per century,100.0,100.0
+a08ff6a3b1e246cd81b8f7f8981a22fc,off,81,194,4,False,60%,100.0,100.0
+bc885bb3a9bf4401b7aa72e8358cc8ad,off,81,194,3,False,local church,0.0,0.0
+cebbbd9265c6439394c8ecc411e5e565,off,81,194,4,False,The Victorian Alps,100.0,100.0
+d7fef705864c4e00968890173977f2f4,off,82,194,3,False,respiration,100.0,100.0
+f376324aae0241bc8d67db5726774c51,off,82,194,5,False,1650,100.0,100.0
+06bc06a0d0734d92bdf0ba8b5ca34e01,off,82,195,6,False,"1,000",100.0,100.0
+2019092abfe94b87bc84b9678f40c5a9,off,82,195,2,False,two,100.0,100.0
+d7fef705864c4e00968890173977f2f4,on,82,194,3,False,respiration,100.0,100.0
+f376324aae0241bc8d67db5726774c51,on,82,194,5,False,1650,100.0,100.0
+06bc06a0d0734d92bdf0ba8b5ca34e01,on,82,195,6,False,"1,000",100.0,100.0
+2019092abfe94b87bc84b9678f40c5a9,on,82,195,2,False,two,100.0,100.0
+5711f488fc6c4ac1adc30ae2d0fc95b8,on,83,195,4,False,beneficial relations,0.0,66.66666666666666
+7f324f64dec04d72a5860b76ba16e3cb,on,83,195,7,False,married outside their immediate French communities,100.0,100.0
+9503f27f3c6c40b8ad88aa87f3f48c05,on,83,195,10,False,aligning his personal goals with his academic goals,100.0,100.0
+af4e524a095c4465996dc47705bf589d,on,83,195,6,False,Pulfrich effect,100.0,100.0
+5711f488fc6c4ac1adc30ae2d0fc95b8,off,83,195,4,False,beneficial relations,0.0,66.66666666666666
+7f324f64dec04d72a5860b76ba16e3cb,off,83,195,7,False,married outside their immediate French communities,100.0,100.0
+9503f27f3c6c40b8ad88aa87f3f48c05,off,83,195,10,False,aligning his personal goals with his academic goals,100.0,100.0
+af4e524a095c4465996dc47705bf589d,off,83,195,6,False,Pulfrich effect,100.0,100.0
+bde25be8649542ca962694a2a2d647e9,off,84,195,4,False,Begter,100.0,100.0
+c8ecc78824864735b27e476fb84c8321,off,84,195,3,False,Momus,100.0,100.0
+c8ecd5a10f0c48f6b8e9c4171e97a1d7,off,84,195,4,False,agriculture,100.0,100.0
+277592ddb3104c7f8166e82c768f6f45,off,84,196,11,False,the crew noticed a strange odor in their spacesuits,0.0,0.0
+bde25be8649542ca962694a2a2d647e9,on,84,195,4,False,Begter,100.0,100.0
+c8ecc78824864735b27e476fb84c8321,on,84,195,3,False,Momus,100.0,100.0
+c8ecd5a10f0c48f6b8e9c4171e97a1d7,on,84,195,4,False,agriculture,100.0,100.0
+277592ddb3104c7f8166e82c768f6f45,on,84,196,11,False,the crew noticed a strange odor in their spacesuits,0.0,0.0
+2e280fa7b3ac40fcb7e40f0f804a50c7,on,85,196,4,False,coercive,0.0,0.0
+53fa39a53f0c4c2bbf8be6a7fa0fcd0e,on,85,196,5,False,Eliot Ness,100.0,100.0
+fd6406dc7f6a44b99eb512935a8e06e4,on,85,196,3,False,UNESCO,0.0,0.0
+036a6977e00a45fdb1e57dab20475f15,on,85,197,9,False,Quatre études de rythme,100.0,100.0
+2e280fa7b3ac40fcb7e40f0f804a50c7,off,85,196,4,False,coercive,0.0,0.0
+53fa39a53f0c4c2bbf8be6a7fa0fcd0e,off,85,196,5,False,Eliot Ness,100.0,100.0
+fd6406dc7f6a44b99eb512935a8e06e4,off,85,196,3,False,UNESCO,0.0,0.0
+036a6977e00a45fdb1e57dab20475f15,off,85,197,9,False,Quatre études de rythme,100.0,100.0
+08982086f702457ca8dca1c2d276e1f3,off,86,197,10,False,"February 8, 1974",100.0,100.0
+109b1720793f46578e0f4aa7d187c145,off,86,197,5,False,Jacksonvillians,100.0,100.0
+1cf8a0f2cb824b34bccb9cb841c74b02,off,86,197,4,False,Robert Bork,100.0,100.0
+49f4688a97ee4452b5a68bbf37cf1d29,off,86,197,4,False,North American Aviation,100.0,100.0
+08982086f702457ca8dca1c2d276e1f3,on,86,197,10,False,"February 8, 1974",100.0,100.0
+109b1720793f46578e0f4aa7d187c145,on,86,197,5,False,Jacksonvillians,100.0,100.0
+1cf8a0f2cb824b34bccb9cb841c74b02,on,86,197,4,False,Robert Bork,100.0,100.0
+49f4688a97ee4452b5a68bbf37cf1d29,on,86,197,4,False,North American Aviation,100.0,100.0
+58f36e51e3fd48d7b80d9b2891d019b6,on,87,198,16,False,"allowing the lander spacecraft to be used as a ""lifeboat""",100.0,100.0
+5b637dddb5e34811b964456cd1ed5d3e,on,87,198,11,False,Jerónimo de Ayanz y Beaumont,100.0,100.0
+689e247c5f964fc8adae3b614a0ed75e,on,87,198,3,False,William Smith,100.0,100.0
+00949ffe71404735859df3fa997a2478,on,87,199,3,False,Montpellier,100.0,100.0
+58f36e51e3fd48d7b80d9b2891d019b6,off,87,198,16,False,"allowing the lander spacecraft to be used as a ""lifeboat""",100.0,100.0
+5b637dddb5e34811b964456cd1ed5d3e,off,87,198,11,False,Jerónimo de Ayanz y Beaumont,100.0,100.0
+689e247c5f964fc8adae3b614a0ed75e,off,87,198,3,False,William Smith,100.0,100.0
+00949ffe71404735859df3fa997a2478,off,87,199,3,False,Montpellier,100.0,100.0
+8724f383b0194a48a15ca8badfba8ee1,off,88,199,2,False,ten,100.0,100.0
+a2442672a6ac455193a08a0c7893cee7,off,88,199,8,False,Genghis Khan and his family,100.0,100.0
+a4750d5fe8da4066bec35cf97920301a,off,88,199,5,False,Hoesung Lee,100.0,100.0
+abeb1aef6b4a4f2c8444d3e0ce74575f,off,88,199,4,False,cryptomonads,100.0,100.0
+8724f383b0194a48a15ca8badfba8ee1,on,88,199,2,False,ten,100.0,100.0
+a2442672a6ac455193a08a0c7893cee7,on,88,199,8,False,Genghis Khan and his family,100.0,100.0
+a4750d5fe8da4066bec35cf97920301a,on,88,199,5,False,Hoesung Lee,100.0,100.0
+abeb1aef6b4a4f2c8444d3e0ce74575f,on,88,199,4,False,cryptomonads,100.0,100.0
+b13677069fb64cae908bb94494260398,on,89,199,18,False,a nonphotosynthetic eukaryote engulfed a chloroplast-containing alga,0.0,66.66666666666666
+f146db4390404ac58ae4094e2fe75a3e,on,89,199,6,False,Jerome Wiesner,100.0,100.0
+1a3c1e3bf7574908a6b951e787582698,on,89,200,4,False,New Rochelle,100.0,100.0
+6e579e6d55e740fd92128fe65549b4d6,on,89,200,4,False,questions and answers,100.0,100.0
+b13677069fb64cae908bb94494260398,off,89,199,18,False,a nonphotosynthetic eukaryote engulfed a chloroplast-containing alga,0.0,66.66666666666666
+f146db4390404ac58ae4094e2fe75a3e,off,89,199,6,False,Jerome Wiesner,100.0,100.0
+1a3c1e3bf7574908a6b951e787582698,off,89,200,4,False,New Rochelle,100.0,100.0
+6e579e6d55e740fd92128fe65549b4d6,off,89,200,4,False,questions and answers,100.0,100.0
+8318a365335f40bb89d76f1c116b32d2,off,90,200,11,False,Private schools are always more expensive than their public counterparts,0.0,33.33333333333333
+a256c00cc1db4754b0b62bedd729ff3e,off,90,200,7,False,"1,320 kilometres",100.0,100.0
+a7bf812ad2114a03b804c54b0ab26d56,off,90,200,4,False,over five million,100.0,100.0
+a91a74cd007e419db1761a7676246c7c,off,90,200,7,False,transfer and dissipate excess energy,0.0,0.0
+8318a365335f40bb89d76f1c116b32d2,on,90,200,11,False,Private schools are always more expensive than their public counterparts,0.0,33.33333333333333
+a256c00cc1db4754b0b62bedd729ff3e,on,90,200,7,False,"1,320 kilometres",100.0,100.0
+a7bf812ad2114a03b804c54b0ab26d56,on,90,200,4,False,over five million,100.0,100.0
+a91a74cd007e419db1761a7676246c7c,on,90,200,7,False,transfer and dissipate excess energy,0.0,0.0
+e03b338395e044b0ad66ba3857d37ec5,on,91,200,5,False,37.8,100.0,100.0
+e95ed1d9629c43f7ac1b77d428e40e21,on,91,200,2,False,David,100.0,100.0
+1f1bb777be7b4b21be4a0e3530e86c68,on,91,201,3,False,space experiments,0.0,0.0
+5169e4c63c88412bbfae8087241d9e25,on,91,201,3,False,Italian physicist,100.0,100.0
+e03b338395e044b0ad66ba3857d37ec5,off,91,200,5,False,37.8,100.0,100.0
+e95ed1d9629c43f7ac1b77d428e40e21,off,91,200,2,False,David,100.0,100.0
+1f1bb777be7b4b21be4a0e3530e86c68,off,91,201,3,False,space experiments,0.0,0.0
+5169e4c63c88412bbfae8087241d9e25,off,91,201,3,False,Italian physicist,100.0,100.0
+7b2acd2fb0b945f3936f2970edc0c704,off,92,201,10,False,a not-for-profit United States computer networking consortium,100.0,100.0
+1c60c4204e8143a79a343cc7a2ca3399,off,92,202,6,False,Albert C. Outler,100.0,100.0
+53cda478575e495899a0fe60af958b7d,off,92,202,5,False,Air Force missile projects,100.0,100.0
+8f30365164ae4b66ada5e4e953a7fb0c,off,92,202,4,False,a glass case,100.0,100.0
+7b2acd2fb0b945f3936f2970edc0c704,on,92,201,10,False,a not-for-profit United States computer networking consortium,100.0,100.0
+1c60c4204e8143a79a343cc7a2ca3399,on,92,202,6,False,Albert C. Outler,100.0,100.0
+53cda478575e495899a0fe60af958b7d,on,92,202,5,False,Air Force missile projects,100.0,100.0
+8f30365164ae4b66ada5e4e953a7fb0c,on,92,202,4,False,a glass case,100.0,100.0
+95a25fcba31f4421a4436e703132bb60,on,93,202,3,False,computability,0.0,66.66666666666666
+aaf959665b14402c886e6e58e9969d38,on,93,202,5,False,1946,100.0,100.0
+ef0e14b54007491a8509a7c92c2824e9,on,93,202,5,False,1891,100.0,100.0
+effb55c19ee64079b49625ef5963ed81,on,93,202,8,False,a major part of the Internet backbone,100.0,100.0
+95a25fcba31f4421a4436e703132bb60,off,93,202,3,False,computability,0.0,66.66666666666666
+aaf959665b14402c886e6e58e9969d38,off,93,202,5,False,1946,100.0,100.0
+ef0e14b54007491a8509a7c92c2824e9,off,93,202,5,False,1891,100.0,100.0
+effb55c19ee64079b49625ef5963ed81,off,93,202,8,False,a major part of the Internet backbone,100.0,100.0
+320c619c2c5f4bb4b861ee526cfcb4e4,off,94,203,6,False,fundamental theorem of arithmetic,100.0,100.0
+6372dee1606345a79f2057733b5171ae,off,94,203,4,False,Immunology,100.0,100.0
+a3d377069c2d49e2ba4c3d71cab0df7b,off,94,203,3,False,Migration period,100.0,100.0
+a98fbdfc8c264e45b5bcbcaea97e1a7f,off,94,203,4,False,a civil state,0.0,0.0
+320c619c2c5f4bb4b861ee526cfcb4e4,on,94,203,6,False,fundamental theorem of arithmetic,100.0,100.0
+6372dee1606345a79f2057733b5171ae,on,94,203,4,False,Immunology,100.0,100.0
+a3d377069c2d49e2ba4c3d71cab0df7b,on,94,203,3,False,Migration period,100.0,100.0
+a98fbdfc8c264e45b5bcbcaea97e1a7f,on,94,203,4,False,a civil state,0.0,0.0
+a9de6c72d63d43628695b9e5b43c69dd,on,95,203,11,False,15 °C (59 °F),100.0,100.0
+3649da78a2b9470987025651809dadfe,on,95,204,5,False,9.1 million,100.0,100.0
+aad939024624416b942252a57995ef74,on,95,204,7,False,October 1973,100.0,100.0
+ab934284e87b48738d35bb516a0a3974,on,95,204,3,False,1%,100.0,100.0
+a9de6c72d63d43628695b9e5b43c69dd,off,95,203,11,False,15 °C (59 °F),100.0,100.0
+3649da78a2b9470987025651809dadfe,off,95,204,5,False,9.1 million,100.0,100.0
+aad939024624416b942252a57995ef74,off,95,204,7,False,October 1973,100.0,100.0
+ab934284e87b48738d35bb516a0a3974,off,95,204,3,False,1%,100.0,100.0
+c54b49d2c1134f7ca1bb13ffa289f927,off,96,204,4,False,Abilene,100.0,100.0
+db7653aa4cb344d49d220ad3ee7ccc6b,off,96,204,5,False,1969,100.0,100.0
+ef2fbb74b85f47c2b5f767e39a06f055,off,96,204,5,False,Newton's Third Law,100.0,100.0
+198147599a864902a0c3f9cca9b8d77b,off,96,205,6,False,the Peabody Awards,0.0,0.0
+c54b49d2c1134f7ca1bb13ffa289f927,on,96,204,4,False,Abilene,100.0,100.0
+db7653aa4cb344d49d220ad3ee7ccc6b,on,96,204,5,False,1969,100.0,100.0
+ef2fbb74b85f47c2b5f767e39a06f055,on,96,204,5,False,Newton's Third Law,100.0,100.0
+198147599a864902a0c3f9cca9b8d77b,on,96,205,6,False,the Peabody Awards,0.0,0.0
+ad1c3fa0d4be41899c0f4af7db9a1322,on,97,205,5,False,2013,100.0,100.0
+b532f02963c145fd8f129da24c56ca17,on,97,205,5,False,1945,100.0,100.0
+c016e5e1668b4f678eb0c455c8671f1d,on,97,205,5,False,Welfare Cash Card,100.0,100.0
+dba7a7a3561d4f6fb74023f3c161df56,on,97,205,5,False,OneDrive for Business,0.0,50.0
+ad1c3fa0d4be41899c0f4af7db9a1322,off,97,205,5,False,2013,100.0,100.0
+b532f02963c145fd8f129da24c56ca17,off,97,205,5,False,1945,100.0,100.0
+c016e5e1668b4f678eb0c455c8671f1d,off,97,205,5,False,Welfare Cash Card,100.0,100.0
+dba7a7a3561d4f6fb74023f3c161df56,off,97,205,5,False,OneDrive for Business,0.0,50.0
+efde2ece0fbd4f77a949243636b3a06e,off,98,205,3,False,annually,0.0,0.0
+29db9af0d96f4a69917a756893c16bdb,off,98,206,6,False,over 18 million,100.0,100.0
+9f1a33873e2a4dd69b4b35b39184aef3,off,98,206,5,False,limiting aggregate demand,100.0,100.0
+c100e70e6ca341eb8942425f112e2e60,off,98,206,4,False,ABC on Demand,100.0,100.0
+efde2ece0fbd4f77a949243636b3a06e,on,98,205,3,False,annually,0.0,0.0
+29db9af0d96f4a69917a756893c16bdb,on,98,206,6,False,over 18 million,100.0,100.0
+9f1a33873e2a4dd69b4b35b39184aef3,on,98,206,5,False,limiting aggregate demand,100.0,100.0
+c100e70e6ca341eb8942425f112e2e60,on,98,206,4,False,ABC on Demand,100.0,100.0
+d3f39996e9814ddda6807e083964bfb3,on,99,206,5,False,1917,100.0,100.0
+d62ccb9e93084ec0bfdcca557988aadc,on,99,206,4,False,normal faulting,100.0,100.0
+ecb2d6a0aab641ffa9c166549e1eb1a9,on,99,206,5,False,OneDrive for Business,100.0,100.0
+f819df905bfd4964834b9ad7d05118f3,on,99,206,3,False,damaging,0.0,66.66666666666666
+d3f39996e9814ddda6807e083964bfb3,off,99,206,5,False,1917,100.0,100.0
+d62ccb9e93084ec0bfdcca557988aadc,off,99,206,4,False,normal faulting,100.0,100.0
+ecb2d6a0aab641ffa9c166549e1eb1a9,off,99,206,5,False,OneDrive for Business,100.0,100.0
+f819df905bfd4964834b9ad7d05118f3,off,99,206,3,False,damaging,0.0,66.66666666666666
+1e0c87e7674a49a695cbe922d338ae29,off,100,207,8,False,abolish the state of Israel,100.0,100.0
+2567254d6e2640ce886394bb7fde23ff,off,100,207,48,False,The fourth was released on 4 October 2010 as a two disc special edition and contained music from the 2008–2010 specials (The Next Doctor to End of Time Part 2).,0.0,26.666666666666668
+785b3f0cd6ea4667a2e70f36fece82d4,off,100,207,4,False,Middle Miocene,100.0,100.0
+b963e8c8e9084584844f707ccbc4f571,off,100,207,3,False,South Africa,0.0,57.14285714285714
+1e0c87e7674a49a695cbe922d338ae29,on,100,207,8,False,abolish the state of Israel,100.0,100.0
+2567254d6e2640ce886394bb7fde23ff,on,100,207,48,False,The fourth was released on 4 October 2010 as a two disc special edition and contained music from the 2008–2010 specials (The Next Doctor to End of Time Part 2).,0.0,26.666666666666668
+785b3f0cd6ea4667a2e70f36fece82d4,on,100,207,4,False,Middle Miocene,100.0,100.0
+b963e8c8e9084584844f707ccbc4f571,on,100,207,3,False,South Africa,0.0,57.14285714285714
+e84acc4ef8a542d4ae628380bb9fa698,on,101,207,6,False,silica SiO2,0.0,0.0
+f0cf5ec8d8d94d2ba68afb1f25184d33,on,101,207,9,False,the American delegation from the Paris Peace Conference,100.0,100.0
+4b6f6fc471934525aa83d0b39501df4d,on,101,208,13,False,"3 in 1,000,000",100.0,100.0
+4c232a2e80884c33a0c443cb9fa6e604,on,101,208,10,False,"Nairobi, Mombasa and Kisumu",100.0,100.0
+e84acc4ef8a542d4ae628380bb9fa698,off,101,207,6,False,silica SiO2,0.0,0.0
+f0cf5ec8d8d94d2ba68afb1f25184d33,off,101,207,9,False,the American delegation from the Paris Peace Conference,100.0,100.0
+4b6f6fc471934525aa83d0b39501df4d,off,101,208,13,False,"3 in 1,000,000",100.0,100.0
+4c232a2e80884c33a0c443cb9fa6e604,off,101,208,10,False,"Nairobi, Mombasa and Kisumu",100.0,100.0
+9ac88f7fc6f84338870679549f1230be,off,102,208,3,False,13,0.0,0.0
+9e0014efee6f4518b8706b5826b4a81a,off,102,208,6,False,background check and psychiatric evaluation,100.0,100.0
+fd1ccb8d9125452d8e782c04f17a80b2,off,102,208,7,False,The Curse of the Daleks,100.0,100.0
+18def03591fc4d7bb89f1b65e6bd0084,off,102,209,36,False,"use of a decentralized network with multiple paths between any two points, dividing user messages into message blocks, later called packets, and delivery of these messages by store and forward switching.",0.0,80.0
+9ac88f7fc6f84338870679549f1230be,on,102,208,3,False,13,0.0,0.0
+9e0014efee6f4518b8706b5826b4a81a,on,102,208,6,False,background check and psychiatric evaluation,100.0,100.0
+fd1ccb8d9125452d8e782c04f17a80b2,on,102,208,7,False,The Curse of the Daleks,100.0,100.0
+18def03591fc4d7bb89f1b65e6bd0084,on,102,209,36,False,"use of a decentralized network with multiple paths between any two points, dividing user messages into message blocks, later called packets, and delivery of these messages by store and forward switching.",0.0,80.0
+5ebedd0a325d4f39a3007e8ac777cb65,on,103,209,3,False,the state,100.0,100.0
+675e173f578e4c148e109b1a18d2c26e,on,103,209,7,False,contemporary accounts were exaggerations,100.0,100.0
+78e6603b3191453f8f9289ae4aa0e68f,on,103,209,6,False,C3 angiosperms,100.0,100.0
+8235a3797c224cb9ae1dbb948c13eef2,on,103,209,6,False,manned lunar landings,100.0,100.0
+5ebedd0a325d4f39a3007e8ac777cb65,off,103,209,3,False,the state,100.0,100.0
+675e173f578e4c148e109b1a18d2c26e,off,103,209,7,False,contemporary accounts were exaggerations,100.0,100.0
+78e6603b3191453f8f9289ae4aa0e68f,off,103,209,6,False,C3 angiosperms,100.0,100.0
+8235a3797c224cb9ae1dbb948c13eef2,off,103,209,6,False,manned lunar landings,100.0,100.0
+8b368c6d16b1472e8266ed9e1e93edeb,off,104,209,8,False,8 February 2007,100.0,100.0
+c40fe959ce11457d97fb35c7291637e8,off,104,209,7,False,November 2006,100.0,100.0
+ff9667007c374819aa007b1c715c8d78,off,104,209,2,False,June,0.0,0.0
+374c3b2baf1641b89c411924f2fbcc75,off,104,210,10,False,"over 900,000",100.0,100.0
+8b368c6d16b1472e8266ed9e1e93edeb,on,104,209,8,False,8 February 2007,100.0,100.0
+c40fe959ce11457d97fb35c7291637e8,on,104,209,7,False,November 2006,100.0,100.0
+ff9667007c374819aa007b1c715c8d78,on,104,209,2,False,June,0.0,0.0
+374c3b2baf1641b89c411924f2fbcc75,on,104,210,10,False,"over 900,000",100.0,100.0
+8388d603a757428ca2164147c2337ccd,on,105,210,8,False,coughing and sneezing,100.0,100.0
+a1fd13a0d93f4b6890fa77ced3913796,on,105,210,5,False,2001,100.0,100.0
+a23e22da0bbb4b818f335921c9db373f,on,105,210,4,False,petrographic,100.0,100.0
+a3c79980103e4800b4b7f980667a25bd,on,105,210,4,False,flax cultivation,100.0,100.0
+8388d603a757428ca2164147c2337ccd,off,105,210,8,False,coughing and sneezing,100.0,100.0
+a1fd13a0d93f4b6890fa77ced3913796,off,105,210,5,False,2001,100.0,100.0
+a23e22da0bbb4b818f335921c9db373f,off,105,210,4,False,petrographic,100.0,100.0
+a3c79980103e4800b4b7f980667a25bd,off,105,210,4,False,flax cultivation,100.0,100.0
+fa049bf1c8ea469fabb62714670d9228,off,106,210,4,False,43 million,0.0,50.0
+65827a7cdeea4255bcdd3e09f5d00ba7,off,106,211,11,False,"giving the offender his ""just deserts""",0.0,0.0
+6947c7bb60534c1e8282622501a8f9dc,off,106,211,4,False,diverges,100.0,100.0
+ae3a295d5d634a518e4ce68cacb89368,off,106,211,4,False,four stories high,100.0,100.0
+fa049bf1c8ea469fabb62714670d9228,on,106,210,4,False,43 million,0.0,50.0
+65827a7cdeea4255bcdd3e09f5d00ba7,on,106,211,11,False,"giving the offender his ""just deserts""",0.0,0.0
+6947c7bb60534c1e8282622501a8f9dc,on,106,211,4,False,diverges,100.0,100.0
+ae3a295d5d634a518e4ce68cacb89368,on,106,211,4,False,four stories high,100.0,100.0
+b851fb30ce8249fa8823ed11147a0e0f,on,107,211,5,False,2–3 years,100.0,100.0
+d629892de86d40d981f0da871a633c27,on,107,211,5,False,2005,100.0,100.0
+de74b982b5874a5da691990a0c853542,on,107,211,4,False,Isiah Bowman,100.0,100.0
+e1dca3d4272d4f7683e07c191be471e8,on,107,211,4,False,489,100.0,100.0
+b851fb30ce8249fa8823ed11147a0e0f,off,107,211,5,False,2–3 years,100.0,100.0
+d629892de86d40d981f0da871a633c27,off,107,211,5,False,2005,100.0,100.0
+de74b982b5874a5da691990a0c853542,off,107,211,4,False,Isiah Bowman,100.0,100.0
+e1dca3d4272d4f7683e07c191be471e8,off,107,211,4,False,489,100.0,100.0
+e98c16881c86413db6ba0c9530614d7e,off,108,211,2,False,few,100.0,100.0
+eb3055c9991f4237af18cfa37b007b89,off,108,211,5,False,previously separated specialties,100.0,100.0
+1cf323ff7ce84dbfa38df1fe555dcd42,off,108,212,5,False,last glacial maximum,100.0,100.0
+446b2e33d283448181dd648d1e8f4067,off,108,212,5,False,Luther's tune,100.0,100.0
+e98c16881c86413db6ba0c9530614d7e,on,108,211,2,False,few,100.0,100.0
+eb3055c9991f4237af18cfa37b007b89,on,108,211,5,False,previously separated specialties,100.0,100.0
+1cf323ff7ce84dbfa38df1fe555dcd42,on,108,212,5,False,last glacial maximum,100.0,100.0
+446b2e33d283448181dd648d1e8f4067,on,108,212,5,False,Luther's tune,100.0,100.0
+46d60624656b416398c3bcfbb70e6d2b,on,109,212,7,False,"63,519",100.0,100.0
+528c78d130154a9382e2915f9a3ffd2c,on,109,212,5,False,1041,100.0,100.0
+640984bfa60245cab81a5b2cb522d952,on,109,212,4,False,African-American,100.0,100.0
+7969b6173ab54c2b8058ec83ba0f5167,on,109,212,5,False,Gleichschaltung,0.0,66.66666666666666
+46d60624656b416398c3bcfbb70e6d2b,off,109,212,7,False,"63,519",100.0,100.0
+528c78d130154a9382e2915f9a3ffd2c,off,109,212,5,False,1041,100.0,100.0
+640984bfa60245cab81a5b2cb522d952,off,109,212,4,False,African-American,100.0,100.0
+7969b6173ab54c2b8058ec83ba0f5167,off,109,212,5,False,Gleichschaltung,0.0,66.66666666666666
+7ddc8bebd9294174a4bb9d5621a095de,off,110,212,6,False,182 million tons,100.0,100.0
+9742dba8dfc848c6897c14f01bf18f6c,off,110,212,7,False,"34,000",100.0,100.0
+976ae636da4f4d6da1b097306a16a250,off,110,212,6,False,182 million tons,100.0,100.0
+aeb122bbd91b4ad0b729a16494b2cace,off,110,212,14,False,a High Sheriff and one of the founders of the Bank of Ireland,100.0,100.0
+7ddc8bebd9294174a4bb9d5621a095de,on,110,212,6,False,182 million tons,100.0,100.0
+9742dba8dfc848c6897c14f01bf18f6c,on,110,212,7,False,"34,000",100.0,100.0
+976ae636da4f4d6da1b097306a16a250,on,110,212,6,False,182 million tons,100.0,100.0
+aeb122bbd91b4ad0b729a16494b2cace,on,110,212,14,False,a High Sheriff and one of the founders of the Bank of Ireland,100.0,100.0
+be98cae01cfa4f488c07b4883196c402,on,111,212,8,False,Reconstruction and the Gilded Age,100.0,100.0
+c2c3d012889b4757add85c6f5e0f0017,on,111,212,4,False,spring-loaded valve,0.0,80.0
+29e98d8d1e6e49b79911edb125031ba5,on,111,213,8,False,incapacitation and deterrence,0.0,11.11111111111111
+382fabdde3924cf1a755d386422f988d,on,111,213,3,False,field candidates,100.0,100.0
+be98cae01cfa4f488c07b4883196c402,off,111,212,8,False,Reconstruction and the Gilded Age,100.0,100.0
+c2c3d012889b4757add85c6f5e0f0017,off,111,212,4,False,spring-loaded valve,0.0,80.0
+29e98d8d1e6e49b79911edb125031ba5,off,111,213,8,False,incapacitation and deterrence,0.0,11.11111111111111
+382fabdde3924cf1a755d386422f988d,off,111,213,3,False,field candidates,100.0,100.0
+3efa3d7ad65048b0bc6f39663db350fd,off,112,213,5,False,1999,100.0,100.0
+726be61c2c154ee68163111384ab092e,off,112,213,10,False,Count Ludwig von Nassau-Saarbrücken,100.0,100.0
+8d60d81dbabe49cf9df62147a4e284fc,off,112,213,5,False,December 25,100.0,100.0
+b736f86db063474f93ccfe8462dc0256,off,112,213,6,False,Lovely Lane Methodist Church,100.0,100.0
+3efa3d7ad65048b0bc6f39663db350fd,on,112,213,5,False,1999,100.0,100.0
+726be61c2c154ee68163111384ab092e,on,112,213,10,False,Count Ludwig von Nassau-Saarbrücken,100.0,100.0
+8d60d81dbabe49cf9df62147a4e284fc,on,112,213,5,False,December 25,100.0,100.0
+b736f86db063474f93ccfe8462dc0256,on,112,213,6,False,Lovely Lane Methodist Church,100.0,100.0
+1249371952b4491aad1bed67ce511681,on,113,214,2,False,bones,100.0,100.0
+5c76eaa637f040ddae77d482825c7d8c,on,113,214,5,False,a pharmacy practice residency,100.0,100.0
+7353fafa1d804f418179253d3903c048,on,113,214,18,False,"birefringence, pleochroism, twinning, and interference properties",100.0,100.0
+744d48efebd042eebdd56daf320bd908,on,113,214,8,False,as their main method of locomotion,0.0,90.9090909090909
+1249371952b4491aad1bed67ce511681,off,113,214,2,False,bones,100.0,100.0
+5c76eaa637f040ddae77d482825c7d8c,off,113,214,5,False,a pharmacy practice residency,100.0,100.0
+7353fafa1d804f418179253d3903c048,off,113,214,18,False,"birefringence, pleochroism, twinning, and interference properties",100.0,100.0
+744d48efebd042eebdd56daf320bd908,off,113,214,8,False,as their main method of locomotion,0.0,90.9090909090909
+973e6f7af8c848df99e6e867ff3b71e3,off,114,214,8,False,"Article 7, Paragraph 4",0.0,40.0
+e35a8113d014499abbf0ebec586949ee,off,114,214,3,False,Larry Roberts,100.0,100.0
+f399f2b20df14ba394e7a9fa95628ab2,off,114,214,4,False,Oligocene,100.0,100.0
+571aef49d3ec43bcac377d346e38eb4c,off,114,215,4,False,Noetherian,100.0,100.0
+973e6f7af8c848df99e6e867ff3b71e3,on,114,214,8,False,"Article 7, Paragraph 4",0.0,40.0
+e35a8113d014499abbf0ebec586949ee,on,114,214,3,False,Larry Roberts,100.0,100.0
+f399f2b20df14ba394e7a9fa95628ab2,on,114,214,4,False,Oligocene,100.0,100.0
+571aef49d3ec43bcac377d346e38eb4c,on,114,215,4,False,Noetherian,100.0,100.0
+6defd257fa7e41c0a9f50867448f7956,on,115,215,4,False,boudins,100.0,100.0
+7d6b8ce00a1a4e0bb99c0ebe28d812e0,on,115,215,11,False,"September 30, 1960",100.0,100.0
+7fe20aa7cc594f0c9725008ba55eb9ae,on,115,215,5,False,2.5 million,100.0,100.0
+a471a8b69efc40dcba17d9f245393fe3,on,115,215,2,False,North,100.0,100.0
+6defd257fa7e41c0a9f50867448f7956,off,115,215,4,False,boudins,100.0,100.0
+7d6b8ce00a1a4e0bb99c0ebe28d812e0,off,115,215,11,False,"September 30, 1960",100.0,100.0
+7fe20aa7cc594f0c9725008ba55eb9ae,off,115,215,5,False,2.5 million,100.0,100.0
+a471a8b69efc40dcba17d9f245393fe3,off,115,215,2,False,North,100.0,100.0
+b9b33c56a0b24b1d9574d6eba1605f7b,off,116,215,8,False,"""town of the Ubii""",0.0,0.0
+e18f222597da4a13b4f16cb96d0f1f6a,off,116,215,7,False,a simple method to compute primes,0.0,57.14285714285714
+fb7eee149f554bdbb5a0ce99d5d80e05,off,116,215,6,False,anti-colonial movements,100.0,100.0
+442e6333877f41959b861438d46f48dc,off,116,216,4,False,Jean Ribault,100.0,100.0
+b9b33c56a0b24b1d9574d6eba1605f7b,on,116,215,8,False,"""town of the Ubii""",0.0,0.0
+e18f222597da4a13b4f16cb96d0f1f6a,on,116,215,7,False,a simple method to compute primes,0.0,57.14285714285714
+fb7eee149f554bdbb5a0ce99d5d80e05,on,116,215,6,False,anti-colonial movements,100.0,100.0
+442e6333877f41959b861438d46f48dc,on,116,216,4,False,Jean Ribault,100.0,100.0
+c6806a8b1cdf449182103b00bc11afa6,on,117,216,12,False,"1, 3, 7, or 9",0.0,33.33333333333333
+d5130a8e44824239b6ff309a03d7652b,on,117,216,5,False,prayer for grace,100.0,100.0
+eae732ada7834e8cb6a0f0d511adf6f1,on,117,216,13,False,"salvation by God's grace, acquired through faith in Christ",0.0,61.53846153846154
+0a38b967b7394d76bed8e5c349ede2f9,on,117,217,4,False,Connectional Table,100.0,100.0
+c6806a8b1cdf449182103b00bc11afa6,off,117,216,12,False,"1, 3, 7, or 9",0.0,33.33333333333333
+d5130a8e44824239b6ff309a03d7652b,off,117,216,5,False,prayer for grace,100.0,100.0
+eae732ada7834e8cb6a0f0d511adf6f1,off,117,216,13,False,"salvation by God's grace, acquired through faith in Christ",0.0,61.53846153846154
+0a38b967b7394d76bed8e5c349ede2f9,off,117,217,4,False,Connectional Table,100.0,100.0
+1a7da798032b47e297484aa40fc9e676,off,118,217,10,False,both global inequality and inequality within countries prevent growth,0.0,36.36363636363637
+216cd487658549738c1b8d7a0d9c735d,off,118,217,5,False,1279,100.0,100.0
+39e50e3d85474d078c4cba049b6e21ca,off,118,217,4,False,427,0.0,0.0
+4a141f82fa294c369e9bbbd64baa7ed9,off,118,217,3,False,Hostmen,100.0,100.0
+1a7da798032b47e297484aa40fc9e676,on,118,217,10,False,both global inequality and inequality within countries prevent growth,0.0,36.36363636363637
+216cd487658549738c1b8d7a0d9c735d,on,118,217,5,False,1279,100.0,100.0
+39e50e3d85474d078c4cba049b6e21ca,on,118,217,4,False,427,0.0,0.0
+4a141f82fa294c369e9bbbd64baa7ed9,on,118,217,3,False,Hostmen,100.0,100.0
+5b5a1d4359ce4398b291f2ec4b02cdd9,on,119,217,3,False,quadratic,0.0,0.0
+6b07166df12c440d93d1562204b81f32,on,119,217,4,False,60%,100.0,100.0
+9cc5e611616648fa85bed7ab55220eee,on,119,217,3,False,Central Asia,100.0,100.0
+9e12e5805d25414384ec8855aacb2abc,on,119,217,8,False,a trade magazine for the construction industry,100.0,100.0
+5b5a1d4359ce4398b291f2ec4b02cdd9,off,119,217,3,False,quadratic,0.0,0.0
+6b07166df12c440d93d1562204b81f32,off,119,217,4,False,60%,100.0,100.0
+9cc5e611616648fa85bed7ab55220eee,off,119,217,3,False,Central Asia,100.0,100.0
+9e12e5805d25414384ec8855aacb2abc,off,119,217,8,False,a trade magazine for the construction industry,100.0,100.0
+a952ee7a2895443cb50653556286b598,off,120,217,3,False,Yellow River,100.0,100.0
+b715c13b68984bba929767f5d50981a0,off,120,217,3,False,comb-bearing,100.0,100.0
+c952b0a37ff348ed92783ef32e6cfe85,off,120,217,3,False,compressed gas,100.0,100.0
+d9b73b7fd26c4da5ac7881c7fbb38fba,off,120,217,3,False,prep schools,100.0,100.0
+a952ee7a2895443cb50653556286b598,on,120,217,3,False,Yellow River,100.0,100.0
+b715c13b68984bba929767f5d50981a0,on,120,217,3,False,comb-bearing,100.0,100.0
+c952b0a37ff348ed92783ef32e6cfe85,on,120,217,3,False,compressed gas,100.0,100.0
+d9b73b7fd26c4da5ac7881c7fbb38fba,on,120,217,3,False,prep schools,100.0,100.0
+e8933dedd82e4e97867d0b1978b991d5,on,121,217,2,False,right,100.0,100.0
+1ca950336a3941a69196415f3df755a8,on,121,218,6,False,"1,548",100.0,100.0
+3ec6fa3db00045ce9d0edd2fb4bb2b88,on,121,218,3,False,ten years,100.0,100.0
+62b55ca728e446ad97c4933f10a26391,on,121,218,6,False,the American Philosophical Society,100.0,100.0
+e8933dedd82e4e97867d0b1978b991d5,off,121,217,2,False,right,100.0,100.0
+1ca950336a3941a69196415f3df755a8,off,121,218,6,False,"1,548",100.0,100.0
+3ec6fa3db00045ce9d0edd2fb4bb2b88,off,121,218,3,False,ten years,100.0,100.0
+62b55ca728e446ad97c4933f10a26391,off,121,218,6,False,the American Philosophical Society,100.0,100.0
+6320055835294eefb5fe54519eb79824,off,122,218,6,False,incitement to terrorism,100.0,100.0
+6b33ea816db44b4aa8231a419f3c162d,off,122,218,3,False,The Arrow,100.0,100.0
+a45276cfbd144498bc9563121c808e1f,off,122,218,11,False,"November 22, 1973",0.0,80.0
+af06d45694744100b1ed3dd2fa2fb687,off,122,218,3,False,Charleston,100.0,100.0
+6320055835294eefb5fe54519eb79824,on,122,218,6,False,incitement to terrorism,100.0,100.0
+6b33ea816db44b4aa8231a419f3c162d,on,122,218,3,False,The Arrow,100.0,100.0
+a45276cfbd144498bc9563121c808e1f,on,122,218,11,False,"November 22, 1973",0.0,80.0
+af06d45694744100b1ed3dd2fa2fb687,on,122,218,3,False,Charleston,100.0,100.0
+c02981cb55944814a90a142fc92dd3af,on,123,218,5,False,Ögedei Khan,100.0,100.0
+dd6ed2483dc64a6ba54f98bc04c6bd9a,on,123,218,4,False,patient compliance issues,0.0,0.0
+f833329bc7b04bd89a5899df432f317a,on,123,218,8,False,disposition of prisoners' personal effects,100.0,100.0
+0e06472a64554a978a6ed299b31f5188,on,123,219,3,False,innate,100.0,100.0
+c02981cb55944814a90a142fc92dd3af,off,123,218,5,False,Ögedei Khan,100.0,100.0
+dd6ed2483dc64a6ba54f98bc04c6bd9a,off,123,218,4,False,patient compliance issues,0.0,0.0
+f833329bc7b04bd89a5899df432f317a,off,123,218,8,False,disposition of prisoners' personal effects,100.0,100.0
+0e06472a64554a978a6ed299b31f5188,off,123,219,3,False,innate,100.0,100.0
+255faffc9ab243f98323a62e286cfd71,off,124,219,3,False,Jebe,100.0,100.0
+543670d91ff94071a99804be14219eba,off,124,219,3,False,second level,100.0,100.0
+d7ee16ad85874629a861cd8c6c499424,off,124,219,2,False,bits,100.0,100.0
+e82e1d0ba8914032a93ee1eeefedc976,off,124,219,7,False,two-membraned chloroplast,100.0,100.0
+255faffc9ab243f98323a62e286cfd71,on,124,219,3,False,Jebe,100.0,100.0
+543670d91ff94071a99804be14219eba,on,124,219,3,False,second level,100.0,100.0
+d7ee16ad85874629a861cd8c6c499424,on,124,219,2,False,bits,100.0,100.0
+e82e1d0ba8914032a93ee1eeefedc976,on,124,219,7,False,two-membraned chloroplast,100.0,100.0
+edeb25946f0b4e6c9fa2aa767c8c9f8a,on,125,219,13,False,"fashion, architecture, product design, graphic arts and photography",100.0,100.0
+fbbbcddaadee4599998a8317fd8d19fc,on,125,219,4,False,Hyperbaric,0.0,50.0
+69b0226f280b46b09467982cbc56953f,on,125,220,5,False,the separate condenser,100.0,100.0
+a391985d80b74709821feb393606dc1f,on,125,220,4,False,yellow fever outbreaks,100.0,100.0
+edeb25946f0b4e6c9fa2aa767c8c9f8a,off,125,219,13,False,"fashion, architecture, product design, graphic arts and photography",100.0,100.0
+fbbbcddaadee4599998a8317fd8d19fc,off,125,219,4,False,Hyperbaric,0.0,50.0
+69b0226f280b46b09467982cbc56953f,off,125,220,5,False,the separate condenser,100.0,100.0
+a391985d80b74709821feb393606dc1f,off,125,220,4,False,yellow fever outbreaks,100.0,100.0
+46bea20011144c80a28ec8dde2397f83,off,126,221,5,False,1875,100.0,100.0
+d03a55d4ae8a48cea46f59559f6c9f29,off,126,221,5,False,those domestic Islamists,0.0,80.0
+4f391ca34d9e4bd7883b8dd4cacfbc9d,off,126,222,5,False,Tesla Polyphase System,100.0,100.0
+7dec8b10a4914c738f9bb8f4ff6c0fdd,off,126,222,7,False,30–60%,100.0,100.0
+46bea20011144c80a28ec8dde2397f83,on,126,221,5,False,1875,100.0,100.0
+d03a55d4ae8a48cea46f59559f6c9f29,on,126,221,5,False,those domestic Islamists,0.0,80.0
+4f391ca34d9e4bd7883b8dd4cacfbc9d,on,126,222,5,False,Tesla Polyphase System,100.0,100.0
+7dec8b10a4914c738f9bb8f4ff6c0fdd,on,126,222,7,False,30–60%,100.0,100.0
+e77dba8dd6384e88a641111800132854,on,127,222,7,False,a VideoGuard UK equipped receiver,0.0,0.0
+12d6434aa1844fa08e51892e57ee5562,on,127,223,4,False,a seal illegally,0.0,66.66666666666666
+20368ccbc0ee40228cf8d2a84254cb6f,on,127,223,4,False,unit-dose,100.0,100.0
+4845f8df72cd436695bd1ffd1ae66ef8,on,127,223,8,False,1997 Treaty of Amsterdam,100.0,100.0
+e77dba8dd6384e88a641111800132854,off,127,222,7,False,a VideoGuard UK equipped receiver,0.0,0.0
+12d6434aa1844fa08e51892e57ee5562,off,127,223,3,False,a seal,100.0,100.0
+20368ccbc0ee40228cf8d2a84254cb6f,off,127,223,4,False,unit-dose,100.0,100.0
+4845f8df72cd436695bd1ffd1ae66ef8,off,127,223,8,False,1997 Treaty of Amsterdam,100.0,100.0
+568274d75d5545e886737081265bbd7e,off,128,223,2,False,France,100.0,100.0
+5a3a0cc8fbd84e1ba827d087993fcfe1,off,128,223,3,False,problem instance,100.0,100.0
+62651087d8aa4d2389413a3a50c204e4,off,128,223,12,False,crust and rigid uppermost portion of the upper mantle,100.0,100.0
+94feb09bc5af451b84260364d0b1cbc4,off,128,223,4,False,TIME(n),0.0,0.0
+568274d75d5545e886737081265bbd7e,on,128,223,2,False,France,100.0,100.0
+5a3a0cc8fbd84e1ba827d087993fcfe1,on,128,223,3,False,problem instance,100.0,100.0
+62651087d8aa4d2389413a3a50c204e4,on,128,223,12,False,crust and rigid uppermost portion of the upper mantle,100.0,100.0
+94feb09bc5af451b84260364d0b1cbc4,on,128,223,4,False,TIME(n),0.0,0.0
+a207b12c8059492b8a10e6991e46de48,on,129,223,7,False,rapidly raising population and traffic,0.0,66.66666666666666
+bb799fd3f41247028ade85280cfea836,on,129,223,11,False,areas controlled by Russia in 1914,100.0,100.0
+ea0bf383512e4412b17e6ab31d7a6bf3,on,129,223,10,False,a much larger conflict between France and Great Britain,100.0,100.0
+2c1e1447bfb04155b729cd7cd49c7adf,on,129,224,3,False,Londonistan,100.0,100.0
+a207b12c8059492b8a10e6991e46de48,off,129,223,7,False,rapidly raising population and traffic,0.0,66.66666666666666
+bb799fd3f41247028ade85280cfea836,off,129,223,11,False,areas controlled by Russia in 1914,100.0,100.0
+ea0bf383512e4412b17e6ab31d7a6bf3,off,129,223,10,False,a much larger conflict between France and Great Britain,100.0,100.0
+2c1e1447bfb04155b729cd7cd49c7adf,off,129,224,3,False,Londonistan,100.0,100.0
+3706288227134857abf468fcb33e8e11,off,130,224,4,False,clerical,100.0,100.0
+43594f06617b4941af495984e47bff8c,off,130,224,2,False,three,100.0,100.0
+4d838b2ccaab4c89966122429abea787,off,130,224,8,False,"5,111 m2",0.0,50.0
+ada2e2df0f954681adf4f047f345f928,off,130,224,5,False,savanna or desert,100.0,100.0
+3706288227134857abf468fcb33e8e11,on,130,224,4,False,clerical,100.0,100.0
+43594f06617b4941af495984e47bff8c,on,130,224,2,False,three,100.0,100.0
+4d838b2ccaab4c89966122429abea787,on,130,224,8,False,"5,111 m2",0.0,50.0
+ada2e2df0f954681adf4f047f345f928,on,130,224,5,False,savanna or desert,100.0,100.0
+4b7120f7a5b6471192aa818e2d97447b,on,131,225,3,False,journalism,100.0,100.0
+490c2698a787429a9cf08c855241403e,on,131,226,15,False,to increase the chloroplast's surface area for cross-membrane transport,100.0,100.0
+674cf56ba33a43afb401e91f83cea48c,on,131,226,5,False,Temperance Movement,100.0,100.0
+68f5a8b068aa41c989b3734a3303d94c,on,131,226,4,False,Gender pay gap,0.0,0.0
+4b7120f7a5b6471192aa818e2d97447b,off,131,225,3,False,journalism,100.0,100.0
+490c2698a787429a9cf08c855241403e,off,131,226,15,False,to increase the chloroplast's surface area for cross-membrane transport,100.0,100.0
+674cf56ba33a43afb401e91f83cea48c,off,131,226,5,False,Temperance Movement,100.0,100.0
+68f5a8b068aa41c989b3734a3303d94c,off,131,226,4,False,Gender pay gap,0.0,0.0
+6ddff43557a64752a5cb8b2334dc740e,off,132,226,3,False,German army,100.0,100.0
+7321d1608f614fa48f33eca188ed6d80,off,132,226,3,False,in Africa,100.0,100.0
+7909e6af2ab54229a3d2c974af7cb386,off,132,226,3,False,aided,100.0,100.0
+c967f26d828e423ca3f4c41f0e35e3de,off,132,226,8,False,time and space hierarchy theorems,100.0,100.0
+6ddff43557a64752a5cb8b2334dc740e,on,132,226,3,False,German army,100.0,100.0
+7321d1608f614fa48f33eca188ed6d80,on,132,226,3,False,in Africa,100.0,100.0
+7909e6af2ab54229a3d2c974af7cb386,on,132,226,3,False,aided,100.0,100.0
+c967f26d828e423ca3f4c41f0e35e3de,on,132,226,8,False,time and space hierarchy theorems,100.0,100.0
+cdb388bcc8af4a16a9cb781113499359,on,133,226,19,False,France concentrated its forces against Prussia and its allies in the European theatre of the war.,0.0,21.428571428571427
+fdc64bfbea0e43b08d0ec21b7a9199ac,on,133,226,9,False,by 20–25%,0.0,50.0
+48dd74a9c35b4d2fbcc5ef432f1cd83c,on,133,227,4,False,soluble components,100.0,100.0
+6de1312e1c824b3290243d0d18c13326,on,133,227,6,False,entirely separate companies,100.0,100.0
+cdb388bcc8af4a16a9cb781113499359,off,133,226,19,False,France concentrated its forces against Prussia and its allies in the European theatre of the war.,0.0,21.428571428571427
+fdc64bfbea0e43b08d0ec21b7a9199ac,off,133,226,9,False,by 20–25%,0.0,50.0
+48dd74a9c35b4d2fbcc5ef432f1cd83c,off,133,227,4,False,soluble components,100.0,100.0
+6de1312e1c824b3290243d0d18c13326,off,133,227,6,False,entirely separate companies,100.0,100.0
+e335f58f850f49b890ccf2033bb8ab8c,off,134,227,16,False,glucose monomers in the chloroplast can be linked together to make starch,0.0,84.21052631578947
+012eab0cdd6f4de4834f992250603592,off,134,228,9,False,90% to 93%,100.0,100.0
+2da6f7ecc9a24d1cb5e61e40f0b81a83,off,134,228,7,False,enthusiasm about the students,100.0,100.0
+33e11bf6a8f242cbb8bf980cb4f9a961,off,134,228,6,False,le roi Huguet,0.0,75.0
+e335f58f850f49b890ccf2033bb8ab8c,on,134,227,16,False,glucose monomers in the chloroplast can be linked together to make starch,0.0,84.21052631578947
+012eab0cdd6f4de4834f992250603592,on,134,228,9,False,90% to 93%,100.0,100.0
+2da6f7ecc9a24d1cb5e61e40f0b81a83,on,134,228,7,False,enthusiasm about the students,100.0,100.0
+33e11bf6a8f242cbb8bf980cb4f9a961,on,134,228,6,False,le roi Huguet,0.0,75.0
+fd41786d22fa414db42d2254c5d1177b,on,135,228,6,False,the Taihō Code,100.0,100.0
+752aeb82b3254c60b3769a1fe3e64b7d,on,135,229,5,False,1997,100.0,100.0
+bbfeeab04ce942b7af27f8eb5f1d698c,on,135,229,3,False,Warsaw,100.0,100.0
+e9ac1efa1cbb4e83a6ec7d674722ae53,on,135,229,3,False,Islamic values,0.0,0.0
+fd41786d22fa414db42d2254c5d1177b,off,135,228,6,False,the Taihō Code,100.0,100.0
+752aeb82b3254c60b3769a1fe3e64b7d,off,135,229,5,False,1997,100.0,100.0
+bbfeeab04ce942b7af27f8eb5f1d698c,off,135,229,3,False,Warsaw,100.0,100.0
+e9ac1efa1cbb4e83a6ec7d674722ae53,off,135,229,3,False,Islamic values,0.0,0.0
+ee78d8c2ef4d4ea98aa00a43ac074bc0,off,136,229,6,False,Queen Victoria and Prince Albert,100.0,100.0
+f7b9f3527d8a48599de57fc441605cc5,off,136,229,2,False,two,100.0,100.0
+2956be8e102247099945fb682da3bf8e,off,136,230,5,False,a better relevant income,100.0,100.0
+2c6a1029c5f64388bcd44284c60e4f46,off,136,230,3,False,Islamization,0.0,0.0
+ee78d8c2ef4d4ea98aa00a43ac074bc0,on,136,229,6,False,Queen Victoria and Prince Albert,100.0,100.0
+f7b9f3527d8a48599de57fc441605cc5,on,136,229,2,False,two,100.0,100.0
+2956be8e102247099945fb682da3bf8e,on,136,230,5,False,a better relevant income,100.0,100.0
+2c6a1029c5f64388bcd44284c60e4f46,on,136,230,3,False,Islamization,0.0,0.0
+625a898f5e4641b8b9e451a494957f0a,on,137,230,6,False,the flail of God,100.0,100.0
+a263a463e1e04adf9b71fcff0fc8a318,on,137,230,5,False,Percy Shelley,100.0,100.0
+b3d9495a94e643fcb7a172fb05a6b0a2,on,137,230,3,False,Queen Victoria,100.0,100.0
+e61de8f65da249a59f7a285f2775ab26,on,137,230,5,False,2016,100.0,100.0
+625a898f5e4641b8b9e451a494957f0a,off,137,230,6,False,the flail of God,100.0,100.0
+a263a463e1e04adf9b71fcff0fc8a318,off,137,230,5,False,Percy Shelley,100.0,100.0
+b3d9495a94e643fcb7a172fb05a6b0a2,off,137,230,3,False,Queen Victoria,100.0,100.0
+e61de8f65da249a59f7a285f2775ab26,off,137,230,5,False,2016,100.0,100.0
+f2ef0a6f499e4a59be3e78c40df95e80,off,138,230,4,False,the English Channel,100.0,100.0
+050c9b86013c43ed8a612fbc413beeb5,off,138,231,5,False,unwavering loyalty,100.0,100.0
+54961ce4ee20401199d49207de98327c,off,138,231,7,False,2.666 million,100.0,100.0
+564ce729e00042ecb33cb3577ee5688e,off,138,231,7,False,2.666 million,100.0,100.0
+f2ef0a6f499e4a59be3e78c40df95e80,on,138,230,4,False,the English Channel,100.0,100.0
+050c9b86013c43ed8a612fbc413beeb5,on,138,231,5,False,unwavering loyalty,100.0,100.0
+54961ce4ee20401199d49207de98327c,on,138,231,7,False,2.666 million,100.0,100.0
+564ce729e00042ecb33cb3577ee5688e,on,138,231,7,False,2.666 million,100.0,100.0
+69478dbef43c4815ba2f44455dca129f,on,139,231,8,False,"45,000 pounds",100.0,100.0
+6d11f29a46ec4092985c58000361b323,on,139,231,7,False,nearly 86 km,0.0,80.0
+8f1cd39bf6d04e0b91ae8d1bba2aea8d,on,139,231,4,False,the long occupation,0.0,66.66666666666666
+d9be1882b09541b6b109304cd05085c7,on,139,231,16,False,NASA also had to make funds available for the development of the upcoming Space Shuttle,0.0,70.0
+69478dbef43c4815ba2f44455dca129f,off,139,231,8,False,"45,000 pounds",100.0,100.0
+6d11f29a46ec4092985c58000361b323,off,139,231,7,False,nearly 86 km,0.0,80.0
+8f1cd39bf6d04e0b91ae8d1bba2aea8d,off,139,231,4,False,the long occupation,0.0,66.66666666666666
+d9be1882b09541b6b109304cd05085c7,off,139,231,16,False,NASA also had to make funds available for the development of the upcoming Space Shuttle,0.0,70.0
+edf29ecf5eb14a2b9b091935470f0566,off,140,231,4,False,Sky Q Hub,100.0,100.0
+3796fcd659f14e88b55beeb9766eadee,off,140,232,3,False,special efforts,100.0,100.0
+47d9c107ceb94d0ba84c869f410fdc34,off,140,232,6,False,Wernher von Braun,100.0,100.0
+7bea39111b8e4cf49c2c982c9d7aa87f,off,140,232,19,False,"France, Argentina, the United Kingdom, Belgium, Ireland, Italy, Spain, and India",100.0,100.0
+edf29ecf5eb14a2b9b091935470f0566,on,140,231,4,False,Sky Q Hub,100.0,100.0
+3796fcd659f14e88b55beeb9766eadee,on,140,232,3,False,special efforts,100.0,100.0
+47d9c107ceb94d0ba84c869f410fdc34,on,140,232,6,False,Wernher von Braun,100.0,100.0
+7bea39111b8e4cf49c2c982c9d7aa87f,on,140,232,19,False,"France, Argentina, the United Kingdom, Belgium, Ireland, Italy, Spain, and India",100.0,100.0
+8da81d26117b4fa1a22afea092c9c10c,on,141,232,2,False,English,100.0,100.0
+aebc556fffe74553b443a01aeba0bc9e,on,141,232,3,False,design build,100.0,100.0
+49eedcb5a8a24381990aa7325841bd7c,on,141,233,3,False,payload capacity,0.0,0.0
+cac3297cc45a4ccd9e36885f059d6793,on,141,233,15,False,"2,900 kilometres (1,802 mi)",100.0,100.0
+8da81d26117b4fa1a22afea092c9c10c,off,141,232,2,False,English,100.0,100.0
+aebc556fffe74553b443a01aeba0bc9e,off,141,232,3,False,design build,100.0,100.0
+49eedcb5a8a24381990aa7325841bd7c,off,141,233,3,False,payload capacity,0.0,0.0
+cac3297cc45a4ccd9e36885f059d6793,off,141,233,15,False,"2,900 kilometres (1,802 mi)",100.0,100.0
+e5da469afb5a4d27a11dcdbef917468c,off,142,233,4,False,The show globe,100.0,100.0
+f6bfe62f31df46b99c0a331340f613bc,off,142,233,7,False,"20,000",100.0,100.0
+0a6467830eb84388a6ad5dfe6965dbd8,off,142,234,7,False,a connected sum of prime knots,0.0,90.9090909090909
+6408ddf0e7a8419b92803db2e58b0995,off,142,234,10,False,admission to Standard One (First Grade),0.0,80.0
+e5da469afb5a4d27a11dcdbef917468c,on,142,233,4,False,The show globe,100.0,100.0
+f6bfe62f31df46b99c0a331340f613bc,on,142,233,7,False,"20,000",100.0,100.0
+0a6467830eb84388a6ad5dfe6965dbd8,on,142,234,7,False,a connected sum of prime knots,0.0,90.9090909090909
+6408ddf0e7a8419b92803db2e58b0995,on,142,234,10,False,admission to Standard One (First Grade),0.0,80.0
+e2fdf97d62714f6995fac29325ffef7c,on,143,234,5,False,Squillace,100.0,100.0
+e81596c5998347a884bf29fb39d2230e,on,143,234,4,False,Wiesner,100.0,100.0
+044dd810fbbc40ae8f60210e0114f101,on,143,235,5,False,Anglican Church,0.0,0.0
+092d0e9efb924a808695c13be3709982,on,143,235,15,False,"provide a fault-tolerant, efficient routing method for telecommunication messages",100.0,100.0
+e2fdf97d62714f6995fac29325ffef7c,off,143,234,5,False,Squillace,100.0,100.0
+e81596c5998347a884bf29fb39d2230e,off,143,234,4,False,Wiesner,100.0,100.0
+044dd810fbbc40ae8f60210e0114f101,off,143,235,5,False,Anglican Church,0.0,0.0
+092d0e9efb924a808695c13be3709982,off,143,235,15,False,"provide a fault-tolerant, efficient routing method for telecommunication messages",100.0,100.0
+5bab1b581ff74b4e950ed1e352897b64,off,144,235,13,False,construction of military roads to the area by Braddock and Forbes,100.0,100.0
+86ee3cced1524bdc8497a178394fcf89,off,144,235,7,False,more than 48 hours,100.0,100.0
+c394f26c81464e4aba3fd41d48684072,off,144,235,2,False,girls,100.0,100.0
+049bf14a95bb48bb86169320c4210d90,off,144,236,5,False,a quantity surveyor,100.0,100.0
+5bab1b581ff74b4e950ed1e352897b64,on,144,235,13,False,construction of military roads to the area by Braddock and Forbes,100.0,100.0
+86ee3cced1524bdc8497a178394fcf89,on,144,235,7,False,more than 48 hours,100.0,100.0
+c394f26c81464e4aba3fd41d48684072,on,144,235,2,False,girls,100.0,100.0
+049bf14a95bb48bb86169320c4210d90,on,144,236,5,False,a quantity surveyor,100.0,100.0
+110db04ee32e4dbb8938c2090021880b,on,145,236,5,False,Jacksonville Consolidation,100.0,100.0
+1a554b2d80634b999cef795d808eea5c,on,145,236,3,False,Prussia,100.0,100.0
+1f56db6d7f9749c695b935ba7e0cc639,on,145,236,3,False,32,100.0,100.0
+34f3edcedb9a42c28fcec082582525af,on,145,236,6,False,"2,000",100.0,100.0
+110db04ee32e4dbb8938c2090021880b,off,145,236,5,False,Jacksonville Consolidation,100.0,100.0
+1a554b2d80634b999cef795d808eea5c,off,145,236,3,False,Prussia,100.0,100.0
+1f56db6d7f9749c695b935ba7e0cc639,off,145,236,3,False,32,100.0,100.0
+34f3edcedb9a42c28fcec082582525af,off,145,236,6,False,"2,000",100.0,100.0
+5fe0c55a865945dca9c647fbcaf44045,off,146,236,7,False,"90,790",0.0,66.66666666666666
+bf5ae4da648545b9bfafd26cff151046,off,146,236,3,False,Trout,0.0,0.0
+3d11d78656fe4da1a77bdc8d0d84a820,off,146,237,5,False,Yesügei,100.0,100.0
+7f6a16398466480d902cf961dacfdaaa,off,146,237,8,False,"51,300 pounds",100.0,100.0
+5fe0c55a865945dca9c647fbcaf44045,on,146,236,7,False,"90,790",0.0,66.66666666666666
+bf5ae4da648545b9bfafd26cff151046,on,146,236,3,False,Trout,0.0,0.0
+3d11d78656fe4da1a77bdc8d0d84a820,on,146,237,5,False,Yesügei,100.0,100.0
+7f6a16398466480d902cf961dacfdaaa,on,146,237,8,False,"51,300 pounds",100.0,100.0
+87cfad7ee76e40909945264cdd7845f6,on,147,237,9,False,24 September 2007,100.0,100.0
+b4ba812f646a40f59a18f51a7012f26f,on,147,237,13,False,the role of Yersinia pestis in the Black Death,100.0,100.0
+bb618646b3c64c9498b35e7f751b31f1,on,147,237,9,False,pure cultures of the lactobacilli,0.0,40.0
+46ee3b76f90e4e2a800a602474dfeacc,on,147,238,15,False,"any object can be, essentially uniquely, decomposed into its prime components",100.0,100.0
+87cfad7ee76e40909945264cdd7845f6,off,147,237,9,False,24 September 2007,100.0,100.0
+b4ba812f646a40f59a18f51a7012f26f,off,147,237,13,False,the role of Yersinia pestis in the Black Death,100.0,100.0
+bb618646b3c64c9498b35e7f751b31f1,off,147,237,9,False,pure cultures of the lactobacilli,0.0,40.0
+46ee3b76f90e4e2a800a602474dfeacc,off,147,238,15,False,"any object can be, essentially uniquely, decomposed into its prime components",100.0,100.0
+5e68feb318594b68a4c3b2be333e8b3c,off,148,238,6,False,regional burden sharing conflicts,100.0,100.0
+4a8fed61918e4f12bf310954df6412ed,off,148,239,4,False,Spanish Catholic population,0.0,0.0
+75949416b2854d48878b36748f2bffdd,off,148,239,3,False,immune surveillance,100.0,100.0
+a73121cb33a246f0807c5e1072ef05f8,off,148,239,4,False,Hero of Alexandria,100.0,100.0
+5e68feb318594b68a4c3b2be333e8b3c,on,148,238,6,False,regional burden sharing conflicts,100.0,100.0
+4a8fed61918e4f12bf310954df6412ed,on,148,239,4,False,Spanish Catholic population,0.0,0.0
+75949416b2854d48878b36748f2bffdd,on,148,239,3,False,immune surveillance,100.0,100.0
+a73121cb33a246f0807c5e1072ef05f8,on,148,239,4,False,Hero of Alexandria,100.0,100.0
+ad229d6a65244b20a9121c7b19dc38ed,on,149,239,5,False,several hundred thousand,0.0,0.0
+b8f4e1c325084c6f8e0f90009dac6811,on,149,239,6,False,an international data communications network,100.0,100.0
+51831ee51fbe4d63a0ff55fb9b6dd2a1,on,149,240,6,False,Battle of Olustee,100.0,100.0
+56db065b8bf144d5a1fde38907f8c5ff,on,149,240,6,False,$680 billion,100.0,100.0
+ad229d6a65244b20a9121c7b19dc38ed,off,149,239,5,False,several hundred thousand,0.0,0.0
+b8f4e1c325084c6f8e0f90009dac6811,off,149,239,6,False,an international data communications network,100.0,100.0
+51831ee51fbe4d63a0ff55fb9b6dd2a1,off,149,240,6,False,Battle of Olustee,100.0,100.0
+56db065b8bf144d5a1fde38907f8c5ff,off,149,240,6,False,$680 billion,100.0,100.0
+77cbe1abbbb14c8890771486eec29fd5,off,150,240,5,False,1992,100.0,100.0
+d9bc1ac90a564dadb0f8b65835aa0746,off,150,240,11,False,X.25/X.75 gateways,0.0,0.0
+e742f0f20a2b424c8cae10adb4614b3c,off,150,240,6,False,55.1%,100.0,100.0
+ff157346b8e1469285b8e41e55ff6cfe,off,150,240,19,False,"Marconi successfully transmitted the letter S from England to Newfoundland, terminating Tesla's relationship with Morgan",0.0,78.26086956521739
+77cbe1abbbb14c8890771486eec29fd5,on,150,240,5,False,1992,100.0,100.0
+d9bc1ac90a564dadb0f8b65835aa0746,on,150,240,11,False,X.25/X.75 gateways,0.0,0.0
+e742f0f20a2b424c8cae10adb4614b3c,on,150,240,6,False,55.1%,100.0,100.0
+ff157346b8e1469285b8e41e55ff6cfe,on,150,240,19,False,"Marconi successfully transmitted the letter S from England to Newfoundland, terminating Tesla's relationship with Morgan",0.0,78.26086956521739
+5749cfa6f7144c2092e37b68453a2126,on,151,241,2,False,Rose,100.0,100.0
+5dfe098fe3c8492baa2da5dc72672dac,on,151,241,5,False,Victoria Department of Education,100.0,100.0
+6c92482444dc4677a6c064a960c8c5d4,on,151,241,3,False,Decision Time,100.0,100.0
+8d8a8e04821e483ab673aca48fbc9e76,on,151,241,4,False,Paramount Pictures,100.0,100.0
+5749cfa6f7144c2092e37b68453a2126,off,151,241,2,False,Rose,100.0,100.0
+5dfe098fe3c8492baa2da5dc72672dac,off,151,241,5,False,Victoria Department of Education,100.0,100.0
+6c92482444dc4677a6c064a960c8c5d4,off,151,241,3,False,Decision Time,100.0,100.0
+8d8a8e04821e483ab673aca48fbc9e76,off,151,241,4,False,Paramount Pictures,100.0,100.0
+ab012ed44d10428794872f3a2ec6c1ab,off,152,241,7,False,"""The Day of the Doctor""",100.0,100.0
+bc7d53d6dd57410eb2606ac322a7aca5,off,152,241,7,False,not being a civil disobedient,100.0,100.0
+d56a92daf0cd4e1597b018d3a7d3e129,off,152,241,8,False,Distributed Adaptive Message Block Switching,100.0,100.0
+d9bc833dacf44b89a80c52785626f9ba,off,152,241,6,False,plants and invertebrates,0.0,0.0
+ab012ed44d10428794872f3a2ec6c1ab,on,152,241,7,False,"""The Day of the Doctor""",100.0,100.0
+bc7d53d6dd57410eb2606ac322a7aca5,on,152,241,7,False,not being a civil disobedient,100.0,100.0
+d56a92daf0cd4e1597b018d3a7d3e129,on,152,241,8,False,Distributed Adaptive Message Block Switching,100.0,100.0
+d9bc833dacf44b89a80c52785626f9ba,on,152,241,6,False,plants and invertebrates,0.0,0.0
+edcf8ead418d465ba2fc8471cc1f4eea,on,153,242,2,False,seconds,100.0,100.0
+0bd62fff39d246abb1c736f86fd7da28,on,153,243,4,False,Thomson,100.0,100.0
+297d9bc7ebdf45a5908ae47a6195047b,on,153,243,3,False,random noise,100.0,100.0
+3ba4744c5f764c828bc6ae3b2c4d4aab,on,153,243,3,False,Tim Allen,100.0,100.0
+edcf8ead418d465ba2fc8471cc1f4eea,off,153,242,2,False,seconds,100.0,100.0
+0bd62fff39d246abb1c736f86fd7da28,off,153,243,4,False,Thomson,100.0,100.0
+297d9bc7ebdf45a5908ae47a6195047b,off,153,243,3,False,random noise,100.0,100.0
+3ba4744c5f764c828bc6ae3b2c4d4aab,off,153,243,3,False,Tim Allen,100.0,100.0
+3f92b43e653d4a01b20052b56d9377c1,off,154,243,4,False,unbalanced force,0.0,50.0
+9ee5f8ff33a740749aef7e7c292d6f8f,off,154,243,2,False,coal,100.0,100.0
+cfabca3dddaa484aad2ed8c6664abc2b,off,154,243,3,False,5%,0.0,0.0
+e6a8d34101c54f9ca837f537f3f8b8d6,off,154,243,4,False,84 hours,100.0,100.0
+3f92b43e653d4a01b20052b56d9377c1,on,154,243,4,False,unbalanced force,0.0,50.0
+9ee5f8ff33a740749aef7e7c292d6f8f,on,154,243,2,False,coal,100.0,100.0
+cfabca3dddaa484aad2ed8c6664abc2b,on,154,243,3,False,5%,0.0,0.0
+e6a8d34101c54f9ca837f537f3f8b8d6,on,154,243,4,False,84 hours,100.0,100.0
+2e62b3c5a62a4b749c8a26a7ba3cb792,on,155,244,3,False,cell membrane,100.0,100.0
+51adc323cef9438f8e5ce92262f5a34f,on,155,244,4,False,Thermochemical,100.0,100.0
+89db67fd792f47e5b6f4cd764d8d06a4,on,155,244,8,False,the most popular show at the time,100.0,100.0
+cc06d11769cf46f38f468936a352251f,on,155,244,6,False,Warner Bros. Presents,100.0,100.0
+2e62b3c5a62a4b749c8a26a7ba3cb792,off,155,244,3,False,cell membrane,100.0,100.0
+51adc323cef9438f8e5ce92262f5a34f,off,155,244,4,False,Thermochemical,100.0,100.0
+89db67fd792f47e5b6f4cd764d8d06a4,off,155,244,8,False,the most popular show at the time,100.0,100.0
+cc06d11769cf46f38f468936a352251f,off,155,244,6,False,Warner Bros. Presents,100.0,100.0
+f4a351b67c8544b38fc8bf012ff0c59d,off,156,244,5,False,Chicago's physics department,100.0,100.0
+04f149e061a44a1689a6e93599e13318,off,156,245,7,False,1.5 gigatons,100.0,100.0
+06efb64896ba4b2fb6d10e1d3313e652,off,156,245,4,False,justifying grace,100.0,100.0
+2201d31ed96c4ab0bc6fbd9876ed7ed1,off,156,245,3,False,50,100.0,100.0
+f4a351b67c8544b38fc8bf012ff0c59d,on,156,244,5,False,Chicago's physics department,100.0,100.0
+04f149e061a44a1689a6e93599e13318,on,156,245,7,False,1.5 gigatons,100.0,100.0
+06efb64896ba4b2fb6d10e1d3313e652,on,156,245,4,False,justifying grace,100.0,100.0
+2201d31ed96c4ab0bc6fbd9876ed7ed1,on,156,245,3,False,50,100.0,100.0
+37f928d1535f40769e1beeec09c8467d,on,157,245,5,False,triplet-stacked,100.0,100.0
+bbdaffa8e8c1401a893c538558ede556,on,157,245,4,False,late antiquity,100.0,100.0
+cc69e86dc56147dfb2c89e45dbafd9b2,on,157,245,5,False,The Book of Roger,100.0,100.0
+32a8521090fe47c3910c7c5d0dd4f09f,on,157,246,8,False,"667,000",0.0,66.66666666666666
+37f928d1535f40769e1beeec09c8467d,off,157,245,5,False,triplet-stacked,100.0,100.0
+bbdaffa8e8c1401a893c538558ede556,off,157,245,4,False,late antiquity,100.0,100.0
+cc69e86dc56147dfb2c89e45dbafd9b2,off,157,245,5,False,The Book of Roger,100.0,100.0
+32a8521090fe47c3910c7c5d0dd4f09f,off,157,246,8,False,"667,000",0.0,66.66666666666666
+5683438f79f74866a836a7958433c019,off,158,246,3,False,12,100.0,100.0
+c2da445ed0a8423e989214e6ac24bb17,off,158,246,18,False,Mental Health (Care and Treatment) (Scotland) Act 2003,100.0,100.0
+da6cea4e4e474435818c3246bcbbefd1,off,158,246,3,False,protest,100.0,100.0
+02ab226f84d648f49dd7ad7f2166323a,off,158,247,10,False,"4,222,000",100.0,100.0
+5683438f79f74866a836a7958433c019,on,158,246,3,False,12,100.0,100.0
+c2da445ed0a8423e989214e6ac24bb17,on,158,246,18,False,Mental Health (Care and Treatment) (Scotland) Act 2003,100.0,100.0
+da6cea4e4e474435818c3246bcbbefd1,on,158,246,3,False,protest,100.0,100.0
+02ab226f84d648f49dd7ad7f2166323a,on,158,247,10,False,"4,222,000",100.0,100.0
+21fcf146d4204277a791e2671a2b929a,on,159,247,4,False,HgO,100.0,100.0
+421fb3d5360e438f98cedcc32c4a85b0,on,159,247,6,False,other ctenophores,100.0,100.0
+bdc2197d5acf4da1908bca7d4de85fe3,on,159,247,5,False,1726,100.0,100.0
+1bc314ab39cd4fd2aad40de253c04957,on,159,248,10,False,Swiss canton of Graubünden,0.0,66.66666666666666
+21fcf146d4204277a791e2671a2b929a,off,159,247,4,False,HgO,100.0,100.0
+421fb3d5360e438f98cedcc32c4a85b0,off,159,247,6,False,other ctenophores,100.0,100.0
+bdc2197d5acf4da1908bca7d4de85fe3,off,159,247,5,False,1726,100.0,100.0
+1bc314ab39cd4fd2aad40de253c04957,off,159,248,10,False,Swiss canton of Graubünden,0.0,66.66666666666666
+28ea1affb805406cb027661c9d80968d,off,160,248,6,False,thylakoid space,100.0,100.0
+5f4d0df367e54780ae0e4c0db40feec0,off,160,248,12,False,prevent the installation of pagan images in the Temple in Jerusalem,100.0,100.0
+9183014a9f904b2c83a2c7ece05c4999,off,160,248,2,False,Iran,100.0,100.0
+92780d10fdec4aabad16e977a874d039,off,160,248,3,False,General Conference,100.0,100.0
+28ea1affb805406cb027661c9d80968d,on,160,248,6,False,thylakoid space,100.0,100.0
+5f4d0df367e54780ae0e4c0db40feec0,on,160,248,12,False,prevent the installation of pagan images in the Temple in Jerusalem,100.0,100.0
+9183014a9f904b2c83a2c7ece05c4999,on,160,248,2,False,Iran,100.0,100.0
+92780d10fdec4aabad16e977a874d039,on,160,248,3,False,General Conference,100.0,100.0
+a3255ede6255484790262c2070092f4f,on,161,248,4,False,St. Augustine,0.0,0.0
+d8ce8b6de956461091dcafbc46fb08d8,on,161,248,4,False,the southern part,0.0,66.66666666666666
+554541d10c42481da58d63a92d32d586,on,161,249,12,False,removing the three letters l-a-w from the church,0.0,22.22222222222222
+a048f7cce1a34a5fac14afacb8eaaf41,on,161,249,6,False,uniting warring tribes,100.0,100.0
+a3255ede6255484790262c2070092f4f,off,161,248,4,False,St. Augustine,0.0,0.0
+d8ce8b6de956461091dcafbc46fb08d8,off,161,248,4,False,the southern part,0.0,66.66666666666666
+554541d10c42481da58d63a92d32d586,off,161,249,12,False,removing the three letters l-a-w from the church,0.0,22.22222222222222
+a048f7cce1a34a5fac14afacb8eaaf41,off,161,249,6,False,uniting warring tribes,100.0,100.0
+a0a5428fd8724696b51f30f160b6a44d,off,162,249,7,False,dephlogisticated air,100.0,100.0
+c892ff7ee8644136b16dda8a5f540504,off,162,249,6,False,turbo-electric transmission,100.0,100.0
+d522b996bb50485ba893e01fe6931fa2,off,162,249,3,False,extra costs,100.0,100.0
+2eb650a88af74a15b6fdbf0f73bc0254,off,162,250,3,False,Stagecoach,100.0,100.0
+a0a5428fd8724696b51f30f160b6a44d,on,162,249,7,False,dephlogisticated air,100.0,100.0
+c892ff7ee8644136b16dda8a5f540504,on,162,249,6,False,turbo-electric transmission,100.0,100.0
+d522b996bb50485ba893e01fe6931fa2,on,162,249,3,False,extra costs,100.0,100.0
+2eb650a88af74a15b6fdbf0f73bc0254,on,162,250,3,False,Stagecoach,100.0,100.0
+53617cb5e3b44f0d97b27df19223328b,on,163,250,4,False,isotope ratios,0.0,66.66666666666666
+5a7ad9d57f574972b7bc995dbd72abb9,on,163,250,16,False,"75,000 to 100,000",100.0,100.0
+84267f41c4b849a5a658e40db6eeddcd,on,163,250,3,False,itself,100.0,100.0
+e8be7dd74b1e4a07b34a9b30df502e15,on,163,250,5,False,Sheldon Ungar,100.0,100.0
+53617cb5e3b44f0d97b27df19223328b,off,163,250,4,False,isotope ratios,0.0,66.66666666666666
+5a7ad9d57f574972b7bc995dbd72abb9,off,163,250,16,False,"75,000 to 100,000",100.0,100.0
+84267f41c4b849a5a658e40db6eeddcd,off,163,250,3,False,itself,100.0,100.0
+e8be7dd74b1e4a07b34a9b30df502e15,off,163,250,5,False,Sheldon Ungar,100.0,100.0
+5510d27dcdf042378901dc4c9c9afcf5,off,164,251,2,False,1,0.0,18.181818181818183
+9e7430a0781b40d2887660d38198a27b,off,164,251,4,False,The Weavers,100.0,100.0
+af2f40c59c804d949746ec62a1101edb,off,164,251,3,False,unsuccessful,100.0,100.0
+f095d033aed9473b82c237fe04d9b1b3,off,164,251,3,False,Presbyterian,100.0,100.0
+5510d27dcdf042378901dc4c9c9afcf5,on,164,251,2,False,1,0.0,18.181818181818183
+9e7430a0781b40d2887660d38198a27b,on,164,251,4,False,The Weavers,100.0,100.0
+af2f40c59c804d949746ec62a1101edb,on,164,251,3,False,unsuccessful,100.0,100.0
+f095d033aed9473b82c237fe04d9b1b3,on,164,251,3,False,Presbyterian,100.0,100.0
+fc9340e7f40e45cb9d7b1d55b4684e8f,on,165,251,9,False,signing bail until certain demands are met,0.0,70.58823529411765
+077e355583614be484a17558c2292ec9,on,165,252,6,False,The View and The Chew,100.0,100.0
+7b9c68e51b504f97b0cbe6c1ced21e1b,on,165,252,6,False,a fixed set of rules,0.0,61.53846153846154
+94753b7b1a4d43998d5d60de269f96d3,on,165,252,13,False,"dendritic cells, keratinocytes and macrophages",100.0,100.0
+fc9340e7f40e45cb9d7b1d55b4684e8f,off,165,251,9,False,signing bail until certain demands are met,0.0,70.58823529411765
+077e355583614be484a17558c2292ec9,off,165,252,6,False,The View and The Chew,100.0,100.0
+7b9c68e51b504f97b0cbe6c1ced21e1b,off,165,252,6,False,a fixed set of rules,0.0,61.53846153846154
+94753b7b1a4d43998d5d60de269f96d3,off,165,252,13,False,"dendritic cells, keratinocytes and macrophages",100.0,100.0
+b11fabc95f844d9e80b0371028c370f3,off,166,252,5,False,1606,100.0,100.0
+76889544975a41778cfeee3d95a5506b,off,166,253,5,False,St. Johns River,100.0,100.0
+7fe5163eeee9455f8cf0791b5d04ca7b,off,166,253,3,False,North Sea,0.0,0.0
+9fb99c2ae0094e6ead059fbbc6a2a44e,off,166,253,6,False,20 million years ago,100.0,100.0
+b11fabc95f844d9e80b0371028c370f3,on,166,252,5,False,1606,100.0,100.0
+76889544975a41778cfeee3d95a5506b,on,166,253,5,False,St. Johns River,100.0,100.0
+7fe5163eeee9455f8cf0791b5d04ca7b,on,166,253,3,False,North Sea,0.0,0.0
+9fb99c2ae0094e6ead059fbbc6a2a44e,on,166,253,6,False,20 million years ago,100.0,100.0
+c653b332a02d409c83edeae59e31a1b3,on,167,253,4,False,90°,100.0,100.0
+d02ce8faa97c40f2a177902c2381fbf8,on,167,253,6,False,400 m wide,100.0,100.0
+e74c2017c6fd449280dcf92c204c956d,on,167,253,8,False,more than a fifth of the discharge,0.0,0.0
+39bd710573a945aa8b44f3ff0a63ba64,on,167,254,13,False,a certain number of teacher's salaries are paid by the State,100.0,100.0
+c653b332a02d409c83edeae59e31a1b3,off,167,253,4,False,90°,100.0,100.0
+d02ce8faa97c40f2a177902c2381fbf8,off,167,253,6,False,400 m wide,100.0,100.0
+e74c2017c6fd449280dcf92c204c956d,off,167,253,8,False,more than a fifth of the discharge,0.0,0.0
+39bd710573a945aa8b44f3ff0a63ba64,off,167,254,13,False,a certain number of teacher's salaries are paid by the State,100.0,100.0
+6b43a1d1813c4c92a8b22a2c4c7449ed,off,168,254,5,False,340 miles,100.0,100.0
+8b3b56b804234faea5d6fd909d803219,off,168,254,8,False,"£42,090",100.0,100.0
+0b0712e7aabf46ccbe46f892f30bb70e,off,168,255,10,False,Kuviasungnerk/Kangeiko,100.0,100.0
+2036bd85a0df4d8fa8f770dbc3fe0a09,off,168,255,5,False,through the Waal,100.0,100.0
+6b43a1d1813c4c92a8b22a2c4c7449ed,on,168,254,5,False,340 miles,100.0,100.0
+8b3b56b804234faea5d6fd909d803219,on,168,254,8,False,"£42,090",100.0,100.0
+0b0712e7aabf46ccbe46f892f30bb70e,on,168,255,10,False,Kuviasungnerk/Kangeiko,100.0,100.0
+2036bd85a0df4d8fa8f770dbc3fe0a09,on,168,255,5,False,through the Waal,100.0,100.0
+4974126e919a46958870217df098147d,on,169,256,5,False,1950,100.0,100.0
+55ec33bd05b84c6c82c42743d70e219d,on,169,256,2,False,Sky,100.0,100.0
+9f44f02ce7534ef599f358e0031ae045,on,169,256,7,False,continuing gender inequality in education,0.0,88.88888888888889
+e49ade153721484f835b6b2aa161b552,on,169,256,3,False,reduction,100.0,100.0
+4974126e919a46958870217df098147d,off,169,256,5,False,1950,100.0,100.0
+55ec33bd05b84c6c82c42743d70e219d,off,169,256,2,False,Sky,100.0,100.0
+9f44f02ce7534ef599f358e0031ae045,off,169,256,7,False,continuing gender inequality in education,0.0,88.88888888888889
+e49ade153721484f835b6b2aa161b552,off,169,256,3,False,reduction,100.0,100.0
+07fb2ef3c2c6400c9462462fa7c01857,off,170,257,8,False,"€25,000",100.0,100.0
+40be3c47dc2748e1912a73987598d09c,off,170,257,6,False,"5,000",100.0,100.0
+55f3387694a049b288d52a389172d662,off,170,257,5,False,1820,100.0,100.0
+586b4f6e570d4ae99135585034a9f5cb,off,170,257,4,False,90°,100.0,100.0
+07fb2ef3c2c6400c9462462fa7c01857,on,170,257,8,False,"€25,000",100.0,100.0
+40be3c47dc2748e1912a73987598d09c,on,170,257,6,False,"5,000",100.0,100.0
+55f3387694a049b288d52a389172d662,on,170,257,5,False,1820,100.0,100.0
+586b4f6e570d4ae99135585034a9f5cb,on,170,257,4,False,90°,100.0,100.0
+9e7b0d3fb79f4e869805b609a06269b3,on,171,257,4,False,60 days,100.0,100.0
+5071082a64e54ca5b3cbdcaa2a994244,on,171,258,3,False,pastors,100.0,100.0
+76ed013ed67741eda6b71cb7d555bd69,on,171,258,7,False,comedies and family-oriented,100.0,100.0
+872c39c5dd014f9cb986fb3b4c8c2917,on,171,258,6,False,£4.2bn,100.0,100.0
+9e7b0d3fb79f4e869805b609a06269b3,off,171,257,4,False,60 days,100.0,100.0
+5071082a64e54ca5b3cbdcaa2a994244,off,171,258,3,False,pastors,100.0,100.0
+76ed013ed67741eda6b71cb7d555bd69,off,171,258,7,False,comedies and family-oriented,100.0,100.0
+872c39c5dd014f9cb986fb3b4c8c2917,off,171,258,6,False,£4.2bn,100.0,100.0
+bb0112f0fb7d4e159d60ca62df6fd8d7,off,172,258,2,False,1,0.0,0.0
+c62aa851de0a4bb8bbe37d261f035ec2,off,172,258,29,False,"Western art from the Middle Ages to the present emphasizing Italian early Renaissance, British pre-Raphaelite, and 19th-century French art",0.0,58.333333333333336
+574ffbaf36ff4b5a85752db3eb031102,off,172,259,3,False,Indonesia,0.0,0.0
+22fdbfacc4e74dcb8812fa997c87dee2,off,172,260,4,False,Saturn IB,100.0,100.0
+bb0112f0fb7d4e159d60ca62df6fd8d7,on,172,258,2,False,1,0.0,0.0
+c62aa851de0a4bb8bbe37d261f035ec2,on,172,258,29,False,"Western art from the Middle Ages to the present emphasizing Italian early Renaissance, British pre-Raphaelite, and 19th-century French art",0.0,58.333333333333336
+574ffbaf36ff4b5a85752db3eb031102,on,172,259,3,False,Indonesia,0.0,0.0
+22fdbfacc4e74dcb8812fa997c87dee2,on,172,260,4,False,Saturn IB,100.0,100.0
+6a5420a29a7f48a99d660e6c6be1fe16,on,173,260,8,False,rise and fall according to market demand,100.0,100.0
+7f499463d09f4e0a9a398a295fd86e62,on,173,260,4,False,William Iron Arm,100.0,100.0
+8c330db2d16a4cf9922429170f70f3d3,on,173,260,7,False,Because oil was priced in dollars,0.0,9.090909090909092
+13c61f391ca945d8b667f9b4018a7f30,on,173,261,6,False,Henry Moore and Jacob Epstein,100.0,100.0
+6a5420a29a7f48a99d660e6c6be1fe16,off,173,260,8,False,rise and fall according to market demand,100.0,100.0
+7f499463d09f4e0a9a398a295fd86e62,off,173,260,4,False,William Iron Arm,100.0,100.0
+8c330db2d16a4cf9922429170f70f3d3,off,173,260,7,False,Because oil was priced in dollars,0.0,9.090909090909092
+13c61f391ca945d8b667f9b4018a7f30,off,173,261,6,False,Henry Moore and Jacob Epstein,100.0,100.0
+221f4b69d20c4391a2168a53e73ab978,off,174,261,4,False,imperialism,100.0,100.0
+4b4a996156814078adfd8bf104570207,off,174,261,4,False,Yuan dynasty,0.0,0.0
+dab53be534e946649dc4ffd3cb04f69e,off,174,261,2,False,eight,100.0,100.0
+5a62e1f3447f482ead348adbf84901c4,off,174,262,4,False,Tate Britain,100.0,100.0
+221f4b69d20c4391a2168a53e73ab978,on,174,261,4,False,imperialism,100.0,100.0
+4b4a996156814078adfd8bf104570207,on,174,261,4,False,Yuan dynasty,0.0,0.0
+dab53be534e946649dc4ffd3cb04f69e,on,174,261,2,False,eight,100.0,100.0
+5a62e1f3447f482ead348adbf84901c4,on,174,262,4,False,Tate Britain,100.0,100.0
+331549bdca934426a4ff2d7fcbfdc086,on,175,263,3,False,Fort Caroline,100.0,100.0
+580926bb5f3f4e74853f8f12daf29ba3,on,175,264,11,False,2011 and 2012,100.0,100.0
+83d9866648284a3a8f4eb8975a9eb831,on,175,264,3,False,excommunication,100.0,100.0
+edd2b72bcc4146da8c6b1b6456400e55,on,175,264,2,False,Dallas,100.0,100.0
+331549bdca934426a4ff2d7fcbfdc086,off,175,263,3,False,Fort Caroline,100.0,100.0
+580926bb5f3f4e74853f8f12daf29ba3,off,175,264,11,False,2011 and 2012,100.0,100.0
+83d9866648284a3a8f4eb8975a9eb831,off,175,264,3,False,excommunication,100.0,100.0
+edd2b72bcc4146da8c6b1b6456400e55,off,175,264,2,False,Dallas,100.0,100.0
+0833e57b7adf45e2aea77e766514277e,off,176,265,7,False,Conrad of Montferrat,100.0,100.0
+7b66bdd708174ce894b83fa32136cf53,off,176,265,5,False,half a mile northwest,0.0,80.0
+f1a5b19ae92b44ec91e61a3551ddeb07,off,176,265,9,False,the red phycoerytherin pigment,0.0,40.0
+4c49ee691186432f89498319a1836a77,off,176,266,4,False,atmospheric,0.0,0.0
+0833e57b7adf45e2aea77e766514277e,on,176,265,7,False,Conrad of Montferrat,100.0,100.0
+7b66bdd708174ce894b83fa32136cf53,on,176,265,5,False,half a mile northwest,0.0,80.0
+f1a5b19ae92b44ec91e61a3551ddeb07,on,176,265,9,False,the red phycoerytherin pigment,0.0,40.0
+4c49ee691186432f89498319a1836a77,on,176,266,4,False,atmospheric,0.0,0.0
+477d20590bd540009bc1dac0c7218057,on,177,267,5,False,11.2,0.0,0.0
+71742f75008545b792618ed34e8c40df,on,177,267,7,False,3 miles (5 km),0.0,66.66666666666666
+cd236984e7374b87a17d8aa0c247fee9,on,177,267,5,False,Society of Jesus,100.0,100.0
+0b497816acd949cdb20b15fa1422afad,on,177,268,18,False,"Tea, coffee, sisal, pyrethrum, corn, and wheat",100.0,100.0
+477d20590bd540009bc1dac0c7218057,off,177,267,5,False,11.2,0.0,0.0
+71742f75008545b792618ed34e8c40df,off,177,267,7,False,3 miles (5 km),0.0,66.66666666666666
+cd236984e7374b87a17d8aa0c247fee9,off,177,267,5,False,Society of Jesus,100.0,100.0
+0b497816acd949cdb20b15fa1422afad,off,177,268,18,False,"Tea, coffee, sisal, pyrethrum, corn, and wheat",100.0,100.0
+7db98b12f9924e7ba823220daf9ab81b,off,178,268,5,False,Raimbaud,0.0,0.0
+d64f9176dd1046dba274cb3be832c4a6,off,178,268,12,False,"4,097.9 people per square mile",100.0,100.0
+dfec4ef0413e4d1f84b409509c09867f,off,178,268,4,False,Somerset House,100.0,100.0
+e971489fbb0840369fe03b8ed8234460,off,178,268,3,False,disease,100.0,100.0
+7db98b12f9924e7ba823220daf9ab81b,on,178,268,5,False,Raimbaud,0.0,0.0
+d64f9176dd1046dba274cb3be832c4a6,on,178,268,12,False,"4,097.9 people per square mile",100.0,100.0
+dfec4ef0413e4d1f84b409509c09867f,on,178,268,4,False,Somerset House,100.0,100.0
+e971489fbb0840369fe03b8ed8234460,on,178,268,3,False,disease,100.0,100.0
+02cf588d327b4db2b16830ec462a8a7d,on,179,269,5,False,many of the Canadians,0.0,42.857142857142854
+af21d45e509e4336b3b9287cb11e0b1e,on,179,269,6,False,University of Chicago Laboratory Schools,100.0,100.0
+d1d9db4e0c1f443db0f7fb1a0039cd0f,on,179,269,7,False,any member of the Scottish Government,100.0,100.0
+050a050e3c0242718d1df5720cc41e3a,on,179,270,4,False,will eventually decrease,0.0,80.0
+02cf588d327b4db2b16830ec462a8a7d,off,179,269,5,False,many of the Canadians,0.0,42.857142857142854
+af21d45e509e4336b3b9287cb11e0b1e,off,179,269,6,False,University of Chicago Laboratory Schools,100.0,100.0
+d1d9db4e0c1f443db0f7fb1a0039cd0f,off,179,269,7,False,any member of the Scottish Government,100.0,100.0
+050a050e3c0242718d1df5720cc41e3a,off,179,270,4,False,will eventually decrease,0.0,80.0
+0faf629cc0f64e3481890b4a49b8f379,off,180,270,4,False,Lower Paleolithic,0.0,80.0
+2838038f90654b27804d341880cf44e2,off,180,270,5,False,Parliamentary time,100.0,100.0
+28ecef433a8245c98ee6e4071deba42b,off,180,270,4,False,Vietnam War,100.0,100.0
+5bb87ab42b0647e7bf6272c3027b88a7,off,180,270,12,False,Amazonia: Man and Culture in a Counterfeit Paradise,100.0,100.0
+0faf629cc0f64e3481890b4a49b8f379,on,180,270,4,False,Lower Paleolithic,0.0,80.0
+2838038f90654b27804d341880cf44e2,on,180,270,5,False,Parliamentary time,100.0,100.0
+28ecef433a8245c98ee6e4071deba42b,on,180,270,4,False,Vietnam War,100.0,100.0
+5bb87ab42b0647e7bf6272c3027b88a7,on,180,270,12,False,Amazonia: Man and Culture in a Counterfeit Paradise,100.0,100.0
+9a210e1074d74bdf828e502f87b766af,on,181,270,5,False,MCI Telecommunications,100.0,100.0
+cd67b2a522e84d17abc3fd65e32a4f6a,on,181,270,3,False,distributed computing,100.0,100.0
+e28f4da2cf2f48f58b483c6abefe8eea,on,181,270,8,False,King Charles III of West Francia,0.0,66.66666666666666
+fd4a1df256f74892a24ec2ca051f968e,on,181,270,3,False,symmetric,100.0,100.0
+9a210e1074d74bdf828e502f87b766af,off,181,270,5,False,MCI Telecommunications,100.0,100.0
+cd67b2a522e84d17abc3fd65e32a4f6a,off,181,270,3,False,distributed computing,100.0,100.0
+e28f4da2cf2f48f58b483c6abefe8eea,off,181,270,8,False,King Charles III of West Francia,0.0,66.66666666666666
+fd4a1df256f74892a24ec2ca051f968e,off,181,270,3,False,symmetric,100.0,100.0
+3357710dad0a45988d36bf4132dc32d1,off,182,272,4,False,gilt copper,100.0,100.0
+63b54bd932a04cacbaacf4d65e1c5f11,off,182,272,8,False,Hungarians under Ferenc Deák,100.0,100.0
+af06b8fd480d4181951fa1c70ba2351c,off,182,272,13,False,United Nations Framework Convention on Climate Change (UNFCCC),100.0,100.0
+37be026319ae492ba95c79a3639949a3,off,182,273,5,False,1912,100.0,100.0
+3357710dad0a45988d36bf4132dc32d1,on,182,272,4,False,gilt copper,100.0,100.0
+63b54bd932a04cacbaacf4d65e1c5f11,on,182,272,8,False,Hungarians under Ferenc Deák,100.0,100.0
+af06b8fd480d4181951fa1c70ba2351c,on,182,272,13,False,United Nations Framework Convention on Climate Change (UNFCCC),100.0,100.0
+37be026319ae492ba95c79a3639949a3,on,182,273,5,False,1912,100.0,100.0
+4f796e8c19714f429a0dcaca8a2e03dc,on,183,273,4,False,antigens,100.0,100.0
+76911e1bf7c64214aa9720d44c3c8a57,on,183,273,6,False,Ghazan Khan,100.0,100.0
+d8a1c87178634cdda185651684833523,on,183,273,6,False,the single number 1,0.0,85.71428571428571
+edcc61099fc540c5a18b8edb6a6bbdca,on,183,273,6,False,open forest and grassland,100.0,100.0
+4f796e8c19714f429a0dcaca8a2e03dc,off,183,273,4,False,antigens,100.0,100.0
+76911e1bf7c64214aa9720d44c3c8a57,off,183,273,6,False,Ghazan Khan,100.0,100.0
+d8a1c87178634cdda185651684833523,off,183,273,6,False,the single number 1,0.0,85.71428571428571
+edcc61099fc540c5a18b8edb6a6bbdca,off,183,273,6,False,open forest and grassland,100.0,100.0
+50ac3e9ae34b4fbdbbd0e0123f184115,off,184,274,6,False,1950s,100.0,100.0
+a090d24f4f8242928eb7df676c0836f1,off,184,274,3,False,5 million,100.0,100.0
+32c9a9631a754b218d8dd5081256c4de,off,184,275,8,False,water disturbances created by the cilia,100.0,100.0
+ee565716a6bd4f6f8d916dcda455dfe4,off,184,275,4,False,World War I,100.0,100.0
+50ac3e9ae34b4fbdbbd0e0123f184115,on,184,274,6,False,1950s,100.0,100.0
+a090d24f4f8242928eb7df676c0836f1,on,184,274,3,False,5 million,100.0,100.0
+32c9a9631a754b218d8dd5081256c4de,on,184,275,8,False,water disturbances created by the cilia,100.0,100.0
+ee565716a6bd4f6f8d916dcda455dfe4,on,184,275,4,False,World War I,100.0,100.0
+b12083305a3a4802bcffc01acd572add,on,185,276,9,False,a complete list of primes up to,0.0,85.71428571428571
+d53b762fc0d24285ac7071c219349dbf,on,185,277,5,False,Ohio Company of Virginia,100.0,100.0
+5abb557cc5184a3d940a509bc98c97fe,on,185,278,4,False,God's wrath,100.0,100.0
+62c8c271ab1c4dbb967f3d95595bdeeb,on,185,278,4,False,Natural killer cells,100.0,100.0
+b12083305a3a4802bcffc01acd572add,off,185,276,9,False,a complete list of primes up to,0.0,85.71428571428571
+d53b762fc0d24285ac7071c219349dbf,off,185,277,5,False,Ohio Company of Virginia,100.0,100.0
+5abb557cc5184a3d940a509bc98c97fe,off,185,278,4,False,God's wrath,100.0,100.0
+62c8c271ab1c4dbb967f3d95595bdeeb,off,185,278,4,False,Natural killer cells,100.0,100.0
+9de51d53921d4b3cafd35e81b701c146,off,186,278,4,False,metamorphic,100.0,100.0
+4b8012d3947846b99d819b9b7a676df4,off,186,279,6,False,Raila Odinga,0.0,66.66666666666666
+51abcc99a7a840cdad3f1be519436b21,off,186,279,6,False,$414 million,100.0,100.0
+7c04fe9700d241fb9daec8495967f033,off,186,279,10,False,"destination address, source address, and port numbers",100.0,100.0
+9de51d53921d4b3cafd35e81b701c146,on,186,278,4,False,metamorphic,100.0,100.0
+4b8012d3947846b99d819b9b7a676df4,on,186,279,6,False,Raila Odinga,0.0,66.66666666666666
+51abcc99a7a840cdad3f1be519436b21,on,186,279,6,False,$414 million,100.0,100.0
+7c04fe9700d241fb9daec8495967f033,on,186,279,10,False,"destination address, source address, and port numbers",100.0,100.0
+b0febf838d0841088916b9beb91cb271,on,187,279,7,False,Sunni pan-Islamism,100.0,100.0
+e22f6f35fe9d487ea635d4fad1ec0005,on,187,279,5,False,Party of National Unity,100.0,100.0
+c3b52f222b7a472ea5f0b00f350f9836,on,187,280,5,False,Warsaw Stock Exchange,100.0,100.0
+e37680c034d74e87bf695fd4f0a6ef13,on,187,280,7,False,Vγ9/Vδ2,100.0,100.0
+b0febf838d0841088916b9beb91cb271,off,187,279,7,False,Sunni pan-Islamism,100.0,100.0
+e22f6f35fe9d487ea635d4fad1ec0005,off,187,279,5,False,Party of National Unity,100.0,100.0
+c3b52f222b7a472ea5f0b00f350f9836,off,187,280,5,False,Warsaw Stock Exchange,100.0,100.0
+e37680c034d74e87bf695fd4f0a6ef13,off,187,280,7,False,Vγ9/Vδ2,100.0,100.0
+25e5f2f53cb2400cb8dffd9de2526459,off,188,281,8,False,"$38,000",100.0,100.0
+4413edf58e0a4082ae53d1f06801d1c5,off,188,281,4,False,complete addressing information,100.0,100.0
+6a3181e1f912428cb9979a8139d1af2f,off,188,281,6,False,"3,000",0.0,66.66666666666666
+7e94e4ee1ba34cb6ba6d38dda7919c18,off,188,281,15,False,"1,986 m (6,516 ft)",0.0,66.66666666666666
+25e5f2f53cb2400cb8dffd9de2526459,on,188,281,8,False,"$38,000",100.0,100.0
+4413edf58e0a4082ae53d1f06801d1c5,on,188,281,4,False,complete addressing information,100.0,100.0
+6a3181e1f912428cb9979a8139d1af2f,on,188,281,6,False,"3,000",0.0,66.66666666666666
+7e94e4ee1ba34cb6ba6d38dda7919c18,on,188,281,15,False,"1,986 m (6,516 ft)",0.0,66.66666666666666
+1dbb7960f5fc40bfa488336e0fce3bff,on,189,282,6,False,BBC Radiophonic Workshop,100.0,100.0
+207aff0045e04402bf87c57668c00a5d,on,189,282,6,False,Mediterranean geography,100.0,100.0
+54067300e0a34b588135841e9e37ed0d,on,189,283,19,False,to continue to cut production in five percent monthly increments until their economic and political objectives were met,0.0,61.53846153846154
+afa4aef872e54a1aa756fa611892ec94,on,189,283,4,False,Northern United Kingdom,100.0,100.0
+1dbb7960f5fc40bfa488336e0fce3bff,off,189,282,6,False,BBC Radiophonic Workshop,100.0,100.0
+207aff0045e04402bf87c57668c00a5d,off,189,282,6,False,Mediterranean geography,100.0,100.0
+54067300e0a34b588135841e9e37ed0d,off,189,283,19,False,to continue to cut production in five percent monthly increments until their economic and political objectives were met,0.0,61.53846153846154
+afa4aef872e54a1aa756fa611892ec94,off,189,283,4,False,Northern United Kingdom,100.0,100.0
+b3c9a90bd8d34bc0a44d10634b23bafa,off,190,283,10,False,the mouth of the Monongahela River,100.0,100.0
+7887d4a3aab845b497e71e44ca2d1dd4,off,190,285,3,False,88,100.0,100.0
+865e83c9d84a4958bd76acc05d1d349d,off,190,285,3,False,Jurassic,0.0,66.66666666666666
+a515f4a909f04d9ba4d12365ca00cf0d,off,190,285,19,False,38–41 °C (100–106 °F),0.0,66.66666666666666
+b3c9a90bd8d34bc0a44d10634b23bafa,on,190,283,10,False,the mouth of the Monongahela River,100.0,100.0
+7887d4a3aab845b497e71e44ca2d1dd4,on,190,285,3,False,88,100.0,100.0
+865e83c9d84a4958bd76acc05d1d349d,on,190,285,3,False,Jurassic,0.0,66.66666666666666
+a515f4a909f04d9ba4d12365ca00cf0d,on,190,285,19,False,38–41 °C (100–106 °F),0.0,66.66666666666666
+b3ede92036e748558a75c0260119171e,on,191,285,4,False,expendable,0.0,40.0
+55cd4f344f6d45478be7b5b72f2db538,on,191,286,9,False,"around 28,000",0.0,66.66666666666666
+6dd337cb2ef945caa743ab53eb30d5ff,on,191,286,5,False,American aid to Israel,100.0,100.0
+49c0fc344cb24b39bd0164c270110fc5,on,191,287,4,False,gravitational force,100.0,100.0
+b3ede92036e748558a75c0260119171e,off,191,285,4,False,expendable,0.0,40.0
+55cd4f344f6d45478be7b5b72f2db538,off,191,286,9,False,"around 28,000",0.0,66.66666666666666
+6dd337cb2ef945caa743ab53eb30d5ff,off,191,286,5,False,American aid to Israel,100.0,100.0
+49c0fc344cb24b39bd0164c270110fc5,off,191,287,4,False,gravitational force,100.0,100.0
+49dd5bd050ce4757b2218d87a3f2ffd5,off,192,287,3,False,three-dimensional,100.0,100.0
+856cd449bafe427aba5af92dfb4c7bf5,off,192,287,4,False,independent components,100.0,100.0
+bbab6941aef942878f0eb0dd04b64c9f,off,192,287,7,False,September 2007,100.0,100.0
+0bcf74737414429eaa0c83f142857415,off,192,288,5,False,3.07,100.0,100.0
+49dd5bd050ce4757b2218d87a3f2ffd5,on,192,287,3,False,three-dimensional,100.0,100.0
+856cd449bafe427aba5af92dfb4c7bf5,on,192,287,4,False,independent components,100.0,100.0
+bbab6941aef942878f0eb0dd04b64c9f,on,192,287,7,False,September 2007,100.0,100.0
+0bcf74737414429eaa0c83f142857415,on,192,288,5,False,3.07,100.0,100.0
+2028b1f5b27e4085a4e84dcdde2a34ef,on,193,288,4,False,Ögedei,100.0,100.0
+326fb179f93b4dd2819e2345c6e8cd02,on,193,288,7,False,March 2003,100.0,100.0
+a981d2bb71e240c59f0c9c07b98dc1a4,on,193,288,2,False,global,100.0,100.0
+2f42c67e4de14b41ae67c897eeff7a4d,on,193,289,3,False,11,100.0,100.0
+2028b1f5b27e4085a4e84dcdde2a34ef,off,193,288,4,False,Ögedei,100.0,100.0
+326fb179f93b4dd2819e2345c6e8cd02,off,193,288,7,False,March 2003,100.0,100.0
+a981d2bb71e240c59f0c9c07b98dc1a4,off,193,288,2,False,global,100.0,100.0
+2f42c67e4de14b41ae67c897eeff7a4d,off,193,289,3,False,11,100.0,100.0
+6b6f52dcc0024fb9987a66642b39dc4f,off,194,289,4,False,a political focus,100.0,100.0
+b229131d3a2643799e19cd5b698178cf,off,194,289,6,False,Sheldon & Mortlake,0.0,0.0
+1880c639517e439cacd744368833a941,off,194,291,5,False,where water is costly,100.0,100.0
+d899a69848944c019c5416ee12758d67,off,194,291,3,False,80,100.0,100.0
+6b6f52dcc0024fb9987a66642b39dc4f,on,194,289,4,False,a political focus,100.0,100.0
+b229131d3a2643799e19cd5b698178cf,on,194,289,6,False,Sheldon & Mortlake,0.0,0.0
+1880c639517e439cacd744368833a941,on,194,291,5,False,where water is costly,100.0,100.0
+d899a69848944c019c5416ee12758d67,on,194,291,3,False,80,100.0,100.0
+3e68824118234802a524352d68f847a2,on,195,292,5,False,Mainichi Broadcasting System,100.0,100.0
+59a5d5ebe9aa4d78a053636b81733a52,on,195,292,5,False,Newton's First Law,0.0,0.0
+4482c223650749a3b19d444c8937eba9,on,195,293,3,False,Beirut,100.0,100.0
+dbca08bf96a646458b86fba99e79f2b6,on,195,293,5,False,European Court of Justice,0.0,0.0
+3e68824118234802a524352d68f847a2,off,195,292,5,False,Mainichi Broadcasting System,100.0,100.0
+59a5d5ebe9aa4d78a053636b81733a52,off,195,292,5,False,Newton's First Law,0.0,0.0
+4482c223650749a3b19d444c8937eba9,off,195,293,3,False,Beirut,100.0,100.0
+dbca08bf96a646458b86fba99e79f2b6,off,195,293,5,False,European Court of Justice,0.0,0.0
+46da983de7094492bb16dc08c3e79c50,off,196,294,7,False,heterokontophyte,100.0,100.0
+790a84f7014f4562b07061060d4abeac,off,196,294,9,False,the amount of environmental degradation would be lower,0.0,44.44444444444444
+ad033dbfc1974f5585839091ab6a931c,off,196,294,11,False,120 m (390 ft),0.0,66.66666666666666
+b0b23568a34149ec81d11dcecbfba060,off,196,294,3,False,expulsion,100.0,100.0
+46da983de7094492bb16dc08c3e79c50,on,196,294,7,False,heterokontophyte,100.0,100.0
+790a84f7014f4562b07061060d4abeac,on,196,294,9,False,the amount of environmental degradation would be lower,0.0,44.44444444444444
+ad033dbfc1974f5585839091ab6a931c,on,196,294,11,False,120 m (390 ft),0.0,66.66666666666666
+b0b23568a34149ec81d11dcecbfba060,on,196,294,3,False,expulsion,100.0,100.0
+adaece3474664772bc5ba64932552457,on,197,295,5,False,high levels of inequality,100.0,100.0
+ae9c1325bc404c4695f449eeec45a437,on,197,295,5,False,3.5 million,100.0,100.0
+0d96a328f50e4b79bb663eca901231b3,on,197,296,3,False,vector quantities,100.0,100.0
+6903c5051f2c4cf095e15ae86a291bfe,on,197,296,2,False,Thursday,100.0,100.0
+adaece3474664772bc5ba64932552457,off,197,295,5,False,high levels of inequality,100.0,100.0
+ae9c1325bc404c4695f449eeec45a437,off,197,295,5,False,3.5 million,100.0,100.0
+0d96a328f50e4b79bb663eca901231b3,off,197,296,3,False,vector quantities,100.0,100.0
+6903c5051f2c4cf095e15ae86a291bfe,off,197,296,2,False,Thursday,100.0,100.0
+37bab4d2b07348a1a4b62a341c2b73f6,off,198,297,9,False,the eggs and sperm mature at different times,100.0,100.0
+69a50179e42a4d42b918f740ed77cd8f,off,198,297,3,False,Youngstown,100.0,100.0
+50329a578a194c02b2c528564f9b3538,off,198,298,6,False,$155 million,100.0,100.0
+a76a0f6ae83140b2a7f1d8e1c1cbddc9,off,198,298,3,False,Yale,100.0,100.0
+37bab4d2b07348a1a4b62a341c2b73f6,on,198,297,9,False,the eggs and sperm mature at different times,100.0,100.0
+69a50179e42a4d42b918f740ed77cd8f,on,198,297,3,False,Youngstown,100.0,100.0
+50329a578a194c02b2c528564f9b3538,on,198,298,6,False,$155 million,100.0,100.0
+a76a0f6ae83140b2a7f1d8e1c1cbddc9,on,198,298,3,False,Yale,100.0,100.0
+b698405bb51f4cf1b6036474fde14ad9,on,199,298,11,False,know both the magnitude and the direction of both forces,0.0,50.0
+c99407bcf0c84c6ba33db61bc5c09400,on,199,298,2,False,five,100.0,100.0
+cc3010e3eb824293a25dffbdd6cc4fb0,on,199,299,3,False,Directives,100.0,100.0
+032b43b2dcbd46a4bfb3bec61b569428,on,199,300,6,False,LoyalKaspar,100.0,100.0
+b698405bb51f4cf1b6036474fde14ad9,off,199,298,11,False,know both the magnitude and the direction of both forces,0.0,50.0
+c99407bcf0c84c6ba33db61bc5c09400,off,199,298,2,False,five,100.0,100.0
+cc3010e3eb824293a25dffbdd6cc4fb0,off,199,299,3,False,Directives,100.0,100.0
+032b43b2dcbd46a4bfb3bec61b569428,off,199,300,6,False,LoyalKaspar,100.0,100.0
+0a58455296b648c590c2bef7a2a8ffc4,off,200,301,10,False,hermaphroditism and early reproduction,100.0,100.0
+25a46c1e9ea94d15ae3199e081a69d67,off,200,301,7,False,5 to 15 years,100.0,100.0
+6c8e67bbcd1f445989284ea57324bef2,off,200,302,4,False,A69,100.0,100.0
+a5311b336b6845b5a34afc5fba4889b7,off,200,303,5,False,1903,100.0,100.0
+0a58455296b648c590c2bef7a2a8ffc4,on,200,301,10,False,hermaphroditism and early reproduction,100.0,100.0
+25a46c1e9ea94d15ae3199e081a69d67,on,200,301,7,False,5 to 15 years,100.0,100.0
+6c8e67bbcd1f445989284ea57324bef2,on,200,302,4,False,A69,100.0,100.0
+a5311b336b6845b5a34afc5fba4889b7,on,200,303,5,False,1903,100.0,100.0
+8850ede230644ff48c7e09742b641cf4,on,201,304,5,False,Olympic class,100.0,100.0
+18437f82e443412383905013b3c47dbf,on,201,305,4,False,Great North Road,100.0,100.0
+ebf27aa6e546401d9ba8e7c8944afa9b,on,201,305,5,False,David Sarnoff,100.0,100.0
+d9ee61127c86409fa27b7f9a3e73d9b1,on,201,306,4,False,2% higher,0.0,66.66666666666666
+8850ede230644ff48c7e09742b641cf4,off,201,304,5,False,Olympic class,100.0,100.0
+18437f82e443412383905013b3c47dbf,off,201,305,4,False,Great North Road,100.0,100.0
+ebf27aa6e546401d9ba8e7c8944afa9b,off,201,305,5,False,David Sarnoff,100.0,100.0
+d9ee61127c86409fa27b7f9a3e73d9b1,off,201,306,4,False,2% higher,0.0,66.66666666666666
+f8b71b52a3c2482089a41be488d05531,off,202,306,22,False,"combination of poor management, internal divisions, and effective Canadian scouts, French regular forces, and Indian warrior allies",100.0,100.0
+45bc0a3ad83e4f63a6dc58e749f0394f,off,202,308,8,False,"Dillon, Read & Co.",100.0,100.0
+62f7e75d013f4846829e80ed2438a63f,off,202,308,3,False,alga,100.0,100.0
+aefb615858d148f3aef1aa44cfeef234,off,202,308,4,False,The Dating Game,100.0,100.0
+f8b71b52a3c2482089a41be488d05531,on,202,306,22,False,"combination of poor management, internal divisions, and effective Canadian scouts, French regular forces, and Indian warrior allies",100.0,100.0
+45bc0a3ad83e4f63a6dc58e749f0394f,on,202,308,8,False,"Dillon, Read & Co.",100.0,100.0
+62f7e75d013f4846829e80ed2438a63f,on,202,308,3,False,alga,100.0,100.0
+aefb615858d148f3aef1aa44cfeef234,on,202,308,4,False,The Dating Game,100.0,100.0
+b6425d55574b44f1af4a08f2dfac5e26,on,203,308,4,False,epoxides,100.0,100.0
+c417fa7ae62d449e9a0bf30594d7922f,on,203,308,4,False,organic solvents,0.0,0.0
+38166a16eb054c37a33f0437483a0e51,on,203,309,5,False,French and Indian War,100.0,100.0
+65c7c7c1a7cd4d788674d43960e40244,on,203,309,4,False,Gothic,0.0,66.66666666666666
+b6425d55574b44f1af4a08f2dfac5e26,off,203,308,4,False,epoxides,100.0,100.0
+c417fa7ae62d449e9a0bf30594d7922f,off,203,308,4,False,organic solvents,0.0,0.0
+38166a16eb054c37a33f0437483a0e51,off,203,309,5,False,French and Indian War,100.0,100.0
+65c7c7c1a7cd4d788674d43960e40244,off,203,309,4,False,Gothic,0.0,66.66666666666666
+c94f7330bbf846219c70727f9cc7a497,off,204,310,5,False,2006,100.0,100.0
+a31aca457c3d421799384266d55293e4,off,204,311,2,False,illegal,100.0,100.0
+12a627e32e5f4485b66fcb6e112b8a30,off,204,312,4,False,propaganda,100.0,100.0
+f6d49578980444d6b99c4edb454151df,off,204,313,7,False,the area of present-day Charleston,0.0,28.57142857142857
+c94f7330bbf846219c70727f9cc7a497,on,204,310,5,False,2006,100.0,100.0
+a31aca457c3d421799384266d55293e4,on,204,311,2,False,illegal,100.0,100.0
+12a627e32e5f4485b66fcb6e112b8a30,on,204,312,4,False,propaganda,100.0,100.0
+f6d49578980444d6b99c4edb454151df,on,204,313,7,False,the area of present-day Charleston,0.0,28.57142857142857
+b68a8614010b4d159b28e847792e1cf7,on,205,314,3,False,Australian Government,100.0,100.0
+d6c5f8d80500475b854d91707beeb1be,on,205,314,8,False,spring of 1349,100.0,100.0
+09aaf67a73dd4e17b55e45e798f951a9,on,205,315,3,False,tentacles,100.0,100.0
+c54360d7a0c147ea8d5efe612a3ff5cf,on,205,316,4,False,pharynx,100.0,100.0
+b68a8614010b4d159b28e847792e1cf7,off,205,314,3,False,Australian Government,100.0,100.0
+d6c5f8d80500475b854d91707beeb1be,off,205,314,8,False,spring of 1349,100.0,100.0
+09aaf67a73dd4e17b55e45e798f951a9,off,205,315,3,False,tentacles,100.0,100.0
+c54360d7a0c147ea8d5efe612a3ff5cf,off,205,316,4,False,pharynx,100.0,100.0
+6a289f472f11459b882bf7b6332bf91a,off,206,317,5,False,Julia Butterfly Hill,100.0,100.0
+82fa37a79061418f80443f7da3ffff9c,off,206,317,3,False,sedimentary,100.0,100.0
+7ce82252adf248e2b34ca4752107b940,off,206,319,5,False,the U.S.,100.0,100.0
+e36e461db82a429685e9b93ee76af4d4,off,206,319,13,False,protect the King's land in the Ohio Valley from the British,100.0,100.0
+6a289f472f11459b882bf7b6332bf91a,on,206,317,5,False,Julia Butterfly Hill,100.0,100.0
+82fa37a79061418f80443f7da3ffff9c,on,206,317,3,False,sedimentary,100.0,100.0
+7ce82252adf248e2b34ca4752107b940,on,206,319,5,False,the U.S.,100.0,100.0
+e36e461db82a429685e9b93ee76af4d4,on,206,319,13,False,protect the King's land in the Ohio Valley from the British,100.0,100.0
+eea7570e910f4c3a80dce76454f6741f,on,207,319,13,False,through the port of Marseille around November 1347,100.0,100.0
+e185899ae953415196ef48448e48c5c2,on,207,320,10,False,by the end of 1350,100.0,100.0
+8a376ffb87754e30a9e99569d08c8bac,on,207,321,4,False,hydrophilic,100.0,100.0
+2c8714027bc840b9b0b81a00ec6e4f33,on,207,322,7,False,about a million base pairs long,0.0,57.14285714285714
+eea7570e910f4c3a80dce76454f6741f,off,207,319,13,False,through the port of Marseille around November 1347,100.0,100.0
+e185899ae953415196ef48448e48c5c2,off,207,320,10,False,by the end of 1350,100.0,100.0
+8a376ffb87754e30a9e99569d08c8bac,off,207,321,4,False,hydrophilic,100.0,100.0
+2c8714027bc840b9b0b81a00ec6e4f33,off,207,322,7,False,about a million base pairs long,0.0,57.14285714285714
+3acea38347a0455785a61bd1c321858c,off,208,322,3,False,cilia,100.0,100.0
+08c652b5f5674c1d9babc4bfd9355e73,off,208,323,5,False,epithelium,100.0,100.0
+da43dd05f2d145b9bc81098d7eb9f14b,off,208,323,10,False,Larger drugs (>500 Da),0.0,66.66666666666666
+aa4a74fcd9d24648b0fa8bd376405d2e,off,208,324,6,False,BBC National Orchestra of Wales,100.0,100.0
+3acea38347a0455785a61bd1c321858c,on,208,322,3,False,cilia,100.0,100.0
+08c652b5f5674c1d9babc4bfd9355e73,on,208,323,5,False,epithelium,100.0,100.0
+da43dd05f2d145b9bc81098d7eb9f14b,on,208,323,10,False,Larger drugs (>500 Da),0.0,66.66666666666666
+aa4a74fcd9d24648b0fa8bd376405d2e,on,208,324,6,False,BBC National Orchestra of Wales,100.0,100.0
+ced17f8914844e338751627da27e4736,on,209,324,10,False,14th to 17th centuries,100.0,100.0
+66c72290a2b148b0bd3ff80f64d4076e,on,209,329,6,False,Alexandre Yersin,100.0,100.0
+cb655c8ad1164b48a8c3f382787a2bdd,on,209,329,8,False,Thomas Reid and Dugald Stewart,100.0,100.0
+52836bad37994b3a8d9974ddd87dff20,on,209,330,13,False,between 1.4 and 5.8 °C,100.0,100.0
+ced17f8914844e338751627da27e4736,off,209,324,10,False,14th to 17th centuries,100.0,100.0
+66c72290a2b148b0bd3ff80f64d4076e,off,209,329,6,False,Alexandre Yersin,100.0,100.0
+cb655c8ad1164b48a8c3f382787a2bdd,off,209,329,8,False,Thomas Reid and Dugald Stewart,100.0,100.0
+52836bad37994b3a8d9974ddd87dff20,off,209,330,13,False,between 1.4 and 5.8 °C,100.0,100.0
+59d2e6f82a1247b5ba5d5552b6edb31b,off,210,330,5,False,Milton Friedman Institute,100.0,100.0
+7f7a82e671f040bdb45101cc247c87a1,off,210,331,5,False,ABC Sunday Night Movie,100.0,100.0
+441d7e28c41f4196b76d7e6ae2a3ccf4,off,210,332,2,False,four,100.0,100.0
+4784e373370848ad9c59f39be46083a2,off,210,332,4,False,universities,100.0,100.0
+59d2e6f82a1247b5ba5d5552b6edb31b,on,210,330,5,False,Milton Friedman Institute,100.0,100.0
+7f7a82e671f040bdb45101cc247c87a1,on,210,331,5,False,ABC Sunday Night Movie,100.0,100.0
+441d7e28c41f4196b76d7e6ae2a3ccf4,on,210,332,2,False,four,100.0,100.0
+4784e373370848ad9c59f39be46083a2,on,210,332,4,False,universities,100.0,100.0
+92549dcf5584463aac1fff5176c85896,on,211,332,5,False,2003,100.0,100.0
+61deae567d1c44e3963534bbb7fd6220,on,211,333,8,False,Commission v Edith Cresson,100.0,100.0
+1ab2a94ae54444ac9ba57a4cc3368079,on,211,334,12,False,the mechanism by which Y. pestis was usually transmitted,100.0,100.0
+4c7c097e4af54c00b6baa093091d3305,on,211,334,4,False,almost a million,0.0,80.0
+92549dcf5584463aac1fff5176c85896,off,211,332,5,False,2003,100.0,100.0
+61deae567d1c44e3963534bbb7fd6220,off,211,333,8,False,Commission v Edith Cresson,100.0,100.0
+1ab2a94ae54444ac9ba57a4cc3368079,off,211,334,12,False,the mechanism by which Y. pestis was usually transmitted,100.0,100.0
+4c7c097e4af54c00b6baa093091d3305,off,211,334,4,False,almost a million,0.0,80.0
+8fbc9037ff7a41798be1c592327d36bd,off,212,335,10,False,"more than 70,000",100.0,100.0
+00ae44515ea041a9bfcf322fbffe9b6b,off,212,336,8,False,via the ballast tanks of ships,100.0,100.0
+59b26e19d46e4d5288b7bc1739376ad5,off,212,336,4,False,Leonard Bernstein,100.0,100.0
+7fdc8d304ff04e259b287cbb6aaac7ec,off,212,337,7,False,Fresno Chandler Executive Airport,0.0,0.0
+8fbc9037ff7a41798be1c592327d36bd,on,212,335,10,False,"more than 70,000",100.0,100.0
+00ae44515ea041a9bfcf322fbffe9b6b,on,212,336,8,False,via the ballast tanks of ships,100.0,100.0
+59b26e19d46e4d5288b7bc1739376ad5,on,212,336,4,False,Leonard Bernstein,100.0,100.0
+7fdc8d304ff04e259b287cbb6aaac7ec,on,212,337,7,False,Fresno Chandler Executive Airport,0.0,0.0
+88979df513a546fb8ef11e21bfc842fa,on,213,337,5,False,390 billion,0.0,0.0
+7f81af3b13ca4b17b338dca88f8cf763,on,213,340,2,False,second,100.0,100.0
+47033d3527eb49cda6a4d1f0a8b60f3b,on,213,341,5,False,Ming and Qing,100.0,100.0
+4533d73f38ab41ed9a0e31b6c22f71d5,on,213,342,3,False,European Council,100.0,100.0
+88979df513a546fb8ef11e21bfc842fa,off,213,337,5,False,390 billion,0.0,0.0
+7f81af3b13ca4b17b338dca88f8cf763,off,213,340,2,False,second,100.0,100.0
+47033d3527eb49cda6a4d1f0a8b60f3b,off,213,341,5,False,Ming and Qing,100.0,100.0
+4533d73f38ab41ed9a0e31b6c22f71d5,off,213,342,3,False,European Council,100.0,100.0
+9c72c18e986f446c9418cb6ca63cff71,off,214,343,6,False,Philip Webb and William Morris,100.0,100.0
+8b15b40fd0b0495889d32cbcc3118524,off,214,344,3,False,Catholic,100.0,100.0
+0d238cf5656a40e781fe341aa3a72918,off,214,345,7,False,Jacques Lefevre,100.0,100.0
+4fdbda4425e24950bafac348a470a077,off,214,347,4,False,antiforms,100.0,100.0
+9c72c18e986f446c9418cb6ca63cff71,on,214,343,6,False,Philip Webb and William Morris,100.0,100.0
+8b15b40fd0b0495889d32cbcc3118524,on,214,344,3,False,Catholic,100.0,100.0
+0d238cf5656a40e781fe341aa3a72918,on,214,345,7,False,Jacques Lefevre,100.0,100.0
+4fdbda4425e24950bafac348a470a077,on,214,347,4,False,antiforms,100.0,100.0
+62f6b82678094aa9a2cdf64025f9222d,on,215,347,5,False,523 km,0.0,0.0
+c78d5ccc46ed406d91f4eed20778e1d2,on,215,347,6,False,23.9%,100.0,100.0
+fa2f76f809af490a9dea66aeef44efd8,on,215,347,3,False,Th1,100.0,100.0
+8044b36f133845adb3c42dec6c920d2c,on,215,348,13,False,construction of the $1.2 billion Allston Science Complex,100.0,100.0
+62f6b82678094aa9a2cdf64025f9222d,off,215,347,5,False,523 km,0.0,0.0
+c78d5ccc46ed406d91f4eed20778e1d2,off,215,347,6,False,23.9%,100.0,100.0
+fa2f76f809af490a9dea66aeef44efd8,off,215,347,3,False,Th1,100.0,100.0
+8044b36f133845adb3c42dec6c920d2c,off,215,348,13,False,construction of the $1.2 billion Allston Science Complex,100.0,100.0
+017c2f7657934b35910dc1f9186dc570,off,216,349,8,False,Harris School of Public Policy Studies,100.0,100.0
+b99fbefdddc14ff5aef3ae287e1f5683,off,216,350,5,False,300 km,0.0,66.66666666666666
+d15f5ca97da54403a43981b7f6235df3,off,216,352,3,False,Irish,0.0,0.0
+7ad8d0e703ac4a4c991c7115de783902,off,216,361,41,False,"Jones et al. 1998, Pollack, Huang & Shen 1998, Crowley & Lowery 2000 and Briffa 2000",100.0,100.0
+017c2f7657934b35910dc1f9186dc570,on,216,349,8,False,Harris School of Public Policy Studies,100.0,100.0
+b99fbefdddc14ff5aef3ae287e1f5683,on,216,350,5,False,300 km,0.0,66.66666666666666
+d15f5ca97da54403a43981b7f6235df3,on,216,352,3,False,Irish,0.0,0.0
+7ad8d0e703ac4a4c991c7115de783902,on,216,361,41,False,"Jones et al. 1998, Pollack, Huang & Shen 1998, Crowley & Lowery 2000 and Briffa 2000",100.0,100.0
+a4446e5f820f43df983c12e02935ff13,on,217,361,5,False,1951,100.0,100.0
+bfa90522cd6c4013b88174f5456f6804,on,217,365,6,False,Sheepshanks Gallery,100.0,100.0
+cb16aec0fb08479690b854e2f2da5781,on,217,366,15,False,"Michael E. Mann, Raymond S. Bradley and Malcolm K. Hughes",100.0,100.0
+bdbf70d19c5547d2b30cb75a5fc18e25,on,217,367,3,False,derision,100.0,100.0
+a4446e5f820f43df983c12e02935ff13,off,217,361,5,False,1951,100.0,100.0
+bfa90522cd6c4013b88174f5456f6804,off,217,365,6,False,Sheepshanks Gallery,100.0,100.0
+cb16aec0fb08479690b854e2f2da5781,off,217,366,15,False,"Michael E. Mann, Raymond S. Bradley and Malcolm K. Hughes",100.0,100.0
+bdbf70d19c5547d2b30cb75a5fc18e25,off,217,367,3,False,derision,100.0,100.0
+c7b773b875494ca8b23761796a3dc3a1,off,218,372,7,False,common rules for coal and steel,0.0,92.3076923076923
+d23838ee52f14e98b4116029c7eb0337,off,218,372,5,False,1985,100.0,100.0
+b9ce430c38a547dea36145c7313f6973,off,218,376,8,False,Norway did not end up joining,0.0,80.0
+0818d20ab3a84685b398e474c626f094,off,218,380,5,False,"Graz, Austria",100.0,100.0
+c7b773b875494ca8b23761796a3dc3a1,on,218,372,7,False,common rules for coal and steel,0.0,92.3076923076923
+d23838ee52f14e98b4116029c7eb0337,on,218,372,5,False,1985,100.0,100.0
+b9ce430c38a547dea36145c7313f6973,on,218,376,8,False,Norway did not end up joining,0.0,80.0
+0818d20ab3a84685b398e474c626f094,on,218,380,5,False,"Graz, Austria",100.0,100.0
+656aef2118714127bedb3261ed0e7dca,on,219,381,4,False,352,100.0,100.0
+8c00a63868774318b711e99812122eb4,on,219,391,6,False,all other animal phyla,0.0,57.14285714285714
+fc4757a88f6b4c99aa618cfb51e5f27e,on,219,391,6,False,115 °F,100.0,100.0
+2cdef275aa1748ebb971e29255afe831,on,219,392,5,False,1934,0.0,0.0
+656aef2118714127bedb3261ed0e7dca,off,219,381,4,False,352,100.0,100.0
+8c00a63868774318b711e99812122eb4,off,219,391,6,False,all other animal phyla,0.0,57.14285714285714
+fc4757a88f6b4c99aa618cfb51e5f27e,off,219,391,6,False,115 °F,100.0,100.0
+2cdef275aa1748ebb971e29255afe831,off,219,392,5,False,1934,0.0,0.0
+5d7e14281aad4640bd724961dd0c59db,off,220,392,5,False,2.2 inches,100.0,100.0
+95a26675818f4448b76535d590fded85,off,220,393,10,False,"January 6, 1913",100.0,100.0
+c7afb9f575004b65b99b2f3e46b43162,off,220,393,15,False,Italian Plague of 1629–1631,100.0,100.0
+0052fbd5d20a44e48011062099554510,off,220,398,6,False,3.55 inches,100.0,100.0
+5d7e14281aad4640bd724961dd0c59db,on,220,392,5,False,2.2 inches,100.0,100.0
+95a26675818f4448b76535d590fded85,on,220,393,10,False,"January 6, 1913",100.0,100.0
+c7afb9f575004b65b99b2f3e46b43162,on,220,393,15,False,Italian Plague of 1629–1631,100.0,100.0
+0052fbd5d20a44e48011062099554510,on,220,398,6,False,3.55 inches,100.0,100.0
+f30e10b9cdf145db9054cdc5b3cfa160,on,221,405,7,False,The USSR's invasion of Afghanistan,0.0,66.66666666666666
+6026eba695ee49dd943472a9ee21569e,on,221,406,7,False,November 1979,100.0,100.0
+cad29f7381e449678488bf70b7237e33,on,221,408,3,False,Sports Night,100.0,100.0
+993791670a4b4ca7a3141a1c21391f20,on,221,412,9,False,18 July 2000,100.0,100.0
+f30e10b9cdf145db9054cdc5b3cfa160,off,221,405,7,False,The USSR's invasion of Afghanistan,0.0,66.66666666666666
+6026eba695ee49dd943472a9ee21569e,off,221,406,7,False,November 1979,100.0,100.0
+cad29f7381e449678488bf70b7237e33,off,221,408,3,False,Sports Night,100.0,100.0
+993791670a4b4ca7a3141a1c21391f20,off,221,412,9,False,18 July 2000,100.0,100.0
+c00ca8728ede42a3befe3281a7dfafae,off,222,421,5,False,Richard Harbison,100.0,100.0
+c2fc52af55a24e2eb2ebfec07503e4eb,off,222,426,5,False,1313,100.0,100.0
+52b31b4ecf6d4be98cd2ffdb24a9bebf,off,222,433,9,False,Nikita Khrushchev,100.0,100.0
+aeb7ce370dac4d5f9418120ece171bcf,off,222,447,4,False,100,100.0,100.0
+c00ca8728ede42a3befe3281a7dfafae,on,222,421,5,False,Richard Harbison,100.0,100.0
+c2fc52af55a24e2eb2ebfec07503e4eb,on,222,426,5,False,1313,100.0,100.0
+52b31b4ecf6d4be98cd2ffdb24a9bebf,on,222,433,9,False,Nikita Khrushchev,100.0,100.0
+aeb7ce370dac4d5f9418120ece171bcf,on,222,447,4,False,100,100.0,100.0
+54c95bf0a7294564a8b8714086f065b3,on,223,449,5,False,Lampea,100.0,100.0
+77b5b8d5335e47b383ccba6ef3826d61,on,223,451,3,False,northwest,100.0,100.0
+77394b5368bf4f91803ce0139d8674cd,on,223,452,6,False,"December, January and February",100.0,100.0
+ba350535336547a492b0f52e66de5410,on,223,482,4,False,300,100.0,100.0
+54c95bf0a7294564a8b8714086f065b3,off,223,449,5,False,Lampea,100.0,100.0
+77b5b8d5335e47b383ccba6ef3826d61,off,223,451,3,False,northwest,100.0,100.0
+77394b5368bf4f91803ce0139d8674cd,off,223,452,6,False,"December, January and February",100.0,100.0
+ba350535336547a492b0f52e66de5410,off,223,482,4,False,300,100.0,100.0
+0989f317c7ba4fe8b168a73cbbdb8dec,off,224,493,4,False,capturing prey,100.0,100.0
+2d663e475db94aec9831ae306fa4809f,off,224,500,2,False,stay,100.0,100.0
+7494b0131dd3414f8720993d5aa18b5a,off,224,516,4,False,288,0.0,0.0
+9bf5ec584b934e51ac5a89488357dfb6,off,224,524,22,False,"non-discriminatory, ""justified by imperative requirements in the general interest"" and proportionately applied",0.0,88.0
+0989f317c7ba4fe8b168a73cbbdb8dec,on,224,493,4,False,capturing prey,100.0,100.0
+2d663e475db94aec9831ae306fa4809f,on,224,500,2,False,stay,100.0,100.0
+7494b0131dd3414f8720993d5aa18b5a,on,224,516,4,False,288,0.0,0.0
+9bf5ec584b934e51ac5a89488357dfb6,on,224,524,22,False,"non-discriminatory, ""justified by imperative requirements in the general interest"" and proportionately applied",0.0,88.0
+2126157345de43daa1d0da28e4a50ae4,on,225,526,6,False,Reyners v Belgium,100.0,100.0
+23373e8ef8d649328653d220d2271025,on,225,545,12,False,Abu al-Qasim al-Zahrawi,100.0,100.0
+c8698ca3de184a7c9e6da6f257679d07,on,225,550,7,False,sodium carbonate and potassium carbonate,100.0,100.0
+769c35b260334495b935a64082e48314,on,225,802,4,False,connection-oriented operations,0.0,80.0
+2126157345de43daa1d0da28e4a50ae4,off,225,526,6,False,Reyners v Belgium,100.0,100.0
+23373e8ef8d649328653d220d2271025,off,225,545,12,False,Abu al-Qasim al-Zahrawi,100.0,100.0
+c8698ca3de184a7c9e6da6f257679d07,off,225,550,7,False,sodium carbonate and potassium carbonate,100.0,100.0
+769c35b260334495b935a64082e48314,off,225,802,4,False,connection-oriented operations,0.0,80.0
