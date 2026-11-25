@@ -11,6 +11,8 @@ This repository brings together four project parts. The first three contain comp
 
 ## Checkpoint and quick demo
 
+Open the [unified Colab project demo](https://colab.research.google.com/github/oscarwyx/LLM-generalization/blob/main/project_demo.ipynb) for training, generalization, inference, and the future tiny Transformer section in one notebook. It reads saved results and runs on a CPU runtime. The separate generalization notebook below provides optional live GPU inference.
+
 The [LoRA adapter](training/published/seed17_epoch2/adapter/) is included as ordinary Git files. The fixed Qwen3-0.6B base model (about 1.5 GB) downloads on first GPU inference; its revision is pinned in the [publication manifest](training/published/seed17_epoch2/manifest.json). The archived training checkpoint passes the manifest's file and data checks.
 
 To verify the checkpoint without a GPU or download:
