@@ -6,4 +6,4 @@ During the presentation, show the initial 90-question and validation 810-questio
 
 The live answers may differ slightly across GPUs. The saved table, figures, and confidence intervals remain available in cell 2 even if GPU inference or network loading fails. Do not present one illustrative question as the source of the aggregate result.
 
-This notebook does not train, mount Drive, or regenerate the full 4,860 validation predictions. Its source commit is fixed at `bff11c7de6450bc1b6bd86682764cf621303c0ec`; the published manifest verifies the adapter and 900 test rows. The pinned base model revision is `c1899de289a04d12100db370d81485cdf75e47ca`.
+This notebook does not train, mount Drive, or regenerate the full 4,860 validation predictions. Its source commit is fixed at `29f7c3e2b77f8f51f9e2c24a40afdf385f78158a`; the published manifest verifies the adapter and 900 test rows. The pinned base model revision is `c1899de289a04d12100db370d81485cdf75e47ca`.

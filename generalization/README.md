@@ -9,4 +9,4 @@ This part evaluates the published seed-17, epoch-2 LoRA checkpoint against its Q
 - [`report/generalization_final_section.md`](report/generalization_final_section.md): final English report section.
 - [`presentation/`](presentation/demo_runbook.md): demo runbook and Overleaf source with both result figures.
 
-The adapter and fixed 900-question test set live in [`../training/published/seed17_epoch2/`](../training/published/seed17_epoch2/). The experiment notebooks pin the original training repository commit; they do not retrain the model. The demo notebook pins this repository's archived pre-reorganization commit until its paths are updated in the next commit.
+The adapter and fixed 900-question test set live in [`../training/published/seed17_epoch2/`](../training/published/seed17_epoch2/). The experiment notebooks pin the original training repository commit; they do not retrain the model. The demo notebook pins the combined repository's reorganized source commit and does not regenerate the full validation set.
