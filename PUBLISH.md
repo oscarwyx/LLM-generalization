@@ -1,15 +1,16 @@
-# Publish this local repository
+# Published repository
 
-This folder is a Git repository with the original group history and a separate commit for the generalization work. The original group remote is named `upstream`; there is deliberately no `origin` remote, to avoid pushing into the group repository by accident.
+This repository is published at <https://github.com/oscarwyx/LLM-generalization>.
 
-1. On your own GitHub account, create an **empty** repository named `LLM-generalization`. Do not initialize it with a README, license, or `.gitignore`.
-2. In this folder, run:
+`origin` points to this repository. `upstream` points to the original group training repository at <https://github.com/sunweiyi2026-ship-it/LLM-project>. The original training commit and its history are preserved; the generalization work is a later commit.
+
+To get an independent copy and verify the packaged predictions:
 
 ```bash
-git remote add origin https://github.com/YOUR_USERNAME/LLM-generalization.git
-git push -u origin main
+git clone https://github.com/oscarwyx/LLM-generalization.git
+cd LLM-generalization/submission/generalization_repro
+shasum -a 256 -c SHA256SUMS
+python reproduce.py
 ```
 
-3. Open `https://github.com/YOUR_USERNAME/LLM-generalization` and confirm `submission/generalization_repro/`, `notebooks/generalization_810_prepend.ipynb`, and `published/seed17_epoch2/adapter/adapter_model.safetensors` are visible. Then send that repository URL to your group.
-
-The adapter is about 20 MB, below GitHub's 100 MB single-file limit. The full base model is downloaded from the pinned public revision and is not stored in this repository.
+The 20 MB LoRA adapter is tracked in `published/seed17_epoch2/adapter/`. The approximately 1.5 GB Qwen3-0.6B base model is downloaded from the revision pinned in `published/seed17_epoch2/manifest.json` when running inference.
