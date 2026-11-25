@@ -12,6 +12,7 @@ On 810 held-out questions from the same 45 SQuAD articles, prepending approximat
 - [Final report section](submission/report/generalization_final_section.md): research question, design, statistical results, error audit, and limitations.
 - [Generalization notebooks](notebooks/): original 90-question study and 810-question validation. They pin the original group commit and reuse the published checkpoint; neither retrains the model.
 - [Presentation source](submission/presentation/overleaf/main.tex): includes both experiment figures and speaker notes.
+- [Colab presentation demo](notebooks/generalization_presentation_demo.ipynb): shows saved results and runs one fixed live Base-versus-LoRA example without retraining. Follow the [demo runbook](submission/presentation/demo_runbook.md).
 - [Published checkpoint](published/seed17_epoch2/adapter/): the 20 MB LoRA adapter is tracked in Git. The pinned Qwen3-0.6B base model (approximately 1.5 GB) is downloaded on first inference. See [manifest.json](published/seed17_epoch2/manifest.json) for its revision and file hashes.
 
 ## Training environment
