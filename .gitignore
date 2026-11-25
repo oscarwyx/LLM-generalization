@@ -19,3 +19,8 @@ venv/
 *.log
 
 .DS_Store
+
+/training/cache/
+/training/data/raw/
+/training/data/prepared/
+/training/runs/

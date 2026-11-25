@@ -12,9 +12,11 @@ jobs:
           python-version: '3.12'
       - name: Run standard-library unit tests
         run: python -m unittest discover -s tests -v
+        working-directory: training
         env:
           PYTHONPATH: src
       - name: Verify published weights, data and configuration
         run: python -m genqa pretrained --verify-only
+        working-directory: training
         env:
           PYTHONPATH: src

@@ -2,6 +2,6 @@
 *.png binary
 *.jpg binary
 *.safetensors binary
-/published/** -text
+/training/published/** -text
 
-/submission/generalization_repro/** -text
+/generalization/repro/** -text

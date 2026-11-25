@@ -12,4 +12,4 @@ The benchmark uses the same seed-17, epoch-2 LoRA publication as this repository
 
 The imported notebook's KV-cache conclusion originally contained stale numbers: 2.11 to 2.77 questions/s, 32%, and 159.60 MiB. This combined repository changes only that explanatory paragraph to match the archived CSV; the source commit remains recoverable in Git history.
 
-For a live presentation, display the saved figures and run the short [`generalization_presentation_demo.ipynb`](../notebooks/generalization_presentation_demo.ipynb) example. Running all inference benchmark cells would regenerate thousands of answers and take substantially longer than the talk.
+For a live presentation, display the saved figures and run the short [`generalization_presentation_demo.ipynb`](../generalization/notebooks/generalization_presentation_demo.ipynb) example. Running all inference benchmark cells would regenerate thousands of answers and take substantially longer than the talk.

@@ -8,9 +8,9 @@ To get an independent copy and verify the packaged predictions:
 
 ```bash
 git clone https://github.com/oscarwyx/LLM-generalization.git
-cd LLM-generalization/submission/generalization_repro
+cd LLM-generalization/generalization/repro
 shasum -a 256 -c SHA256SUMS
 python reproduce.py
 ```
 
-The 20 MB LoRA adapter is tracked in `published/seed17_epoch2/adapter/`. The approximately 1.5 GB Qwen3-0.6B base model is downloaded from the revision pinned in `published/seed17_epoch2/manifest.json` when running inference.
+The 20 MB LoRA adapter is tracked in `training/published/seed17_epoch2/adapter/`. The approximately 1.5 GB Qwen3-0.6B base model is downloaded from the revision pinned in `training/published/seed17_epoch2/manifest.json` when running inference.
